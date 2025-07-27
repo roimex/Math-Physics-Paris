@@ -4,5 +4,65 @@
   },
   "about.qmd": {
     "about.html": "6406529d"
+  },
+  "meetings/mp_paris.qmd": {
+    "mp_paris.html": "ed4195bc"
+  },
+  "notes.qmd": {
+    "notes.html": "add9017b"
+  },
+  "meetings/mar-15-2025.qmd": {
+    "mar-15-2025.html": "e66b31dd"
+  },
+  "meetings/apr-22-2025.qmd": {
+    "apr-22-2025.html": "3f0a7b5c"
+  },
+  "meetings/mar-22-2025.qmd": {
+    "mar-22-2025.html": "95d45054"
+  },
+  "meetings/jul-12-2025.qmd": {
+    "jul-12-2025.html": "e21182ae"
+  },
+  "meetings/mar-16-2025.qmd": {
+    "mar-16-2025.html": "439ff47b"
+  },
+  "meetings/mar-29-2025.qmd": {
+    "mar-29-2025.html": "910e1f07"
+  },
+  "meetings/apr-06-2025.qmd": {
+    "apr-06-2025.html": "6091329c"
+  },
+  "meetings/jun-07-2025.qmd": {
+    "jun-07-2025.html": "e1b2075c"
+  },
+  "meetings/jul-20-2025.qmd": {
+    "jul-20-2025.html": "4ccd5887"
+  },
+  "meetings/may-06-2025.qmd": {
+    "may-06-2025.html": "95bdf5a9"
+  },
+  "meetings/may-10-2025.qmd": {
+    "may-10-2025.html": "fd538215"
+  },
+  "meetings/jun-15-2025.qmd": {
+    "jun-15-2025.html": "c0d5d001"
+  },
+  "meetings/may-24-2025.qmd": {
+    "may-24-2025.html": "b831926b"
+  },
+  "meetings/may-17-2025.qmd": {
+    "may-17-2025.html": "3a4d74f0"
+  },
+  "meetings/apr-12-2025.qmd": {
+    "apr-12-2025.html": "3b5328dc"
+  },
+  "meetings/apr-13-2025.qmd": {
+    "apr-13-2025.html": "00000863"
+  },
+  "meetings/apr-19-2025.qmd": {
+    "apr-19-2025.html": "75298430"
+  },
+  "meetings/apr-05-2025.qmd": {
+    "apr-05-2025.html": "36b60fcc"
   }
 }

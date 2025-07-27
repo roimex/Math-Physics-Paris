@@ -1,0 +1,23 @@
+---
+title: "Apr 05, 2025"
+---
+
+## Speaker
+Yiming Teng
+
+### Theme
+'t Hooft Anomaly
+
+### Abstract
+
+### Video  
+[Video 2025-04-05](https://drive.google.com/file/d/1ahl9LnPCWFKcP7pEH9Nnvsl5Gc7onOX8/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+[数学物理讨论班讲义 (滕一鸣)](https://drive.google.com/file/d/1ILs-sk0sPdQKirTcmDtoZp637sZZAxMQ/view?usp=sharing)  
+[Characteristic Forms and Geometric Invariants (Shiing-Shen Chern, James Simons)](https://drive.google.com/file/d/1OvtQS1ZTzobYTcVuan9WTB4SSzY8iIkp/view?usp=sharing)  
+[Topological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)](https://drive.google.com/file/d/1vegXLF9qCoOM4RBap56j9Zi8PIMKulE3/view?usp=sharing)  
+[Symmetry Protected Topological Orders and the Group Cohomology of their Symmetry Group (Xie Chen, Zheng-Cheng Gu, Zheng-Xin Liu, and Xiao-Gang Wen)](https://drive.google.com/file/d/120WCXLRHYulDZVHwdFH0nLM2R-x0jhli/view?usp=sharing)

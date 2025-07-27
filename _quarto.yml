@@ -7,9 +7,9 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: notes.qmd
         text: Lecture Notes
-      - href: mp_paris.qmd
+      - href: meetings/mp_paris.qmd
         text: Meetings
 
 format:

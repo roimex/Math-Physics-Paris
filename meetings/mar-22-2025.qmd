@@ -1,0 +1,35 @@
+---
+title: "Mar 22, 2025"
+---
+
+## Speaker 1
+
+Yiming Teng
+
+### Theme
+Basic concepts of higher-form symmetries
+
+### Video
+[Video(1) 2025-03-22](https://drive.google.com/file/d/1kHbiY7xXptit17MN3WMzLbDWDaC4lLqj/view?usp=sharing)
+
+### Notes  
+[Notes(1) 2025-03-22](https://drive.google.com/file/d/13HAZXNuBrJy33HAlWVd3Y8Tr-m7YGm8Q/view?usp=sharing)
+
+### Resources
+[杂七杂八的凝聚态理论(滕一鸣)](https://drive.google.com/file/d/1daoq_QLvTljh4vANfcM4TPVELCH2bpOm/view?usp=sharing)
+
+## Speaker 2
+
+Yiyi Wan
+
+### Theme
+Yang-Mills Theory
+
+### Video  
+[Video(2) 2025-03-22](https://drive.google.com/file/d/1y-zqdxTSmqnw5bxVLrI9oQz_lB9vXne1/view?usp=sharing)
+
+### Notes  
+[Notes(2) 2025-03-22](https://drive.google.com/file/d/1wEcvsDoAHdqX9718N6HAZHhhF-nm0U3s/view?usp=sharing)
+
+### Resources
+[Principal Bundles: the Classical Case (Stephen Bruce Sontz)](https://drive.google.com/file/d/1UOlsM980IZQthlPzTB7CtETQEYmRb6P0/view?usp=sharing)
