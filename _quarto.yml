@@ -4,7 +4,7 @@ project:
 website:
   title: "Math-Physics Paris"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
