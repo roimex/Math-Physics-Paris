@@ -4,10 +4,13 @@ project:
 website:
   title: "Math-Physics Paris"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Lecture Notes
+      - href: mp_paris.qmd
+        text: Meetings
 
 format:
   html:
@@ -17,6 +20,7 @@ format:
     css: styles.css
     toc: true
     include-after-body: _include/comments.html
+
 
 
 
