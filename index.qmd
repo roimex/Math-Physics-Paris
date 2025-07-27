@@ -1,0 +1,5 @@
+---
+title: "Math-Physics Paris"
+---
+
+Supervised by Juven Wang, the Math-Physics Paris Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the [2024 IHES Summer School](https://indico.math.cnrs.fr/event/11080/).
