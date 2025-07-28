@@ -11,91 +11,147 @@
     "href": "meetings/mar-15-2025.html",
     "title": "Mar 15, 2025",
     "section": "",
-    "text": "Ran Luo\n\n\nAxiomatic construction of TQFT\n\n\n\n\n\n\nVideo 2025-03-15\n\n\n\nNotes 2025-03-15\n\n\n\n/"
+    "text": "Ran Luo\n\n\nAxiomatic construction of TQFT\n\n\n\nIn this session, we began by exploring the boundaries in topological quantum field theory (TQFT), followed by a review of the notion of quantum anomalies and their implications. We then discussed how invariants can be described in a more axiomatic framework. The session continued with an investigation into boundary invariants and spin structures.\n\n\n\nVideo 2025-03-15\n\n\n\nNotes 2025-03-15\n\n\n\n/"
   },
   {
     "objectID": "meetings/mar-15-2025.html#speaker",
     "href": "meetings/mar-15-2025.html#speaker",
     "title": "Mar 15, 2025",
     "section": "",
-    "text": "Ran Luo\n\n\nAxiomatic construction of TQFT\n\n\n\n\n\n\nVideo 2025-03-15\n\n\n\nNotes 2025-03-15\n\n\n\n/"
+    "text": "Ran Luo\n\n\nAxiomatic construction of TQFT\n\n\n\nIn this session, we began by exploring the boundaries in topological quantum field theory (TQFT), followed by a review of the notion of quantum anomalies and their implications. We then discussed how invariants can be described in a more axiomatic framework. The session continued with an investigation into boundary invariants and spin structures.\n\n\n\nVideo 2025-03-15\n\n\n\nNotes 2025-03-15\n\n\n\n/"
   },
   {
-    "objectID": "meetings/apr-13-2025.html",
-    "href": "meetings/apr-13-2025.html",
-    "title": "Apr 13, 2025",
+    "objectID": "meetings/jun-07-2025.html",
+    "href": "meetings/jun-07-2025.html",
+    "title": "Jun 07, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov conditions\n\n\n\n\n\n\nVideo 2025-04-13\n\n\n\nNotes 2025-04-13\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and 3(E8)1 Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
+    "text": "Ran Luo\n\n\nSymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
   },
   {
-    "objectID": "meetings/apr-13-2025.html#speaker",
-    "href": "meetings/apr-13-2025.html#speaker",
-    "title": "Apr 13, 2025",
+    "objectID": "meetings/jun-07-2025.html#speaker",
+    "href": "meetings/jun-07-2025.html#speaker",
+    "title": "Jun 07, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov conditions\n\n\n\n\n\n\nVideo 2025-04-13\n\n\n\nNotes 2025-04-13\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and 3(E8)1 Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
+    "text": "Ran Luo\n\n\nSymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
   },
   {
-    "objectID": "meetings/apr-06-2025.html",
-    "href": "meetings/apr-06-2025.html",
-    "title": "Apr 06, 2025",
+    "objectID": "meetings/mar-22-2025.html",
+    "href": "meetings/mar-22-2025.html",
+    "title": "Mar 22, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n\n\n\n/\n\n\n\n/\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+    "text": "Yiming Teng\n\n\nBasic concepts of higher-form symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)"
   },
   {
-    "objectID": "meetings/apr-06-2025.html#speaker",
-    "href": "meetings/apr-06-2025.html#speaker",
-    "title": "Apr 06, 2025",
+    "objectID": "meetings/mar-22-2025.html#speaker-1",
+    "href": "meetings/mar-22-2025.html#speaker-1",
+    "title": "Mar 22, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n\n\n\n/\n\n\n\n/\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+    "text": "Yiming Teng\n\n\nBasic concepts of higher-form symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)"
   },
   {
-    "objectID": "meetings/apr-05-2025.html",
-    "href": "meetings/apr-05-2025.html",
-    "title": "Apr 05, 2025",
-    "section": "",
-    "text": "Yiming Teng\n\n\n’t Hooft Anomaly\n\n\n\n\n\n\nVideo 2025-04-05\n\n\n\n/\n\n\n\n数学物理讨论班讲义 (滕一鸣)\nCharacteristic Forms and Geometric Invariants (Shiing-Shen Chern, James Simons)\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nSymmetry Protected Topological Orders and the Group Cohomology of their Symmetry Group (Xie Chen, Zheng-Cheng Gu, Zheng-Xin Liu, and Xiao-Gang Wen)"
+    "objectID": "meetings/mar-22-2025.html#speaker-2",
+    "href": "meetings/mar-22-2025.html#speaker-2",
+    "title": "Mar 22, 2025",
+    "section": "Speaker 2",
+    "text": "Speaker 2\nYiyi Wan\n\nTheme\nYang-Mills Theory\n\n\nAbstract\nWe began with the foundational definitions of principal bundles and explored the associated notions of connection and curvature. Building on this framework, we introduced the Yang–Mills action within the context of gauge theory and discussed its physical and mathematical significance.\n\n\nVideo\nVideo(2) 2025-03-22\n\n\nNotes\nNotes(2) 2025-03-22\n\n\nResources\nPrincipal Bundles: the Classical Case (Stephen Bruce Sontz)"
   },
   {
-    "objectID": "meetings/apr-05-2025.html#speaker",
-    "href": "meetings/apr-05-2025.html#speaker",
-    "title": "Apr 05, 2025",
+    "objectID": "meetings/mp_paris.html",
+    "href": "meetings/mp_paris.html",
+    "title": "Meetings",
     "section": "",
-    "text": "Yiming Teng\n\n\n’t Hooft Anomaly\n\n\n\n\n\n\nVideo 2025-04-05\n\n\n\n/\n\n\n\n数学物理讨论班讲义 (滕一鸣)\nCharacteristic Forms and Geometric Invariants (Shiing-Shen Chern, James Simons)\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nSymmetry Protected Topological Orders and the Group Cohomology of their Symmetry Group (Xie Chen, Zheng-Cheng Gu, Zheng-Xin Liu, and Xiao-Gang Wen)"
+    "text": "Mar 15, 2025\n\nMar 16, 2025\n\nMar 22, 2025\n\nMar 29, 2025\n\nApr 05, 2025\n\nApr 06, 2025\n\nApr 12, 2025\n\nApr 13, 2025\n\nApr 19, 2025\nApr 22, 2025\n\nMay 06, 2025\n\nMay 10, 2025\n\nMay 17, 2025\n\nMay 24, 2025\n\nJun 07, 2025\n\nJun 15, 2025\n\nJul 12, 2025\n\nJul 20, 2025\nJul 26, 2025"
   },
   {
-    "objectID": "meetings/mar-29-2025.html",
-    "href": "meetings/mar-29-2025.html",
-    "title": "Mar 29, 2025",
+    "objectID": "meetings/mar-16-2025.html",
+    "href": "meetings/mar-16-2025.html",
+    "title": "Mar 16, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
+    "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
   },
   {
-    "objectID": "meetings/mar-29-2025.html#speaker",
-    "href": "meetings/mar-29-2025.html#speaker",
-    "title": "Mar 29, 2025",
+    "objectID": "meetings/mar-16-2025.html#speaker",
+    "href": "meetings/mar-16-2025.html#speaker",
+    "title": "Mar 16, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
+    "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Lecture Notes",
+    "objectID": "meetings/apr-19-2025.html",
+    "href": "meetings/apr-19-2025.html",
+    "title": "Apr 19, 2025",
     "section": "",
-    "text": "Waiting to be filled…"
+    "text": "Xianfeng Jiang\n\n\nChern-Weil Theorem\n\n\n\nWe began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural \\(\\mathbb{Z}_2\\)-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the \\(\\mathbb{Z}_2\\)-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/apr-19-2025.html#speaker-1",
+    "href": "meetings/apr-19-2025.html#speaker-1",
+    "title": "Apr 19, 2025",
+    "section": "",
+    "text": "Xianfeng Jiang\n\n\nChern-Weil Theorem\n\n\n\nWe began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural \\(\\mathbb{Z}_2\\)-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the \\(\\mathbb{Z}_2\\)-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/apr-19-2025.html#speaker-2",
+    "href": "meetings/apr-19-2025.html#speaker-2",
+    "title": "Apr 19, 2025",
+    "section": "Speaker 2",
+    "text": "Speaker 2\nYiyi Wan\n\nTheme\nCharacteristic classes and Atiyah-Singer Index Theorem\n\n\nAbstract\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\nVideo\nVideo 2025-04-19\n\n\nNotes\nNotes 2025-04-19\n\n\nResources\n/"
+  },
+  {
+    "objectID": "meetings/may-06-2025.html",
+    "href": "meetings/may-06-2025.html",
+    "title": "May 06, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\nWess-Zumino condition\n\n\n\nWe began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.\n\n\n\nVideo 2025-05-06\n\n\n\nNotes 2025-05-06\n\n\n\nThe Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)"
+  },
+  {
+    "objectID": "meetings/may-06-2025.html#speaker",
+    "href": "meetings/may-06-2025.html#speaker",
+    "title": "May 06, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\nWess-Zumino condition\n\n\n\nWe began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.\n\n\n\nVideo 2025-05-06\n\n\n\nNotes 2025-05-06\n\n\n\nThe Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)"
+  },
+  {
+    "objectID": "meetings/apr-22-2025.html",
+    "href": "meetings/apr-22-2025.html",
+    "title": "Apr 22, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nAtiyah-Singer Index Theorem\n\n\n\nVideo 2025-04-22\n\n\n\n/\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nwk6_modular_invariance"
+  },
+  {
+    "objectID": "meetings/apr-22-2025.html#speaker",
+    "href": "meetings/apr-22-2025.html#speaker",
+    "title": "Apr 22, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nAtiyah-Singer Index Theorem\n\n\n\nVideo 2025-04-22\n\n\n\n/\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nwk6_modular_invariance"
+  },
+  {
+    "objectID": "meetings/may-24-2025.html",
+    "href": "meetings/may-24-2025.html",
+    "title": "May 24, 2025",
+    "section": "",
+    "text": "Xingyu Chen\n\n\nInstanton\n\n\n\nWe begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.\n\n\n\nVideo 2025-05-24\n\n\n\nNotes 2025-05-24\n\n\n\nAspects of Symmetry (S. Coleman)"
+  },
+  {
+    "objectID": "meetings/may-24-2025.html#speaker",
+    "href": "meetings/may-24-2025.html#speaker",
+    "title": "May 24, 2025",
+    "section": "",
+    "text": "Xingyu Chen\n\n\nInstanton\n\n\n\nWe begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.\n\n\n\nVideo 2025-05-24\n\n\n\nNotes 2025-05-24\n\n\n\nAspects of Symmetry (S. Coleman)"
   },
   {
     "objectID": "meetings/apr-12-2025.html",
     "href": "meetings/apr-12-2025.html",
     "title": "Apr 12, 2025",
     "section": "",
-    "text": "Chen Wei\n\n\nHomology theory\n\n\n\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
+    "text": "Chen Wei\n\n\nHomology theory\n\n\n\nIn this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
   },
   {
     "objectID": "meetings/apr-12-2025.html#speaker-1",
     "href": "meetings/apr-12-2025.html#speaker-1",
     "title": "Apr 12, 2025",
     "section": "",
-    "text": "Chen Wei\n\n\nHomology theory\n\n\n\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
+    "text": "Chen Wei\n\n\nHomology theory\n\n\n\nIn this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
   },
   {
     "objectID": "meetings/apr-12-2025.html#speaker-2",
@@ -105,73 +161,150 @@
     "text": "Speaker 2\nKaichen Yin\n\nTheme\nReplica method\n\n\nAbstract\n\n\nVideo\nVideo 2025-04-12\n\n\nNotes\n/\n\n\nResources\nIntroduction to Black Hole Thermodynamics (Edward Witten)\nSpin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)\nReplica wormholes and the black hole interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)\nDiscrete gauge anomalies revisited (Chang-Tse Hsieh)"
   },
   {
-    "objectID": "meetings/mar-16-2025.html",
-    "href": "meetings/mar-16-2025.html",
-    "title": "Mar 16, 2025",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Lecture Notes",
     "section": "",
-    "text": "Juven Wang"
+    "text": "Waiting to be filled…"
   },
   {
-    "objectID": "meetings/mar-16-2025.html#speaker",
-    "href": "meetings/mar-16-2025.html#speaker",
-    "title": "Mar 16, 2025",
+    "objectID": "meetings/mar-29-2025.html",
+    "href": "meetings/mar-29-2025.html",
+    "title": "Mar 29, 2025",
     "section": "",
-    "text": "Juven Wang"
+    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\nWe began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
   },
   {
-    "objectID": "meetings/mar-16-2025.html#theme",
-    "href": "meetings/mar-16-2025.html#theme",
-    "title": "Mar 16, 2025",
-    "section": "Theme",
-    "text": "Theme\nMeet & Greet Session"
-  },
-  {
-    "objectID": "meetings/mar-16-2025.html#video",
-    "href": "meetings/mar-16-2025.html#video",
-    "title": "Mar 16, 2025",
-    "section": "Video",
-    "text": "Video\n/"
-  },
-  {
-    "objectID": "meetings/mar-16-2025.html#notes",
-    "href": "meetings/mar-16-2025.html#notes",
-    "title": "Mar 16, 2025",
-    "section": "Notes",
-    "text": "Notes\n/"
-  },
-  {
-    "objectID": "meetings/mar-16-2025.html#resources",
-    "href": "meetings/mar-16-2025.html#resources",
-    "title": "Mar 16, 2025",
-    "section": "Resources",
-    "text": "Resources\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
-  },
-  {
-    "objectID": "meetings/mp_paris.html",
-    "href": "meetings/mp_paris.html",
-    "title": "Meetings",
+    "objectID": "meetings/mar-29-2025.html#speaker",
+    "href": "meetings/mar-29-2025.html#speaker",
+    "title": "Mar 29, 2025",
     "section": "",
-    "text": "Mar 15, 2025\n\nMar 16, 2025\n\nMar 22, 2025\n\nMar 29, 2025\n\nApr 05, 2025\n\nApr 06, 2025\n\nApr 12, 2025\n\nApr 13, 2025\n\nApr 19, 2025\nApr 22, 2025\n\nMay 06, 2025\n\nMay 10, 2025\n\nMay 17, 2025\n\nMay 24, 2025\n\nJun 07, 2025\n\nJun 15, 2025\n\nJul 12, 2025\n\nJul 20, 2025"
+    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\nWe began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
   },
   {
-    "objectID": "meetings/mar-22-2025.html",
-    "href": "meetings/mar-22-2025.html",
-    "title": "Mar 22, 2025",
+    "objectID": "meetings/may-10-2025.html",
+    "href": "meetings/may-10-2025.html",
+    "title": "May 10, 2025",
     "section": "",
-    "text": "Yiming Teng\n\n\nBasic concepts of higher-form symmetries\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)"
+    "text": "Yicheng Zhou\n\n\nTopological K-theory\n\n\n\nWe began by focusing on topological K-theory for topological spaces, aiming to clarify its foundational concepts and derive several essential properties. We then explored algebraic K-theory for \\(C^*\\)-algebras and compared it with topological K-theory through concrete examples. Finally, we introduced the notion of “spectrum–algebra correspondence” to establish an intuitive connection between the two theories.\n\n\n\nVideo 2025-05-10\n\n\n\nNotes 2025-05-10\n\n\n\nK-Theory and Elliptic Operators (Gregory D. Landweber)"
   },
   {
-    "objectID": "meetings/mar-22-2025.html#speaker-1",
-    "href": "meetings/mar-22-2025.html#speaker-1",
-    "title": "Mar 22, 2025",
+    "objectID": "meetings/may-10-2025.html#speaker",
+    "href": "meetings/may-10-2025.html#speaker",
+    "title": "May 10, 2025",
     "section": "",
-    "text": "Yiming Teng\n\n\nBasic concepts of higher-form symmetries\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)"
+    "text": "Yicheng Zhou\n\n\nTopological K-theory\n\n\n\nWe began by focusing on topological K-theory for topological spaces, aiming to clarify its foundational concepts and derive several essential properties. We then explored algebraic K-theory for \\(C^*\\)-algebras and compared it with topological K-theory through concrete examples. Finally, we introduced the notion of “spectrum–algebra correspondence” to establish an intuitive connection between the two theories.\n\n\n\nVideo 2025-05-10\n\n\n\nNotes 2025-05-10\n\n\n\nK-Theory and Elliptic Operators (Gregory D. Landweber)"
   },
   {
-    "objectID": "meetings/mar-22-2025.html#speaker-2",
-    "href": "meetings/mar-22-2025.html#speaker-2",
-    "title": "Mar 22, 2025",
-    "section": "Speaker 2",
-    "text": "Speaker 2\nYiyi Wan\n\nTheme\nYang-Mills Theory\n\n\nVideo\nVideo(2) 2025-03-22\n\n\nNotes\nNotes(2) 2025-03-22\n\n\nResources\nPrincipal Bundles: the Classical Case (Stephen Bruce Sontz)"
+    "objectID": "meetings/jul-20-2025.html",
+    "href": "meetings/jul-20-2025.html",
+    "title": "Jul 20, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nQuantizable condition and Maslov technique\n\n\n\nIn this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum _{} bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.\n\n\n\nVideo 2025-07-20\n\n\n\nNotes 2025-07-20\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/jul-20-2025.html#speaker",
+    "href": "meetings/jul-20-2025.html#speaker",
+    "title": "Jul 20, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nQuantizable condition and Maslov technique\n\n\n\nIn this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum _{} bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.\n\n\n\nVideo 2025-07-20\n\n\n\nNotes 2025-07-20\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/apr-05-2025.html",
+    "href": "meetings/apr-05-2025.html",
+    "title": "Apr 05, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\n’t Hooft Anomaly\n\n\n\nIn this lecture, we discussed how quantum anomalies manifest at the perturbative level. We outlined the method of computing chiral anomalies using the AVV one-loop triangle diagram and highlighted the connection between anomalies and regularization schemes. Based on the triangle diagram, we demonstrated the conditions required for perturbative gauge anomaly cancellation in chiral gauge theories and introduced the concept of ’t Hooft anomalies for global symmetries. Finally, we briefly mentioned the existence of non-perturbative anomalies in SU(2) chiral gauge theories, which cannot be detected via perturbative methods.\n\n\n\nVideo 2025-04-05\n\n\n\n/\n\n\n\n数学物理讨论班讲义 (滕一鸣)\nCharacteristic Forms and Geometric Invariants (Shiing-Shen Chern, James Simons)\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nSymmetry Protected Topological Orders and the Group Cohomology of their Symmetry Group (Xie Chen, Zheng-Cheng Gu, Zheng-Xin Liu, and Xiao-Gang Wen)"
+  },
+  {
+    "objectID": "meetings/apr-05-2025.html#speaker",
+    "href": "meetings/apr-05-2025.html#speaker",
+    "title": "Apr 05, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\n’t Hooft Anomaly\n\n\n\nIn this lecture, we discussed how quantum anomalies manifest at the perturbative level. We outlined the method of computing chiral anomalies using the AVV one-loop triangle diagram and highlighted the connection between anomalies and regularization schemes. Based on the triangle diagram, we demonstrated the conditions required for perturbative gauge anomaly cancellation in chiral gauge theories and introduced the concept of ’t Hooft anomalies for global symmetries. Finally, we briefly mentioned the existence of non-perturbative anomalies in SU(2) chiral gauge theories, which cannot be detected via perturbative methods.\n\n\n\nVideo 2025-04-05\n\n\n\n/\n\n\n\n数学物理讨论班讲义 (滕一鸣)\nCharacteristic Forms and Geometric Invariants (Shiing-Shen Chern, James Simons)\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nSymmetry Protected Topological Orders and the Group Cohomology of their Symmetry Group (Xie Chen, Zheng-Cheng Gu, Zheng-Xin Liu, and Xiao-Gang Wen)"
+  },
+  {
+    "objectID": "meetings/jul-12-2025.html",
+    "href": "meetings/jul-12-2025.html",
+    "title": "Jul 12, 2025",
+    "section": "",
+    "text": "Xingyu Chen, Chen Wei\n\n\nWKB method and symplectic geometry\n\n\n\nThis lecture first presents a clear physical image of the motivation behind the WKB approximation and its application methods from the perspective of perturbation of action, which is commonly used in physics. Later, based on the reference book “Lectures on the geometry of quantization”, we introduces symplectic manifolds—smooth manifolds equipped with a closed, nondegenerate 2-form—as the natural setting for Hamiltonian mechanics. Starting from linear symplectic geometry, we develop key concepts like Lagrangian subspaces and the canonical symplectic structure on cotangent bundles. These ideas provide a coordinate-free framework for classical dynamics and prepare the ground for geometric quantization.\n\n\n\nVideo 2025-07-12\n\n\n\n/\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+  },
+  {
+    "objectID": "meetings/jul-12-2025.html#speaker",
+    "href": "meetings/jul-12-2025.html#speaker",
+    "title": "Jul 12, 2025",
+    "section": "",
+    "text": "Xingyu Chen, Chen Wei\n\n\nWKB method and symplectic geometry\n\n\n\nThis lecture first presents a clear physical image of the motivation behind the WKB approximation and its application methods from the perspective of perturbation of action, which is commonly used in physics. Later, based on the reference book “Lectures on the geometry of quantization”, we introduces symplectic manifolds—smooth manifolds equipped with a closed, nondegenerate 2-form—as the natural setting for Hamiltonian mechanics. Starting from linear symplectic geometry, we develop key concepts like Lagrangian subspaces and the canonical symplectic structure on cotangent bundles. These ideas provide a coordinate-free framework for classical dynamics and prepare the ground for geometric quantization.\n\n\n\nVideo 2025-07-12\n\n\n\n/\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+  },
+  {
+    "objectID": "meetings/apr-06-2025.html",
+    "href": "meetings/apr-06-2025.html",
+    "title": "Apr 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n/\n\n\n\n/\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "meetings/apr-06-2025.html#speaker",
+    "href": "meetings/apr-06-2025.html#speaker",
+    "title": "Apr 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n/\n\n\n\n/\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "meetings/apr-13-2025.html",
+    "href": "meetings/apr-13-2025.html",
+    "title": "Apr 13, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov conditions\n\n\n\nVideo 2025-04-13\n\n\n\nNotes 2025-04-13\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and 3(E8)1 Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
+  },
+  {
+    "objectID": "meetings/apr-13-2025.html#speaker",
+    "href": "meetings/apr-13-2025.html#speaker",
+    "title": "Apr 13, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov conditions\n\n\n\nVideo 2025-04-13\n\n\n\nNotes 2025-04-13\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and 3(E8)1 Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
+  },
+  {
+    "objectID": "meetings/may-17-2025.html",
+    "href": "meetings/may-17-2025.html",
+    "title": "May 17, 2025",
+    "section": "",
+    "text": "Ran Luo\n\n\nSPT construction\n\n\n\nWe began by introducing the Lieb-Robinson bound, which provides estimates on the correlations between local operators in lattice systems, thereby motivating the notion of a causal light cone on the lattice. We then defined quasi-local unitary operators and discussed their implementation complexity in terms of quantum circuits. Building on these concepts, we explored the definition of symmetry-protected topological (SPT) phases, characterized by whether each quantum gate respects the underlying symmetry. Finally, we examined the cluster chain model as a concrete example of an SPT phase, analyzed its decorated domain-wall structure, and connected it to projective representations, thereby establishing a classification scheme for bosonic SPT phases.\n\n\n\nVideo 2025-05-17\n\n\n\nNotes 2025-05-17\n\n\n\nLocal unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order (Xie Chen, Zheng-Cheng Gu, and Xiao-Gang Wen)\nLocality in Quantum Systems (Matthew B. Hastings)\nQuantum algorithm for simulating real time evolution of lattice Hamiltonians (Jeongwan Haah, Matthew B. Hastings, Robin Kothari, Guang Hao Low)\nQuantum phases of matter (John McGreevy)"
+  },
+  {
+    "objectID": "meetings/may-17-2025.html#speaker",
+    "href": "meetings/may-17-2025.html#speaker",
+    "title": "May 17, 2025",
+    "section": "",
+    "text": "Ran Luo\n\n\nSPT construction\n\n\n\nWe began by introducing the Lieb-Robinson bound, which provides estimates on the correlations between local operators in lattice systems, thereby motivating the notion of a causal light cone on the lattice. We then defined quasi-local unitary operators and discussed their implementation complexity in terms of quantum circuits. Building on these concepts, we explored the definition of symmetry-protected topological (SPT) phases, characterized by whether each quantum gate respects the underlying symmetry. Finally, we examined the cluster chain model as a concrete example of an SPT phase, analyzed its decorated domain-wall structure, and connected it to projective representations, thereby establishing a classification scheme for bosonic SPT phases.\n\n\n\nVideo 2025-05-17\n\n\n\nNotes 2025-05-17\n\n\n\nLocal unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order (Xie Chen, Zheng-Cheng Gu, and Xiao-Gang Wen)\nLocality in Quantum Systems (Matthew B. Hastings)\nQuantum algorithm for simulating real time evolution of lattice Hamiltonians (Jeongwan Haah, Matthew B. Hastings, Robin Kothari, Guang Hao Low)\nQuantum phases of matter (John McGreevy)"
+  },
+  {
+    "objectID": "meetings/jul-26-2025.html",
+    "href": "meetings/jul-26-2025.html",
+    "title": "Jul 26, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nA complete geometric characterization of quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/jul-26-2025.html#speaker",
+    "href": "meetings/jul-26-2025.html#speaker",
+    "title": "Jul 26, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nA complete geometric characterization of quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/jun-15-2025.html",
+    "href": "meetings/jun-15-2025.html",
+    "title": "Jun 15, 2025",
+    "section": "",
+    "text": "Xingyang Yu\n\n\nNon-invertible symmetries in 4d\n\n\n\nThis talk reviewed the historical development of non-invertible symmetries in two-dimensional field theories, especially in conformal field theory, and discussed their connection to anomaly matching under the renormalization group flow in more general settings. We then introduced recent progress on non-invertible symmetries in four-dimensional quantum field theories. In particular, we presented how two distinct types of anomalies—the Adler–Bell–Jackiw (ABJ) anomaly and the ’t Hooft anomaly—can each give rise to nontrivial non-invertible symmetries.\n\n\n\nVideo 2025-06-15\n\n\n\nNotes 2025-06-15\n\n\n\nKramers-Wannier-like duality defects in (3 + 1)d gauge theories (Justin Kaidi, Kantaro Ohmori, Yunqin Zheng)\nNon-invertible Global Symmetries in the Standard Model (Yichul Choi, Ho Tat Lam, and Shu-Heng Shao)"
+  },
+  {
+    "objectID": "meetings/jun-15-2025.html#speaker",
+    "href": "meetings/jun-15-2025.html#speaker",
+    "title": "Jun 15, 2025",
+    "section": "",
+    "text": "Xingyang Yu\n\n\nNon-invertible symmetries in 4d\n\n\n\nThis talk reviewed the historical development of non-invertible symmetries in two-dimensional field theories, especially in conformal field theory, and discussed their connection to anomaly matching under the renormalization group flow in more general settings. We then introduced recent progress on non-invertible symmetries in four-dimensional quantum field theories. In particular, we presented how two distinct types of anomalies—the Adler–Bell–Jackiw (ABJ) anomaly and the ’t Hooft anomaly—can each give rise to nontrivial non-invertible symmetries.\n\n\n\nVideo 2025-06-15\n\n\n\nNotes 2025-06-15\n\n\n\nKramers-Wannier-like duality defects in (3 + 1)d gauge theories (Justin Kaidi, Kantaro Ohmori, Yunqin Zheng)\nNon-invertible Global Symmetries in the Standard Model (Yichul Choi, Ho Tat Lam, and Shu-Heng Shao)"
   }
 ]
