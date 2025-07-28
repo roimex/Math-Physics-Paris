@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "puzzles/anomalies.html",
+    "href": "puzzles/anomalies.html",
+    "title": "Math-Physics Paris",
+    "section": "",
+    "text": "1.⁠ ⁠What is the anomaly of 4d Weyl fermion with charge \\(q\\) under \\(U(1)\\) global symmetry?\n2.⁠ ⁠What is the anomaly of 4d Weyl fermion with representation as doublet under \\(U(2)\\) global symmetry?\n3.⁠ ⁠What is the anomaly of 4d Weyl fermion with N-representation as N-multiplet under \\(U(N)\\) global symmetry?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Math-Physics Paris",
     "section": "",
-    "text": "Supervised by Juven Wang, the Math-Physics Paris Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the 2024 IHES Summer School."
+    "text": "Supervised by Juven, the Math-Physics Paris Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the 2024 IHES Summer School."
   },
   {
     "objectID": "meetings/mar-15-2025.html",
@@ -170,7 +177,7 @@
   {
     "objectID": "notes.html",
     "href": "notes.html",
-    "title": "Lecture Notes",
+    "title": "Notes",
     "section": "",
     "text": "Waiting to be filled…"
   },
@@ -306,5 +313,12 @@
     "title": "Jun 15, 2025",
     "section": "",
     "text": "Xingyang Yu\n\n\nNon-invertible Symmetries in 4d\n\n\n\nThis talk reviewed the historical development of non-invertible symmetries in two-dimensional field theories, especially in conformal field theory, and discussed their connection to anomaly matching under the renormalization group flow in more general settings. We then introduced recent progress on non-invertible symmetries in four-dimensional quantum field theories. In particular, we presented how two distinct types of anomalies—the Adler–Bell–Jackiw (ABJ) anomaly and the ’t Hooft anomaly—can each give rise to nontrivial non-invertible symmetries.\n\n\n\nVideo 2025-06-15\n\n\n\nNotes 2025-06-15\n\n\n\nKramers-Wannier-like duality defects in (3 + 1)d gauge theories (Justin Kaidi, Kantaro Ohmori, Yunqin Zheng)\nNon-invertible Global Symmetries in the Standard Model (Yichul Choi, Ho Tat Lam, and Shu-Heng Shao)"
+  },
+  {
+    "objectID": "puzzles/puzzles.html",
+    "href": "puzzles/puzzles.html",
+    "title": "Puzzles",
+    "section": "",
+    "text": "Anomalies"
   }
 ]
