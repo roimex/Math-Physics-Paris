@@ -1,0 +1,21 @@
+---
+title: "May 10, 2025"
+---
+
+## Speaker
+Yicheng Zhou
+
+### Theme
+Topological K-theory
+
+### Abstract
+We began by focusing on topological K-theory for topological spaces, aiming to clarify its foundational concepts and derive several essential properties. We then explored algebraic K-theory for $C^*$-algebras and compared it with topological K-theory through concrete examples. Finally, we introduced the notion of “spectrum–algebra correspondence” to establish an intuitive connection between the two theories.
+
+### Video  
+[Video 2025-05-10](https://drive.google.com/file/d/1Zp8duIDlE2W0wU24-Zs0G1uHm9QLvjxV/view?usp=sharing)
+
+### Notes  
+[Notes 2025-05-10](https://drive.google.com/file/d/1JG85Q7BgM0aEFYfwHQb_xCQrTUxSqMkb/view?usp=sharing)
+
+### Resources  
+[K-Theory and Elliptic Operators (Gregory D. Landweber)](https://drive.google.com/file/d/1SIVhBWjJnpa4ABx3FVJONjMPWv_1kUFK/view?usp=sharing)

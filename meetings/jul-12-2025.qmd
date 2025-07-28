@@ -1,0 +1,21 @@
+---
+title: "Jul 12, 2025"
+---
+
+## Speaker
+Xingyu Chen, Chen Wei
+
+### Theme
+WKB method and symplectic geometry
+
+### Abstract
+This lecture first presents a clear physical image of the motivation behind the WKB approximation and its application methods from the perspective of perturbation of action, which is commonly used in physics. Later, based on the reference book "Lectures on the geometry of quantization", we introduces symplectic manifolds—smooth manifolds equipped with a closed, nondegenerate 2-form—as the natural setting for Hamiltonian mechanics. Starting from linear symplectic geometry, we develop key concepts like Lagrangian subspaces and the canonical symplectic structure on cotangent bundles. These ideas provide a coordinate-free framework for classical dynamics and prepare the ground for geometric quantization.
+
+### Video
+[Video 2025-07-12](https://drive.google.com/file/d/13U9ECrnVWq11ZqzEuOvBqtSyFNRaXYol/view?usp=sharing)
+
+### Notes
+/
+
+### Resources
+[Lectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)](https://drive.google.com/file/d/1YcEe_MCJmHE-1rjy8RQVOuVwBl61h4WU/view?usp=sharing)

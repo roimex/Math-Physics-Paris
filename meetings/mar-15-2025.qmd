@@ -10,6 +10,7 @@ Ran Luo
 Axiomatic construction of TQFT
 
 ### Abstract
+In this session, we began by exploring the boundaries in topological quantum field theory (TQFT), followed by a review of the notion of quantum anomalies and their implications. We then discussed how invariants can be described in a more axiomatic framework. The session continued with an investigation into boundary invariants and spin structures.
 
 ### Video  
 [Video 2025-03-15](https://drive.google.com/file/d/10UxETdLmGRIYS53rkRRZzK27S6KOw8rn/view?usp=sharing)

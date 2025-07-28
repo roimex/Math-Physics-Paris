@@ -1,0 +1,19 @@
+---
+title: "Apr 22, 2025"
+---
+
+## Speaker
+Juven Wang
+
+### Theme
+Atiyah-Singer Index Theorem
+
+### Video  
+[Video 2025-04-22](https://drive.google.com/file/d/1B5PszFb5QxVSfpAWGEm0_vjitZzeFxvD/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+[The Atiyah-Singer Index Theorem (Daniel S. Freed)](https://drive.google.com/file/d/1d5iTUzlKPyTj9rbDxMtRWquEhF32qZtn/view?usp=sharing)  
+[wk6_modular_invariance](https://drive.google.com/file/d/1HJlUgDUPtMwqHxsm7rxXwSql5kL3Xz5_/view?usp=sharing)

@@ -1,0 +1,21 @@
+---
+title: "May 06, 2025"
+---
+
+## Speaker
+Yiming Teng
+
+### Theme
+Wess-Zumino condition 
+
+### Abstract
+We began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.
+
+### Video  
+[Video 2025-05-06](https://drive.google.com/file/d/1AFW39TjtSB9vfV2sQGAmt9oko9YoKJGT/view?usp=sharing)
+
+### Notes  
+[Notes 2025-05-06](https://drive.google.com/file/d/1VwHJUzbNwJHgM4D3sVbUCpepw_UpLdo3/view?usp=sharing)
+
+### Resources  
+[The Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)](https://drive.google.com/file/d/1M799AKMq4QRIl1FmXDGCUIhiouesn8so/view?usp=sharing)

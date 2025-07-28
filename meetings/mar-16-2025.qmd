@@ -6,16 +6,16 @@ title: "Mar 16, 2025"
 
 Juven Wang
 
-## Theme
+### Theme
 Meet & Greet Session
 
-## Video  
+### Video  
 /
 
-## Notes  
+### Notes  
 /
 
-## Resources 
+### Resources 
 [Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](https://drive.google.com/file/d/1Jve2VAXvjlKBolaiAUgPIieKbpjXcG6s/view?usp=sharing)
 
 [Condensed Matter Field Theory (Alexander Altland, Ben Simons)](https://drive.google.com/file/d/130V9yB_bLal0bh_XwIStbQnB7Ssoolv7/view?usp=sharing)

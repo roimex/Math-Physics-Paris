@@ -1,0 +1,27 @@
+---
+title: "May 17, 2025"
+---
+
+## Speaker
+Ran Luo
+
+### Theme
+SPT construction
+
+### Abstract
+We began by introducing the Lieb-Robinson bound, which provides estimates on the correlations between local operators in lattice systems, thereby motivating the notion of a causal light cone on the lattice. We then defined quasi-local unitary operators and discussed their implementation complexity in terms of quantum circuits. Building on these concepts, we explored the definition of symmetry-protected topological (SPT) phases, characterized by whether each quantum gate respects the underlying symmetry. Finally, we examined the cluster chain model as a concrete example of an SPT phase, analyzed its decorated domain-wall structure, and connected it to projective representations, thereby establishing a classification scheme for bosonic SPT phases.
+
+### Video  
+[Video 2025-05-17](https://drive.google.com/file/d/1edUmhf7O8YQJMrKfSDUvWTe1aQP71L48/view?usp=sharing)
+
+### Notes  
+[Notes 2025-05-17](https://drive.google.com/file/d/1TeJb47MzxeEOUOmNRXDXO6WlQ6xwlWAk/view?usp=sharing)
+
+### Resources  
+[Local unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order (Xie Chen, Zheng-Cheng Gu, and Xiao-Gang Wen)](https://drive.google.com/file/d/1y7Olg0xvz9UOGJ6B4rUPmSDS5HG5mfm7/view?usp=sharing)
+
+[Locality in Quantum Systems (Matthew B. Hastings)](https://drive.google.com/file/d/1Wfa6WIGsjKYJ_bXYvPkem28H7MAHZnoN/view?usp=sharing)
+
+[Quantum algorithm for simulating real time evolution of lattice Hamiltonians (Jeongwan Haah, Matthew B. Hastings, Robin Kothari, Guang Hao Low)](https://drive.google.com/file/d/110MoJ2l6zaoTVhCKBR9I54oH4Q01HGDs/view?usp=sharing)
+
+[Quantum phases of matter (John McGreevy)](https://drive.google.com/file/d/1ao1OgU5STrPo46h6ZNlLAI1DV7s4dKjp/view?usp=sharing)

@@ -9,6 +9,9 @@ Yiming Teng
 ### Theme
 Basic concepts of higher-form symmetries
 
+### Abstract
+Starting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.
+
 ### Video
 [Video(1) 2025-03-22](https://drive.google.com/file/d/1kHbiY7xXptit17MN3WMzLbDWDaC4lLqj/view?usp=sharing)
 
@@ -24,6 +27,9 @@ Yiyi Wan
 
 ### Theme
 Yang-Mills Theory
+
+### Abstract
+We began with the foundational definitions of principal bundles and explored the associated notions of connection and curvature. Building on this framework, we introduced the Yang–Mills action within the context of gauge theory and discussed its physical and mathematical significance.
 
 ### Video  
 [Video(2) 2025-03-22](https://drive.google.com/file/d/1y-zqdxTSmqnw5bxVLrI9oQz_lB9vXne1/view?usp=sharing)

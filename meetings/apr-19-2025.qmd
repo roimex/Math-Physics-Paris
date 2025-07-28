@@ -1,0 +1,39 @@
+---
+title: "Apr 19, 2025"
+---
+
+## Speaker 1
+Xianfeng Jiang
+
+### Theme
+Chern-Weil Theorem
+
+### Abstract
+We began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural $\mathbb{Z}_2$-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the $\mathbb{Z}_2$-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.
+
+### Video  
+[Video 2025-04-19](https://drive.google.com/file/d/1OLZlq3jx5rY1lRW2R8wzxXur-pREhct0/view?usp=sharing)
+
+### Notes  
+[Notes 2025-04-19](https://drive.google.com/file/d/1hZcbqj0nLI9jmaexRSWObCbss0JjK9Vx/view?usp=sharing)
+
+### Resources  
+/
+
+## Speaker 2
+Yiyi Wan
+
+### Theme
+Characteristic classes and Atiyah-Singer Index Theorem
+
+### Abstract
+In this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the $\hat{A}-genus$ (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.
+
+### Video  
+[Video 2025-04-19](https://drive.google.com/file/d/1YU0LZjXAtXrmYUA1a19QzU8neZu4XUIU/view?usp=sharing)
+
+### Notes  
+[Notes 2025-04-19](https://drive.google.com/file/d/1UateDl6DbF85KXUOKPkzeo-YFG_V3Tto/view?usp=sharing)
+
+### Resources  
+/

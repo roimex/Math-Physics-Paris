@@ -1,0 +1,21 @@
+---
+title: "Jun 07, 2025"
+---
+
+## Speaker
+Ran Luo
+
+### Theme
+SymTFT
+
+### Abstract
+In this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a $\mathbb{Z}_2$ 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.
+
+### Video  
+[Video 2025-06-07](https://drive.google.com/file/d/1gUEBh20c0ZICNsMpkpKDCh45qckQR4zD/view?usp=sharing)
+
+### Notes  
+[Notes 2025-06-07](https://drive.google.com/file/d/1aZsoSBQeqlELDAxbSNFoVXCIh00Dgup7/view?usp=sharing)
+
+### Resources  
+/

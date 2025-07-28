@@ -1,0 +1,21 @@
+---
+title: "May 24, 2025"
+---
+
+## Speaker
+Xingyu Chen
+
+### Theme
+Instanton
+
+### Abstract
+We begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.
+
+### Video  
+[Video 2025-05-24](https://drive.google.com/file/d/1_a5mOn2i7_E6AuoEyurlk6oSTUXua8u1/view?usp=sharing)
+
+### Notes  
+[Notes 2025-05-24](https://drive.google.com/file/d/1qA1gvps7zProW4AcSQCBBoClisEx4Y8j/view?usp=sharing)
+
+### Resources  
+[Aspects of Symmetry (S. Coleman)](https://drive.google.com/file/d/1fihgB2jqkZL_hLNyaaRMoEFHV147fvMx/view?usp=sharing)
