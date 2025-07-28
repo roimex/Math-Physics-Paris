@@ -6,7 +6,7 @@ title: "Apr 12, 2025"
 Chen Wei
 
 ### Theme
-Homology theory
+Homology Theory
 
 ### Abstract
 In this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.

@@ -6,7 +6,7 @@ title: "May 06, 2025"
 Yiming Teng
 
 ### Theme
-Wess-Zumino condition 
+Wess-Zumino Condition 
 
 ### Abstract
 We began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.

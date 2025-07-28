@@ -9,17 +9,19 @@ website:
         text: Home
       - href: notes.qmd
         text: Lecture Notes
-      - href: meetings/mp_paris.qmd
+      - href: meetings/meetings.qmd
         text: Meetings
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: spacelab
+      dark: cyborg
+    toggle: true 
     css: styles.css
     toc: true
     include-after-body: _include/comments.html
+
 
 
 

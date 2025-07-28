@@ -7,7 +7,7 @@ title: "Mar 22, 2025"
 Yiming Teng
 
 ### Theme
-Basic concepts of higher-form symmetries
+Basic Concepts of Higher-form Symmetries
 
 ### Abstract
 Starting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.

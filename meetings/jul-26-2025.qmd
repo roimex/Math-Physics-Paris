@@ -6,7 +6,7 @@ title: "Jul 26, 2025"
 Yiyi Wan
 
 ### Theme
-A complete geometric characterization of quantizability
+A Complete Geometric Characterization of Quantizability
 
 ### Abstract
 In this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.
