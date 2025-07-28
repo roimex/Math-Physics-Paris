@@ -140,18 +140,32 @@
     "text": "Speaker 2\nYiyi Wan\n\nTheme\nYang-Mills Theory\n\n\nAbstract\nWe began with the foundational definitions of principal bundles and explored the associated notions of connection and curvature. Building on this framework, we introduced the Yang–Mills action within the context of gauge theory and discussed its physical and mathematical significance.\n\n\nVideo\nVideo(2) 2025-03-22\n\n\nNotes\nNotes(2) 2025-03-22\n\n\nResources\nPrincipal Bundles: the Classical Case (Stephen Bruce Sontz)"
   },
   {
+    "objectID": "puzzles/anomalies.html",
+    "href": "puzzles/anomalies.html",
+    "title": "Math-Physics Paris",
+    "section": "",
+    "text": "1.⁠ ⁠What is the anomaly of 4d Weyl fermion with charge \\(q\\) under \\(U(1)\\) global symmetry?\n2.⁠ ⁠What is the anomaly of 4d Weyl fermion with representation as doublet under \\(U(2)\\) global symmetry?\n3.⁠ ⁠What is the anomaly of 4d Weyl fermion with N-representation as N-multiplet under \\(U(N)\\) global symmetry?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Math-Physics Paris",
     "section": "",
-    "text": "Supervised by Juven Wang, the Math-Physics Paris Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the 2024 IHES Summer School."
+    "text": "Supervised by Juven, the Math-Physics Paris Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the 2024 IHES Summer School."
   },
   {
     "objectID": "notes.html",
     "href": "notes.html",
-    "title": "Lecture Notes",
+    "title": "Notes",
     "section": "",
     "text": "Waiting to be filled…"
+  },
+  {
+    "objectID": "puzzles/puzzles.html",
+    "href": "puzzles/puzzles.html",
+    "title": "Puzzles",
+    "section": "",
+    "text": "Anomalies"
   },
   {
     "objectID": "meetings/apr-22-2025.html",

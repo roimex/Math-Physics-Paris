@@ -70,5 +70,11 @@
   },
   "meetings/meetings.qmd": {
     "meetings.html": "10392ef9"
+  },
+  "puzzles/anomalies.qmd": {
+    "anomalies.html": "79eef963"
+  },
+  "puzzles/puzzles.qmd": {
+    "puzzles.html": "08968b99"
   }
 }

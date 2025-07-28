@@ -8,9 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - href: notes.qmd
-        text: Lecture Notes
+        text: Notes
       - href: meetings/meetings.qmd
         text: Meetings
+      - href: puzzles/puzzles.qmd
+        text: Puzzles
 
 format:
   html:
