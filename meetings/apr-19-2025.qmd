@@ -24,7 +24,7 @@ We began by reviewing the theory of de Rham cohomology and then introduced the n
 Yiyi Wan
 
 ### Theme
-Characteristic classes and Atiyah-Singer Index Theorem
+Characteristic Classes
 
 ### Abstract
 In this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the $\hat{A}-genus$ (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.
@@ -36,4 +36,4 @@ In this lecture, we began with a brief review of how characteristic classes can 
 [Notes 2025-04-19](https://drive.google.com/file/d/1UateDl6DbF85KXUOKPkzeo-YFG_V3Tto/view?usp=sharing)
 
 ### Resources  
-/
+[Geometry, Topology and Physics (Mikio Nakahara)](https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing)

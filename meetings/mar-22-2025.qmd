@@ -21,6 +21,8 @@ Starting from the Ward identity, we rephrased several well-known results using d
 ### Resources
 [杂七杂八的凝聚态理论(滕一鸣)](https://drive.google.com/file/d/1daoq_QLvTljh4vANfcM4TPVELCH2bpOm/view?usp=sharing)
 
+[Lecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)](https://drive.google.com/file/d/1oiXNv5Jq1TtYRwIk7GHhc-SYzjFQ-DFS/view?usp=sharing)
+
 ## Speaker 2
 
 Yiyi Wan
