@@ -1,5 +1,5 @@
 ---
-Title: "Anomalies"
+title: "Anomalies"
 ---
 
 1.⁠ ⁠What is the anomaly of 4d Weyl fermion with charge $q$ under $U(1)$ global symmetry?
