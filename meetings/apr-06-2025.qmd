@@ -15,5 +15,6 @@ Leptogenesis
 /
 
 ### Resources  
-[TASI Lectures on Non-Invertible Symmetries (Shuheng Shao)](https://drive.google.com/file/d/1mfzg47JFeJBm60-1oN9k4S3Y1Pi0IIV_/view?usp=sharing)  
+[TASI Lectures on Non-Invertible Symmetries (Shuheng Shao)](https://drive.google.com/file/d/1mfzg47JFeJBm60-1oN9k4S3Y1Pi0IIV_/view?usp=sharing)
+
 [Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)](https://drive.google.com/file/d/1l83vdiDGa7VGnPchMsO1e5hspgEKcM0I/view?usp=sharing)
