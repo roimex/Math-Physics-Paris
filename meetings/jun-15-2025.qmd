@@ -18,6 +18,5 @@ This talk reviewed the historical development of non-invertible symmetries in tw
 [Notes 2025-06-15](https://drive.google.com/file/d/1RnJNqaXhME2pAr3FKv0jMIBLdvVCf0RC/view?usp=sharing)
 
 ### Resources  
-[Kramers-Wannier-like duality defects in (3 + 1)d gauge theories (Justin Kaidi, Kantaro Ohmori, Yunqin Zheng)](https://drive.google.com/file/d/1Vq-MEOWPv-VugUq2KawI3WIrl6YI2DJ4/view?usp=sharing)
-
-[Non-invertible Global Symmetries in the Standard Model (Yichul Choi, Ho Tat Lam, and Shu-Heng Shao)](https://drive.google.com/file/d/1QLWcMdcyKvH5YADCu-yoMufcveO7lUBT/view?usp=sharing)
+- [Kramers-Wannier-like duality defects in (3 + 1)d gauge theories (Justin Kaidi, Kantaro Ohmori, Yunqin Zheng)](https://drive.google.com/file/d/1Vq-MEOWPv-VugUq2KawI3WIrl6YI2DJ4/view?usp=sharing)
+- [Non-invertible Global Symmetries in the Standard Model (Yichul Choi, Ho Tat Lam, and Shu-Heng Shao)](https://drive.google.com/file/d/1QLWcMdcyKvH5YADCu-yoMufcveO7lUBT/view?usp=sharing)

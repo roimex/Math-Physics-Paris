@@ -18,4 +18,4 @@ In this lecture, we built upon the symplectic geometry discussed last time to ex
 [Notes 2025-07-20](https://drive.google.com/file/d/1U9heTq3b-yofhQlhEDPGnZxyGV4_REEE/view?usp=sharing)
 
 ### Resources
-[Lectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)](https://drive.google.com/file/d/1YcEe_MCJmHE-1rjy8RQVOuVwBl61h4WU/view?usp=sharing)
+- [Lectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)](https://drive.google.com/file/d/1YcEe_MCJmHE-1rjy8RQVOuVwBl61h4WU/view?usp=sharing)

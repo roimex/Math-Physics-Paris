@@ -18,4 +18,4 @@ We began by focusing on topological K-theory for topological spaces, aiming to c
 [Notes 2025-05-10](https://drive.google.com/file/d/1JG85Q7BgM0aEFYfwHQb_xCQrTUxSqMkb/view?usp=sharing)
 
 ### Resources  
-[K-Theory and Elliptic Operators (Gregory D. Landweber)](https://drive.google.com/file/d/1SIVhBWjJnpa4ABx3FVJONjMPWv_1kUFK/view?usp=sharing)
+- [K-Theory and Elliptic Operators (Gregory D. Landweber)](https://drive.google.com/file/d/1SIVhBWjJnpa4ABx3FVJONjMPWv_1kUFK/view?usp=sharing)

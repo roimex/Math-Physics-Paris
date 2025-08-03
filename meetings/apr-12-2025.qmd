@@ -18,7 +18,7 @@ In this lecture, we introduced the definitions and basic properties of homology 
 /
 
 ### Resources  
-[Categories and Homological Algebra (Pierre Schapira)](https://drive.google.com/file/d/1b84HkWI1b4ex39Le5Pwn97ILkSQwceWc/view?usp=sharing)
+- [Categories and Homological Algebra (Pierre Schapira)](https://drive.google.com/file/d/1b84HkWI1b4ex39Le5Pwn97ILkSQwceWc/view?usp=sharing)
 
 ## Speaker 2
 Kaichen Yin
@@ -35,8 +35,6 @@ Replica method
 /
 
 ### Resources  
-[Introduction to Black Hole Thermodynamics (Edward Witten)](https://drive.google.com/file/d/1wiC13MmncGQJ3OcNlOx6eqVRyII0Jg5W/view?usp=sharing)
-
-[Spin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)](https://drive.google.com/file/d/17NY7Nh4m6nx7rMc7EvfAI1yAarCbxfNg/view?usp=sharing)
-
-[Replica wormholes and the black hole interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)](https://drive.google.com/file/d/1WpLvIPV7sLbEL9_F-OaehpckkxUY2gGH/view?usp=sharing)
+- [Introduction to Black Hole Thermodynamics (Edward Witten)](https://drive.google.com/file/d/1wiC13MmncGQJ3OcNlOx6eqVRyII0Jg5W/view?usp=sharing)
+- [Spin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)](https://drive.google.com/file/d/17NY7Nh4m6nx7rMc7EvfAI1yAarCbxfNg/view?usp=sharing)
+- [Replica wormholes and the black hole interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)](https://drive.google.com/file/d/1WpLvIPV7sLbEL9_F-OaehpckkxUY2gGH/view?usp=sharing)

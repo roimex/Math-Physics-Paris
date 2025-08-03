@@ -36,4 +36,4 @@ In this lecture, we began with a brief review of how characteristic classes can 
 [Notes 2025-04-19](https://drive.google.com/file/d/1UateDl6DbF85KXUOKPkzeo-YFG_V3Tto/view?usp=sharing)
 
 ### Resources  
-[Geometry, Topology and Physics (Mikio Nakahara)](https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing)
+- [Geometry, Topology and Physics (Mikio Nakahara)](https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing)

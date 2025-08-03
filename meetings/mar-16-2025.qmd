@@ -16,16 +16,10 @@ Meet & Greet Session
 /
 
 ### Resources 
-[Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](https://drive.google.com/file/d/1Jve2VAXvjlKBolaiAUgPIieKbpjXcG6s/view?usp=sharing)
-
-[Condensed Matter Field Theory (Alexander Altland, Ben Simons)](https://drive.google.com/file/d/130V9yB_bLal0bh_XwIStbQnB7Ssoolv7/view?usp=sharing)
-
-[Ultra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)](https://drive.google.com/file/d/16aLe_DMbu5dhi-xM_VlteyNYSpYyd-Lw/view?usp=sharing)
-
-[Topological Leptogenesis from Ultra Unification (Juven Wang)](https://drive.google.com/file/d/1CJ34SzptV1dx6Gjv0yyR7HbJUDUC1Tlt/view?usp=sharing)
-
-[Topological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)](https://drive.google.com/file/d/19ncCFgOjyOz3Zz_2IfVjSzA7cJDbUcZ2/view?usp=sharing)
-
-[Equations of Gauge Theory (Karen Uhlenbeck)](https://drive.google.com/file/d/1g_aqziRa4p6x5BNmCV6NkgeYRq3LnjHQ/view?usp=sharing)
-
-[Introduction To Chern-Simons Theories (Gregory W. Moore)](https://drive.google.com/file/d/1v9ZIn-3jXiVChZRniY3crYBzeL1-QL4I/view?usp=sharing)
+- [Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](https://drive.google.com/file/d/1Jve2VAXvjlKBolaiAUgPIieKbpjXcG6s/view?usp=sharing)
+- [Condensed Matter Field Theory (Alexander Altland, Ben Simons)](https://drive.google.com/file/d/130V9yB_bLal0bh_XwIStbQnB7Ssoolv7/view?usp=sharing)
+- [Ultra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)](https://drive.google.com/file/d/16aLe_DMbu5dhi-xM_VlteyNYSpYyd-Lw/view?usp=sharing)
+- [Topological Leptogenesis from Ultra Unification (Juven Wang)](https://drive.google.com/file/d/1CJ34SzptV1dx6Gjv0yyR7HbJUDUC1Tlt/view?usp=sharing)
+- [Topological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)](https://drive.google.com/file/d/19ncCFgOjyOz3Zz_2IfVjSzA7cJDbUcZ2/view?usp=sharing)
+- [Equations of Gauge Theory (Karen Uhlenbeck)](https://drive.google.com/file/d/1g_aqziRa4p6x5BNmCV6NkgeYRq3LnjHQ/view?usp=sharing)
+- [Introduction To Chern-Simons Theories (Gregory W. Moore)](https://drive.google.com/file/d/1v9ZIn-3jXiVChZRniY3crYBzeL1-QL4I/view?usp=sharing)

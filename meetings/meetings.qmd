@@ -21,3 +21,4 @@ title: "Meetings"
 - [Jul 12, 2025: WKB Method and Symplectic Geometry](jul-12-2025.qmd)  
 - [Jul 20, 2025: Quantizable Condition and Maslov Technique](jul-20-2025.qmd)
 - [Jul 26, 2025: A Complete Geometric Characterization of Quantizability](jul-26-2025.qmd)
+- [Aug 02, 2025: Differential Operators on Manifolds](aug-02-2025.qmd)

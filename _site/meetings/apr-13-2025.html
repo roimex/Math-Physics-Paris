@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -342,9 +371,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>
-<p><a href="https://drive.google.com/file/d/1J9yJCYtgck5i8Yj1isgHFNHvenEvR0V8/view?usp=sharing">C-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)</a></p>
-<p><a href="https://drive.google.com/file/d/1ZAFihaQMbufnzSIA2JbeI1-QAK9eIcqt/view?usp=sharing">Family Puzzle, Framing Topology, c_ = 24 and 3(E8)1 Conformal Field Theories (Juven Wang)</a></p>
-<p><a href="https://drive.google.com/file/d/17y31K7xEz4JqImQJeAg6CuVY6qsfz1Qg/view?usp=sharing">C-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)</a></p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1J9yJCYtgck5i8Yj1isgHFNHvenEvR0V8/view?usp=sharing">C-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)</a></li>
+<li><a href="https://drive.google.com/file/d/1ZAFihaQMbufnzSIA2JbeI1-QAK9eIcqt/view?usp=sharing">Family Puzzle, Framing Topology, c_ = 24 and <span class="math inline">\(3(E8)_1\)</span> Conformal Field Theories (Juven Wang)</a></li>
+<li><a href="https://drive.google.com/file/d/17y31K7xEz4JqImQJeAg6CuVY6qsfz1Qg/view?usp=sharing">C-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)</a></li>
+</ul>
 
 
 </section>

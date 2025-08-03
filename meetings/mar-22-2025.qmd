@@ -19,9 +19,8 @@ Starting from the Ward identity, we rephrased several well-known results using d
 [Notes(1) 2025-03-22](https://drive.google.com/file/d/13HAZXNuBrJy33HAlWVd3Y8Tr-m7YGm8Q/view?usp=sharing)
 
 ### Resources
-[杂七杂八的凝聚态理论(滕一鸣)](https://drive.google.com/file/d/1daoq_QLvTljh4vANfcM4TPVELCH2bpOm/view?usp=sharing)
-
-[Lecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)](https://drive.google.com/file/d/1oiXNv5Jq1TtYRwIk7GHhc-SYzjFQ-DFS/view?usp=sharing)
+- [杂七杂八的凝聚态理论(滕一鸣)](https://drive.google.com/file/d/1daoq_QLvTljh4vANfcM4TPVELCH2bpOm/view?usp=sharing)
+- [Lecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)](https://drive.google.com/file/d/1oiXNv5Jq1TtYRwIk7GHhc-SYzjFQ-DFS/view?usp=sharing)
 
 ## Speaker 2
 
@@ -40,4 +39,4 @@ We began with the foundational definitions of principal bundles and explored the
 [Notes(2) 2025-03-22](https://drive.google.com/file/d/1wEcvsDoAHdqX9718N6HAZHhhF-nm0U3s/view?usp=sharing)
 
 ### Resources
-[Principal Bundles: the Classical Case (Stephen Bruce Sontz)](https://drive.google.com/file/d/1UOlsM980IZQthlPzTB7CtETQEYmRb6P0/view?usp=sharing)
+- [Principal Bundles: the Classical Case (Stephen Bruce Sontz)](https://drive.google.com/file/d/1UOlsM980IZQthlPzTB7CtETQEYmRb6P0/view?usp=sharing)

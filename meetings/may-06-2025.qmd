@@ -18,6 +18,5 @@ We began by discussing gauge anomalies in chiral gauge theories and introduced t
 [Notes 2025-05-06](https://drive.google.com/file/d/1VwHJUzbNwJHgM4D3sVbUCpepw_UpLdo3/view?usp=sharing)
 
 ### Resources  
-[The Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)](https://drive.google.com/file/d/1M799AKMq4QRIl1FmXDGCUIhiouesn8so/view?usp=sharing)
-
-[Geometry, Topology and Physics (Mikio Nakahara)](https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing)
+- [The Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)](https://drive.google.com/file/d/1M799AKMq4QRIl1FmXDGCUIhiouesn8so/view?usp=sharing)
+- [Geometry, Topology and Physics (Mikio Nakahara)](https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing)

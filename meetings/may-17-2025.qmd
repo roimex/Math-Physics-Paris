@@ -18,10 +18,7 @@ We began by introducing the Lieb-Robinson bound, which provides estimates on the
 [Notes 2025-05-17](https://drive.google.com/file/d/1TeJb47MzxeEOUOmNRXDXO6WlQ6xwlWAk/view?usp=sharing)
 
 ### Resources  
-[Local unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order (Xie Chen, Zheng-Cheng Gu, and Xiao-Gang Wen)](https://drive.google.com/file/d/1y7Olg0xvz9UOGJ6B4rUPmSDS5HG5mfm7/view?usp=sharing)
-
-[Locality in Quantum Systems (Matthew B. Hastings)](https://drive.google.com/file/d/1Wfa6WIGsjKYJ_bXYvPkem28H7MAHZnoN/view?usp=sharing)
-
-[Quantum algorithm for simulating real time evolution of lattice Hamiltonians (Jeongwan Haah, Matthew B. Hastings, Robin Kothari, Guang Hao Low)](https://drive.google.com/file/d/110MoJ2l6zaoTVhCKBR9I54oH4Q01HGDs/view?usp=sharing)
-
-[Quantum phases of matter (John McGreevy)](https://drive.google.com/file/d/1ao1OgU5STrPo46h6ZNlLAI1DV7s4dKjp/view?usp=sharing)
+- [Local unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order (Xie Chen, Zheng-Cheng Gu, and Xiao-Gang Wen)](https://drive.google.com/file/d/1y7Olg0xvz9UOGJ6B4rUPmSDS5HG5mfm7/view?usp=sharing)
+- [Locality in Quantum Systems (Matthew B. Hastings)](https://drive.google.com/file/d/1Wfa6WIGsjKYJ_bXYvPkem28H7MAHZnoN/view?usp=sharing)
+- [Quantum algorithm for simulating real time evolution of lattice Hamiltonians (Jeongwan Haah, Matthew B. Hastings, Robin Kothari, Guang Hao Low)](https://drive.google.com/file/d/110MoJ2l6zaoTVhCKBR9I54oH4Q01HGDs/view?usp=sharing)
+- [Quantum phases of matter (John McGreevy)](https://drive.google.com/file/d/1ao1OgU5STrPo46h6ZNlLAI1DV7s4dKjp/view?usp=sharing)

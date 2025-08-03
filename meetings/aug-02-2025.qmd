@@ -1,0 +1,21 @@
+---
+title: "Aug 02, 2025"
+---
+
+## Speaker
+Chen Wei
+
+### Theme
+Differential Operators on Manifolds
+
+### Abstract
+This lecture, based on Chapter 1 of Christian Bär's Spin Geometry, provides a rigorous treatment of differential operators on manifolds and their analytical framework. Beginning with fundamental concepts—including order classification, principal symbols, and formal adjoints—it illustrates the theory through geometric examples like gradient, divergence, and Laplace operators. The course then develops Sobolev space theory, covering norms, embedding theorems, compactness results, and weak solution regularity, forming the analytical foundation for Hodge theory and spectral analysis of elliptic operators. 
+
+### Video
+[Video 2025-08-02](https://drive.google.com/file/d/1khQ2wqWP9wA1yVdhkEq6tFf8AwlfiLM7/view?usp=sharing)
+
+### Notes
+/
+
+### Resources
+- [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)

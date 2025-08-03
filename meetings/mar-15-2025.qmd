@@ -19,4 +19,4 @@ In this session, we began by exploring the boundaries in topological quantum fie
 [Notes 2025-03-15](https://drive.google.com/file/d/1SwCjSC6iA-lwvQt2hj-5-CZhmvirxG8G/view?usp=sharing)
 
 ### Resources 
-[Topological Quantum Field Theory (M. Atiyah)](https://drive.google.com/file/d/1gzbzACSeomxKSqJnaeoTW6rQ8IfxWOgc/view?usp=sharing)
+- [Topological Quantum Field Theory (M. Atiyah)](https://drive.google.com/file/d/1gzbzACSeomxKSqJnaeoTW6rQ8IfxWOgc/view?usp=sharing)
