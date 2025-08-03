@@ -1,0 +1,15 @@
+---
+title: "Discrete Gauge Anomalies Revisited"
+---
+
+## Author
+
+Chang-Tse Hsieh
+
+### Abstract
+
+We revisit discrete gauge anomalies in chiral fermion theories in $3+1$ dimensions. We focus on the case that the full symmetry group of fermions is $\mathrm{Spin}(4) \times \mathbb{Z}_n$ or $(\mathrm{Spin}(4) \times \mathbb{Z}_{2m})/\mathbb{Z}_2$ with $\mathbb{Z}_2$ being the diagonal $\mathbb{Z}_2$ subgroup. The anomalies are determined by the consistency condition --- based on the Dai-Freed theorem --- of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global $\mathbb{Z}_n$ symmetry, and present a model for constructing these states in the framework of weak coupling.
+
+### Link
+
+[Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](https://arxiv.org/abs/1808.02881)

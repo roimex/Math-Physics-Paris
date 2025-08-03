@@ -1,0 +1,8 @@
+---
+title: "Papers"
+---
+
+- [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](hsi18.qmd)
+- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](wan25.qmd)
+- [Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)](pw23.qmd)
+- [Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](wang25.qmd)

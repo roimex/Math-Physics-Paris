@@ -1,0 +1,15 @@
+---
+title: "Anomaly of 4d Weyl Fermion with Discrete Charge"
+---
+
+## Author
+
+Zheyan Wan
+
+### Abstract
+
+We derive the anomaly indices of 4d Weyl fermions with symmetry $\mathrm{Spin} \times \mathbb{Z}_n$ and $\mathrm{Spin} \times_{\mathbb{Z}_2} \mathbb{Z}_{2m}$ by reducing the continuous $\mathrm{Spin} \times \mathrm{U}(1)$ and $\mathrm{Spin}^c$ anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.
+
+### Link
+
+[Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](https://arxiv.org/abs/2506.19710)

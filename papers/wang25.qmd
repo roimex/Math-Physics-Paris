@@ -1,0 +1,15 @@
+---
+title: "Topological Quantum Dark Matter via Global Anomaly Cancellation"
+---
+
+## Author
+
+Juven Wang
+
+### Abstract
+Standard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino $\nu_R$) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number $\mathbf{B} \pm \mathbf{L}$ symmetry. Including $\nu_R$ per family can cancel these anomalies, but when $\mathbf{B} \pm \mathbf{L}$ symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete $\mathbf{B} \pm \mathbf{L}$ that are enhanced from the fermion parity $\mathbb{Z}_2^\mathrm{F}$ to $\mathbb{Z}_{2N}^\mathrm{F}$, with $N = 2, 3, 4, 6, 9$, etc. The discreteness of $\mathbf{B} \pm \mathbf{L}$ is constrained by multi-fermion deformations beyond-the-SM and the family number $N_f$. Unlike the free quadratic $\nu_R$ Majorana mass gap preserving the minimal $\mathbb{Z}_2^\mathrm{F}$, we explore novel scenarios canceling $(\mathbf{B} \pm \mathbf{L})$-gravitational anomalies while preserving the $\mathbb{Z}_{2N}^\mathrm{F}$ discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM's global anomalies. We find the uniqueness of the family number at $N_f = 3$, such that when the representation of $\mathbb{Z}_{2N}^\mathrm{F}$ from the faithful $\mathbf{B} + \mathbf{L}$ for baryons at $N = N_c = 3$ is extended to the faithful $\mathbf{Q} + N_c \mathbf{L}$ for quarks at $N = N_c N_f = 9$, this symmetry extension $\mathbb{Z}_{N_c=3} \to \mathbb{Z}_{N_c N_f=9} \to \mathbb{Z}_{N_f=3}$ matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete $\mathbf{B} \pm \mathbf{L}$ gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.
+
+
+### Link
+
+[Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](https://arxiv.org/abs/2502.21319)

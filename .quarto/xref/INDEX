@@ -76,5 +76,20 @@
   },
   "puzzles/puzzles.qmd": {
     "puzzles.html": "08968b99"
+  },
+  "papers/hsi18.qmd": {
+    "hsi18.html": "42db4d81"
+  },
+  "papers/papers.qmd": {
+    "papers.html": "1e475556"
+  },
+  "papers/wan25.qmd": {
+    "wan25.html": "d8434271"
+  },
+  "papers/pw23.qmd": {
+    "pw23.html": "e6b63eb7"
+  },
+  "papers/wang25.qmd": {
+    "wang25.html": "6c46cd1b"
   }
 }

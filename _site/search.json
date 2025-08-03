@@ -154,11 +154,74 @@
     "text": "Supervised by Juven, the Math-Physics Paris Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the 2024 IHES Summer School."
   },
   {
+    "objectID": "papers/wang25.html",
+    "href": "papers/wang25.html",
+    "title": "Topological Quantum Dark Matter via Global Anomaly Cancellation",
+    "section": "",
+    "text": "Juven Wang\n\n\nStandard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino \\(\\nu_R\\)) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry. Including \\(\\nu_R\\) per family can cancel these anomalies, but when \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) that are enhanced from the fermion parity \\(\\mathbb{Z}_2^\\mathrm{F}\\) to \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\), with \\(N = 2, 3, 4, 6, 9\\), etc. The discreteness of \\(\\mathbf{B} \\pm \\mathbf{L}\\) is constrained by multi-fermion deformations beyond-the-SM and the family number \\(N_f\\). Unlike the free quadratic \\(\\nu_R\\) Majorana mass gap preserving the minimal \\(\\mathbb{Z}_2^\\mathrm{F}\\), we explore novel scenarios canceling \\((\\mathbf{B} \\pm \\mathbf{L})\\)-gravitational anomalies while preserving the \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at \\(N_f = 3\\), such that when the representation of \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) from the faithful \\(\\mathbf{B} + \\mathbf{L}\\) for baryons at \\(N = N_c = 3\\) is extended to the faithful \\(\\mathbf{Q} + N_c \\mathbf{L}\\) for quarks at \\(N = N_c N_f = 9\\), this symmetry extension \\(\\mathbb{Z}_{N_c=3} \\to \\mathbb{Z}_{N_c N_f=9} \\to \\mathbb{Z}_{N_f=3}\\) matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
+  },
+  {
+    "objectID": "papers/wang25.html#author",
+    "href": "papers/wang25.html#author",
+    "title": "Topological Quantum Dark Matter via Global Anomaly Cancellation",
+    "section": "",
+    "text": "Juven Wang\n\n\nStandard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino \\(\\nu_R\\)) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry. Including \\(\\nu_R\\) per family can cancel these anomalies, but when \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) that are enhanced from the fermion parity \\(\\mathbb{Z}_2^\\mathrm{F}\\) to \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\), with \\(N = 2, 3, 4, 6, 9\\), etc. The discreteness of \\(\\mathbf{B} \\pm \\mathbf{L}\\) is constrained by multi-fermion deformations beyond-the-SM and the family number \\(N_f\\). Unlike the free quadratic \\(\\nu_R\\) Majorana mass gap preserving the minimal \\(\\mathbb{Z}_2^\\mathrm{F}\\), we explore novel scenarios canceling \\((\\mathbf{B} \\pm \\mathbf{L})\\)-gravitational anomalies while preserving the \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at \\(N_f = 3\\), such that when the representation of \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) from the faithful \\(\\mathbf{B} + \\mathbf{L}\\) for baryons at \\(N = N_c = 3\\) is extended to the faithful \\(\\mathbf{Q} + N_c \\mathbf{L}\\) for quarks at \\(N = N_c N_f = 9\\), this symmetry extension \\(\\mathbb{Z}_{N_c=3} \\to \\mathbb{Z}_{N_c N_f=9} \\to \\mathbb{Z}_{N_f=3}\\) matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
+  },
+  {
+    "objectID": "papers/wan25.html",
+    "href": "papers/wan25.html",
+    "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
+    "section": "",
+    "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)"
+  },
+  {
+    "objectID": "papers/wan25.html#author",
+    "href": "papers/wan25.html#author",
+    "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
+    "section": "",
+    "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)"
+  },
+  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes",
     "section": "",
     "text": "Waiting to be filled…"
+  },
+  {
+    "objectID": "papers/papers.html",
+    "href": "papers/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
+  },
+  {
+    "objectID": "papers/pw23.html",
+    "href": "papers/pw23.html",
+    "title": "Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)",
+    "section": "",
+    "text": "Pavel Putrov, Juven Wang\n\n\nIn the Standard Model, some combination of the baryon \\(\\mathbf{B}\\) and lepton \\(\\mathbf{L}\\) number symmetry is free of mixed anomalies with strong and electroweak \\(su(3) \\times su(2) \\times u(1)_{\\tilde{Y}}\\) gauge forces. However, it can still suffer from a mixed gravitational anomaly, hypothetically pertinent to leptogenesis in the very early universe. This happens when the total ``sterile right-handed’’ neutrino number \\(n_{\\nu_R}\\) is not equal to the family number \\(N_f\\). Thus the invertible \\(\\mathbf{B} - \\mathbf{L}\\) symmetry current conservation can be violated quantum mechanically by gravitational backgrounds such as gravitational instantons. In specific, we show that a noninvertible categorical \\(\\mathbf{B} - \\mathbf{L}\\) generalized symmetry still survives in gravitational backgrounds. In general, we propose a construction of noninvertible symmetry charge operators as topological defects derived from invertible anomalous symmetries that suffer from mixed gravitational anomalies. Examples include the perturbative local and nonperturbative global anomalies classified by \\(\\mathbb{Z}\\) and \\(\\mathbb{Z}_{16}\\) respectively. For this construction, we utilize the anomaly inflow bulk-boundary correspondence, the 4d Pontryagin class and the gravitational Chern-Simons 3-form, the 3d Witten–Reshetikhin–Turaev-type topological quantum field theory with a framing anomaly corresponding to a 2d rational conformal field theory with an appropriate rational chiral central charge, and the 4d \\(\\mathbb{Z}_4^{\\mathrm{TF}}\\)-time-reversal symmetric topological superconductor with 3d boundary topological order.\n\n\n\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "papers/pw23.html#author",
+    "href": "papers/pw23.html#author",
+    "title": "Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)",
+    "section": "",
+    "text": "Pavel Putrov, Juven Wang\n\n\nIn the Standard Model, some combination of the baryon \\(\\mathbf{B}\\) and lepton \\(\\mathbf{L}\\) number symmetry is free of mixed anomalies with strong and electroweak \\(su(3) \\times su(2) \\times u(1)_{\\tilde{Y}}\\) gauge forces. However, it can still suffer from a mixed gravitational anomaly, hypothetically pertinent to leptogenesis in the very early universe. This happens when the total ``sterile right-handed’’ neutrino number \\(n_{\\nu_R}\\) is not equal to the family number \\(N_f\\). Thus the invertible \\(\\mathbf{B} - \\mathbf{L}\\) symmetry current conservation can be violated quantum mechanically by gravitational backgrounds such as gravitational instantons. In specific, we show that a noninvertible categorical \\(\\mathbf{B} - \\mathbf{L}\\) generalized symmetry still survives in gravitational backgrounds. In general, we propose a construction of noninvertible symmetry charge operators as topological defects derived from invertible anomalous symmetries that suffer from mixed gravitational anomalies. Examples include the perturbative local and nonperturbative global anomalies classified by \\(\\mathbb{Z}\\) and \\(\\mathbb{Z}_{16}\\) respectively. For this construction, we utilize the anomaly inflow bulk-boundary correspondence, the 4d Pontryagin class and the gravitational Chern-Simons 3-form, the 3d Witten–Reshetikhin–Turaev-type topological quantum field theory with a framing anomaly corresponding to a 2d rational conformal field theory with an appropriate rational chiral central charge, and the 4d \\(\\mathbb{Z}_4^{\\mathrm{TF}}\\)-time-reversal symmetric topological superconductor with 3d boundary topological order.\n\n\n\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "papers/hsi18.html",
+    "href": "papers/hsi18.html",
+    "title": "Discrete Gauge Anomalies Revisited",
+    "section": "",
+    "text": "Chang-Tse Hsieh\n\n\nWe revisit discrete gauge anomalies in chiral fermion theories in \\(3+1\\) dimensions. We focus on the case that the full symmetry group of fermions is \\(\\mathrm{Spin}(4) \\times \\mathbb{Z}_n\\) or \\((\\mathrm{Spin}(4) \\times \\mathbb{Z}_{2m})/\\mathbb{Z}_2\\) with \\(\\mathbb{Z}_2\\) being the diagonal \\(\\mathbb{Z}_2\\) subgroup. The anomalies are determined by the consistency condition — based on the Dai-Freed theorem — of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global \\(\\mathbb{Z}_n\\) symmetry, and present a model for constructing these states in the framework of weak coupling.\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+  },
+  {
+    "objectID": "papers/hsi18.html#author",
+    "href": "papers/hsi18.html#author",
+    "title": "Discrete Gauge Anomalies Revisited",
+    "section": "",
+    "text": "Chang-Tse Hsieh\n\n\nWe revisit discrete gauge anomalies in chiral fermion theories in \\(3+1\\) dimensions. We focus on the case that the full symmetry group of fermions is \\(\\mathrm{Spin}(4) \\times \\mathbb{Z}_n\\) or \\((\\mathrm{Spin}(4) \\times \\mathbb{Z}_{2m})/\\mathbb{Z}_2\\) with \\(\\mathbb{Z}_2\\) being the diagonal \\(\\mathbb{Z}_2\\) subgroup. The anomalies are determined by the consistency condition — based on the Dai-Freed theorem — of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global \\(\\mathbb{Z}_n\\) symmetry, and present a model for constructing these states in the framework of weak coupling.\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
   },
   {
     "objectID": "puzzles/puzzles.html",
@@ -298,7 +361,7 @@
     "href": "meetings/apr-12-2025.html#speaker-2",
     "title": "Apr 12, 2025",
     "section": "Speaker 2",
-    "text": "Speaker 2\nKaichen Yin\n\nTheme\nReplica method\n\n\nAbstract\n\n\nVideo\nVideo 2025-04-12\n\n\nNotes\n/\n\n\nResources\nIntroduction to Black Hole Thermodynamics (Edward Witten)\nSpin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)\nReplica wormholes and the black hole interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)\nDiscrete gauge anomalies revisited (Chang-Tse Hsieh)"
+    "text": "Speaker 2\nKaichen Yin\n\nTheme\nReplica method\n\n\nAbstract\n\n\nVideo\nVideo 2025-04-12\n\n\nNotes\n/\n\n\nResources\nIntroduction to Black Hole Thermodynamics (Edward Witten)\nSpin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)\nReplica wormholes and the black hole interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)"
   },
   {
     "objectID": "meetings/apr-19-2025.html",
