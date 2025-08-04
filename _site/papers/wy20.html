@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Meetings – Math-Physics Paris</title>
+<title>Anomaly Inflow and the η-Invariant – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -264,7 +293,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Notes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../meetings/meetings.html" aria-current="page"> 
+    <a class="nav-link" href="../meetings/meetings.html"> 
 <span class="menu-text">Meetings</span></a>
   </li>  
   <li class="nav-item">
@@ -287,8 +316,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#author" id="toc-author" class="nav-link active" data-scroll-target="#author">Author</a>
+  <ul class="collapse">
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#link" id="toc-link" class="nav-link" data-scroll-target="#link">Link</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -296,7 +335,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Meetings</h1>
+<h1 class="title">Anomaly Inflow and the η-Invariant</h1>
 </div>
 
 
@@ -313,47 +352,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<ul>
-<li><a href="../meetings/mar-15-2025.html">Mar 15, 2025: Axiomatic Construction of TQFT</a><br>
-</li>
-<li><a href="../meetings/mar-16-2025.html">Mar 16, 2025: Meet &amp; Greet Session</a><br>
-</li>
-<li><a href="../meetings/mar-22-2025.html">Mar 22, 2025: Basic Concepts of Higher-form Symmetries &amp; Yang-Mills Theory</a><br>
-</li>
-<li><a href="../meetings/mar-29-2025.html">Mar 29, 2025: Chiral Anomaly</a><br>
-</li>
-<li><a href="../meetings/apr-05-2025.html">Apr 05, 2025: ’t Hooft Anomaly</a><br>
-</li>
-<li><a href="../meetings/apr-06-2025.html">Apr 06, 2025: Leptogenesis</a><br>
-</li>
-<li><a href="../meetings/apr-12-2025.html">Apr 12, 2025: Homology Theory &amp; Replica Method</a><br>
-</li>
-<li><a href="../meetings/apr-13-2025.html">Apr 13, 2025: Leptogenesis and Sakharov Conditions</a><br>
-</li>
-<li><a href="../meetings/apr-19-2025.html">Apr 19, 2025: Chern-Weil Theorem &amp; Characteristic Classes</a></li>
-<li><a href="../meetings/apr-22-2025.html">Apr 22, 2025: Atiyah-Singer Index Theorem</a><br>
-</li>
-<li><a href="../meetings/may-06-2025.html">May 06, 2025: Wess-Zumino Condition</a><br>
-</li>
-<li><a href="../meetings/may-10-2025.html">May 10, 2025: Topological K-theory</a><br>
-</li>
-<li><a href="../meetings/may-17-2025.html">May 17, 2025: SPT Construction</a><br>
-</li>
-<li><a href="../meetings/may-24-2025.html">May 24, 2025: Instanton</a><br>
-</li>
-<li><a href="../meetings/jun-07-2025.html">Jun 07, 2025: SymTFT</a><br>
-</li>
-<li><a href="../meetings/jun-15-2025.html">Jun 15, 2025: Non-invertible Symmetries in 4d</a><br>
-</li>
-<li><a href="../meetings/jul-12-2025.html">Jul 12, 2025: WKB Method and Symplectic Geometry</a><br>
-</li>
-<li><a href="../meetings/jul-20-2025.html">Jul 20, 2025: Quantizable Condition and Maslov Technique</a></li>
-<li><a href="../meetings/jul-26-2025.html">Jul 26, 2025: A Complete Geometric Characterization of Quantizability</a></li>
-<li><a href="../meetings/aug-02-2025.html">Aug 02, 2025: Differential Operators on Manifolds</a></li>
-<li><a href="../meetings/aug-04-2025.html">Aug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry</a></li>
-</ul>
+<section id="author" class="level2">
+<h2 class="anchored" data-anchor-id="author">Author</h2>
+<p>Edward Witten, Kazuya Yonekura</p>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>Perturbative fermion anomalies in spacetime dimension <span class="math inline">\(d\)</span> have a well-known relation to Chern–Simons functions in dimension <span class="math inline">\(D = d + 1\)</span>. This relationship is manifested in a beautiful way in ``anomaly inflow’’ from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the <span class="math inline">\(\eta\)</span>-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the <span class="math inline">\(\eta\)</span>-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in <span class="math inline">\(d\)</span> dimensions in terms of an <span class="math inline">\(\eta\)</span>-invariant in <span class="math inline">\(D\)</span> dimensions. This <span class="math inline">\(\eta\)</span>-invariant is a cobordism invariant whenever perturbative anomalies cancel.</p>
+</section>
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://arxiv.org/abs/1909.08775">Anomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)</a></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script src="https://giscus.app/client.js" data-repo="roimex/Math-Physics-Paris" data-repo-id="R_kgDOPSnCxg" data-category="General" data-category-id="DIC_kwDOPSnCxs4Ctcpg" data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="bottom" data-theme="preferred_color_scheme" data-lang="en" crossorigin="anonymous" async="">

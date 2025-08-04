@@ -1,0 +1,14 @@
+---
+title: "Dai-Freed theorem and topological phases of matter"
+---
+
+## Author
+
+Kazuya Yonekura
+
+### Abstract
+We describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.
+
+### Link
+
+[Dai-Freed theorem and topological phases of matter (Kazuya Yonekura)](https://arxiv.org/abs/1607.01873)

@@ -6,3 +6,5 @@ title: "Papers"
 - [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](wan25.qmd)
 - [Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)](pw23.qmd)
 - [Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](wang25.qmd)
+- [Dai-Freed theorem and topological phases of matter (Kazuya Yonekura)](yon16.qmd)
+- [Anomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)](wy20.qmd)

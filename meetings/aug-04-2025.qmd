@@ -1,0 +1,27 @@
+---
+title: "Aug 04, 2025"
+---
+
+## Speaker
+Juven Wang
+
+### Theme
+Anomaly Coefficients: Continuous vs Discrete Symmetry
+
+### Video
+[Video 2025-08-04](https://drive.google.com/file/d/1a-k67A6yIUj99EVq5njv7Chg2etP0pWV/view?usp=sharing)
+
+### Notes
+[Notes 2025-08-04](https://drive.google.com/file/d/1z2AqCZy9XyhhNIgmzilFLsTSZH88g_C-/view?usp=sharing)
+
+### Resources
+- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](https://drive.google.com/file/d/1GHdDTJsYlEnilB-zKADMHJyK6W1wln3C/view?usp=sharing)
+- [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](https://drive.google.com/file/d/10DVU1EgEUwXN6SS_mDFLcEJ4GsYOe3Wo/view?usp=sharing)
+- [Dai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)](https://drive.google.com/file/d/1uFDjITbXp_R6zTvnQHljRsbH8fHNM9vy/view?usp=sharing)
+- [The Atiyah-Singer Index Theorem (Daniel S. Freed)](https://drive.google.com/file/d/1xa5IHDYf3gF4ky0yR44oM-m0cj1U3yNg/view?usp=sharing)
+- [Spectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)](https://drive.google.com/file/d/1MviSR9Ja1truyhawdRbZMA95wFgtlvB2/view?usp=sharing)
+- [The Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)](https://drive.google.com/file/d/18jvgo7xvFTSm0uwdlYMBzm63um1lsEqi/view?usp=sharing)
+- [The Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)](https://drive.google.com/file/d/1amHNtYETllEqRGVYqOiNIETq47BBxt_k/view?usp=sharing)
+- [Introduction To Chern-Simons Theories (Gregory W. Moore)](https://drive.google.com/file/d/1AueGTgVRFQ5FPYApZ8FC5YsB2xuH-1eC/view?usp=sharing)
+- [Dai-Freed theorem and topological phases of matter (Kazuya Yonekura)](https://drive.google.com/file/d/1fOfWV1v1gvsumDx6bVv_qzzI09B2phfd/view?usp=sharing)
+- [Anomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)](https://drive.google.com/file/d/1k25DGyX8E-F1wJFnhV1X3ZbFY6ncDStW/view?usp=sharing)

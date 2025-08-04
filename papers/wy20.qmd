@@ -1,0 +1,15 @@
+---
+title: "Anomaly Inflow and the η-Invariant"
+---
+
+## Author
+
+Edward Witten, Kazuya Yonekura
+
+### Abstract
+Perturbative fermion anomalies in spacetime dimension $d$ have a well-known relation to Chern–Simons functions in dimension $D = d + 1$. This relationship is manifested in a beautiful way in ``anomaly inflow'' from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the $\eta$-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the $\eta$-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in $d$ dimensions in terms of an $\eta$-invariant in $D$ dimensions. This $\eta$-invariant is a cobordism invariant whenever perturbative anomalies cancel.
+
+
+### Link
+
+[Anomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)](https://arxiv.org/abs/1909.08775)
