@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dai-Freed Theorem and Topological Phases of Matter – Math-Physics Paris</title>
+<title>The Index of Elliptic Operators II – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -306,7 +335,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dai-Freed Theorem and Topological Phases of Matter</h1>
+<h1 class="title">The Index of Elliptic Operators II</h1>
 </div>
 
 
@@ -325,14 +354,17 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="author" class="level2">
 <h2 class="anchored" data-anchor-id="author">Author</h2>
-<p>Kazuya Yonekura</p>
+<p>M. F. Atiyah, G. B. Segal</p>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>We describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.</p>
+<p>The purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.</p>
+<p>The content of this paper is essentially topological, and it should be viewed as a paper on the equivariant <span class="math inline">\(K\)</span>-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.</p>
+<p>As in [5], we avoid cohomology and use only <span class="math inline">\(K\)</span>-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.</p>
+<p>The basic result in <span class="math inline">\(K_G\)</span>-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.</p>
 </section>
 <section id="link" class="level3">
 <h3 class="anchored" data-anchor-id="link">Link</h3>
-<p><a href="https://arxiv.org/abs/1607.01873">Dai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)</a></p>
+<p><a href="https://drive.google.com/file/d/1amHNtYETllEqRGVYqOiNIETq47BBxt_k/view?usp=sharing">The Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)</a></p>
 
 
 </section>
