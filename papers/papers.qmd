@@ -2,9 +2,18 @@
 title: "Papers"
 ---
 
-- [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](hsi18.qmd)
-- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](wan25.qmd)
-- [Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)](pw23.qmd)
 - [Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)](wang25.qmd)
-- [Dai-Freed theorem and topological phases of matter (Kazuya Yonekura)](yon16.qmd)
+- [Categorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)](pw23.qmd)
+- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](wan25.qmd)
+- [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](hsi18.qmd)
+
+- [Dai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)](gm20.qmd)
+- [Dai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)](yon16.qmd)
 - [Anomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)](wy20.qmd)
+
+- [The Atiyah-Singer Index Theorem (Daniel S. Freed)](fre21.qmd)
+- [The Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)](as68a.qmd)
+- [The Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)](as68b.qmd)
+- [Spectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)](aps75.qmd)
+
+- [Introduction To Chern-Simons Theories (Gregory W. Moore)](moo19.qmd)

@@ -1,0 +1,15 @@
+---
+title: "The Atiyah-Singer Index Theorem"
+---
+
+## Author
+
+Daniel S. Freed
+
+### Abstract
+The Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings
+together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.
+
+### Link
+
+[The Atiyah-Singer Index Theorem (Daniel S. Freed)](https://arxiv.org/abs/2107.03557)

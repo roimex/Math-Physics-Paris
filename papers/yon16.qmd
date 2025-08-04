@@ -1,5 +1,5 @@
 ---
-title: "Dai-Freed theorem and topological phases of matter"
+title: "Dai-Freed Theorem and Topological Phases of Matter"
 ---
 
 ## Author
@@ -11,4 +11,4 @@ We describe a physics derivation of theorems due to Dai and Freed about the Atiy
 
 ### Link
 
-[Dai-Freed theorem and topological phases of matter (Kazuya Yonekura)](https://arxiv.org/abs/1607.01873)
+[Dai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)](https://arxiv.org/abs/1607.01873)

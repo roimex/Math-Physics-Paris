@@ -1,0 +1,14 @@
+---
+title: "Introduction To Chern-Simons Theories"
+---
+
+## Author
+
+Gregory W. Moore
+
+### Abstract
+These are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)
+
+### Link
+
+[Introduction To Chern-Simons Theories (Gregory W. Moore)](https://drive.google.com/file/d/1AueGTgVRFQ5FPYApZ8FC5YsB2xuH-1eC/view?usp=sharing)

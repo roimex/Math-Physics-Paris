@@ -1,0 +1,14 @@
+---
+title: "The Index of Elliptic Operators I"
+---
+
+## Author
+
+M. F. Atiyah, I. M. Singer
+
+### Abstract
+This is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary\textsuperscript{1}, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.
+
+### Link
+
+[The Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)](https://drive.google.com/file/d/18jvgo7xvFTSm0uwdlYMBzm63um1lsEqi/view?usp=sharing)

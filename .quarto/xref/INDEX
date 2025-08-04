@@ -103,5 +103,23 @@
   },
   "meetings/aug-04-2025.qmd": {
     "aug-04-2025.html": "3a0bb355"
+  },
+  "papers/gm20.qmd": {
+    "gm20.html": "7fe813f3"
+  },
+  "papers/fre21.qmd": {
+    "fre21.html": "3eca0e41"
+  },
+  "papers/moo19.qmd": {
+    "moo19.html": "727c0d22"
+  },
+  "papers/as68b.qmd": {
+    "as68b.html": "235ba6ef"
+  },
+  "papers/as68a.qmd": {
+    "as68a.html": "be9c15d8"
+  },
+  "papers/aps75.qmd": {
+    "aps75.html": "b20c9951"
   }
 }

@@ -1,0 +1,26 @@
+---
+title: "The Index of Elliptic Operators II"
+---
+
+## Author
+
+M. F. Atiyah, G. B. Segal
+
+### Abstract
+The purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.
+
+\medskip
+
+The content of this paper is essentially topological, and it should be viewed as a paper on the equivariant $K$-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.
+
+\medskip
+
+As in [5], we avoid cohomology and use only $K$-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.
+
+\medskip
+
+The basic result in $K_G$-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in \S1. In \S2, this is then applied to the topological index. Some cases of special interest are then discussed in \S3.
+
+### Link
+
+[The Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)](https://drive.google.com/file/d/1amHNtYETllEqRGVYqOiNIETq47BBxt_k/view?usp=sharing)

@@ -81,14 +81,14 @@
     "href": "meetings/aug-04-2025.html",
     "title": "Aug 04, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed theorem and topological phases of matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
   },
   {
     "objectID": "meetings/aug-04-2025.html#speaker",
     "href": "meetings/aug-04-2025.html#speaker",
     "title": "Aug 04, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed theorem and topological phases of matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
   },
   {
     "objectID": "meetings/apr-06-2025.html",
@@ -189,6 +189,90 @@
     "text": "Edward Witten, Kazuya Yonekura\n\n\nPerturbative fermion anomalies in spacetime dimension \\(d\\) have a well-known relation to Chern–Simons functions in dimension \\(D = d + 1\\). This relationship is manifested in a beautiful way in ``anomaly inflow’’ from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the \\(\\eta\\)-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the \\(\\eta\\)-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in \\(d\\) dimensions in terms of an \\(\\eta\\)-invariant in \\(D\\) dimensions. This \\(\\eta\\)-invariant is a cobordism invariant whenever perturbative anomalies cancel.\n\n\n\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
   },
   {
+    "objectID": "papers/aps75.html",
+    "href": "papers/aps75.html",
+    "title": "Spectral Asymmetry and Riemannian Geometry I",
+    "section": "",
+    "text": "M. F. Atiyah, V. K. Patodi and I. M. Singer\n\n\n/\n\n\n\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)"
+  },
+  {
+    "objectID": "papers/aps75.html#author",
+    "href": "papers/aps75.html#author",
+    "title": "Spectral Asymmetry and Riemannian Geometry I",
+    "section": "",
+    "text": "M. F. Atiyah, V. K. Patodi and I. M. Singer\n\n\n/\n\n\n\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)"
+  },
+  {
+    "objectID": "papers/as68b.html",
+    "href": "papers/as68b.html",
+    "title": "The Index of Elliptic Operators II",
+    "section": "",
+    "text": "M. F. Atiyah, G. B. Segal\n\n\nThe purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.\nThe content of this paper is essentially topological, and it should be viewed as a paper on the equivariant \\(K\\)-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.\nAs in [5], we avoid cohomology and use only \\(K\\)-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.\nThe basic result in \\(K_G\\)-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.\n\n\n\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)"
+  },
+  {
+    "objectID": "papers/as68b.html#author",
+    "href": "papers/as68b.html#author",
+    "title": "The Index of Elliptic Operators II",
+    "section": "",
+    "text": "M. F. Atiyah, G. B. Segal\n\n\nThe purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.\nThe content of this paper is essentially topological, and it should be viewed as a paper on the equivariant \\(K\\)-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.\nAs in [5], we avoid cohomology and use only \\(K\\)-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.\nThe basic result in \\(K_G\\)-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.\n\n\n\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)"
+  },
+  {
+    "objectID": "papers/moo19.html",
+    "href": "papers/moo19.html",
+    "title": "Introduction To Chern-Simons Theories",
+    "section": "",
+    "text": "Gregory W. Moore\n\n\nThese are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)\n\n\n\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+  },
+  {
+    "objectID": "papers/moo19.html#author",
+    "href": "papers/moo19.html#author",
+    "title": "Introduction To Chern-Simons Theories",
+    "section": "",
+    "text": "Gregory W. Moore\n\n\nThese are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)\n\n\n\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+  },
+  {
+    "objectID": "papers/fre21.html",
+    "href": "papers/fre21.html",
+    "title": "The Atiyah-Singer Index Theorem",
+    "section": "",
+    "text": "Daniel S. Freed\n\n\nThe Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)"
+  },
+  {
+    "objectID": "papers/fre21.html#author",
+    "href": "papers/fre21.html#author",
+    "title": "The Atiyah-Singer Index Theorem",
+    "section": "",
+    "text": "Daniel S. Freed\n\n\nThe Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Waiting to be filled…"
+  },
+  {
+    "objectID": "papers/gm20.html",
+    "href": "papers/gm20.html",
+    "title": "Dai-Freed Anomalies in Particle Physics",
+    "section": "",
+    "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
+  },
+  {
+    "objectID": "papers/gm20.html#author",
+    "href": "papers/gm20.html#author",
+    "title": "Dai-Freed Anomalies in Particle Physics",
+    "section": "",
+    "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
+  },
+  {
+    "objectID": "papers/papers.html",
+    "href": "papers/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+  },
+  {
     "objectID": "papers/wan25.html",
     "href": "papers/wan25.html",
     "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
@@ -203,32 +287,32 @@
     "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "papers/as68a.html",
+    "href": "papers/as68a.html",
+    "title": "The Index of Elliptic Operators I",
     "section": "",
-    "text": "Waiting to be filled…"
+    "text": "M. F. Atiyah, I. M. Singer\n\n\nThis is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.\n\n\n\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)"
   },
   {
-    "objectID": "papers/papers.html",
-    "href": "papers/papers.html",
-    "title": "Papers",
+    "objectID": "papers/as68a.html#author",
+    "href": "papers/as68a.html#author",
+    "title": "The Index of Elliptic Operators I",
     "section": "",
-    "text": "Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nDai-Freed theorem and topological phases of matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+    "text": "M. F. Atiyah, I. M. Singer\n\n\nThis is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.\n\n\n\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)"
   },
   {
     "objectID": "papers/yon16.html",
     "href": "papers/yon16.html",
-    "title": "Dai-Freed theorem and topological phases of matter",
+    "title": "Dai-Freed Theorem and Topological Phases of Matter",
     "section": "",
-    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed theorem and topological phases of matter (Kazuya Yonekura)"
+    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
   },
   {
     "objectID": "papers/yon16.html#author",
     "href": "papers/yon16.html#author",
-    "title": "Dai-Freed theorem and topological phases of matter",
+    "title": "Dai-Freed Theorem and Topological Phases of Matter",
     "section": "",
-    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed theorem and topological phases of matter (Kazuya Yonekura)"
+    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
   },
   {
     "objectID": "papers/pw23.html",
