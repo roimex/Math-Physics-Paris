@@ -15,7 +15,7 @@ Anomaly Coefficients: Continuous vs Discrete Symmetry
 [Notes 2025-08-04](https://drive.google.com/file/d/1z2AqCZy9XyhhNIgmzilFLsTSZH88g_C-/view?usp=sharing)
 
 ### Resources
-- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](https://drive.google.com/file/d/1GHdDTJsYlEnilB-zKADMHJyK6W1wln3C/view?usp=sharing)
+- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](https://drive.google.com/file/d/1tl4xwjy_haqueObJ7zAwpysuVwxoxZ2e/view?usp=sharing)
 - [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](https://drive.google.com/file/d/10DVU1EgEUwXN6SS_mDFLcEJ4GsYOe3Wo/view?usp=sharing)
 - [Dai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)](https://drive.google.com/file/d/1uFDjITbXp_R6zTvnQHljRsbH8fHNM9vy/view?usp=sharing)
 - [The Atiyah-Singer Index Theorem (Daniel S. Freed)](https://drive.google.com/file/d/1xa5IHDYf3gF4ky0yR44oM-m0cj1U3yNg/view?usp=sharing)

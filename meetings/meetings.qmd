@@ -23,3 +23,4 @@ title: "Meetings"
 - [Jul 26, 2025: A Complete Geometric Characterization of Quantizability](jul-26-2025.qmd)
 - [Aug 02, 2025: Differential Operators on Manifolds](aug-02-2025.qmd)
 - [Aug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry](aug-04-2025.qmd)
+- [Aug 05, 2025: Discrete Gauge Anomalies Revisited](aug-05-2025.qmd)
