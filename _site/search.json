@@ -74,7 +74,7 @@
     "href": "meetings/meetings.html",
     "title": "Meetings",
     "section": "",
-    "text": "Mar 15, 2025: Axiomatic Construction of TQFT\n\nMar 16, 2025: Meet & Greet Session\n\nMar 22, 2025: Basic Concepts of Higher-form Symmetries & Yang-Mills Theory\n\nMar 29, 2025: Chiral Anomaly\n\nApr 05, 2025: ’t Hooft Anomaly\n\nApr 06, 2025: Leptogenesis\n\nApr 12, 2025: Homology Theory & Replica Method\n\nApr 13, 2025: Leptogenesis and Sakharov Conditions\n\nApr 19, 2025: Chern-Weil Theorem & Characteristic Classes\nApr 22, 2025: Atiyah-Singer Index Theorem\n\nMay 06, 2025: Wess-Zumino Condition\n\nMay 10, 2025: Topological K-theory\n\nMay 17, 2025: SPT Construction\n\nMay 24, 2025: Instanton\n\nJun 07, 2025: SymTFT\n\nJun 15, 2025: Non-invertible Symmetries in 4d\n\nJul 12, 2025: WKB Method and Symplectic Geometry\n\nJul 20, 2025: Quantizable Condition and Maslov Technique\nJul 26, 2025: A Complete Geometric Characterization of Quantizability\nAug 02, 2025: Differential Operators on Manifolds\nAug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry\nAug 05, 2025: Discrete Gauge Anomalies Revisited"
+    "text": "Mar 15, 2025: Axiomatic Construction of TQFT\n\nMar 16, 2025: Meet & Greet Session\n\nMar 22, 2025: Basic Concepts of Higher-form Symmetries & Yang-Mills Theory\n\nMar 29, 2025: Chiral Anomaly\n\nApr 05, 2025: ’t Hooft Anomaly\n\nApr 06, 2025: Leptogenesis\n\nApr 12, 2025: Homology Theory & Replica Method\n\nApr 13, 2025: Leptogenesis and Sakharov Conditions\n\nApr 19, 2025: Chern-Weil Theorem & Characteristic Classes\nApr 22, 2025: Atiyah-Singer Index Theorem\n\nMay 06, 2025: Wess-Zumino Condition\n\nMay 10, 2025: Topological K-theory\n\nMay 17, 2025: SPT Construction\n\nMay 24, 2025: Instanton\n\nJun 07, 2025: SymTFT\n\nJun 15, 2025: Non-invertible Symmetries in 4d\n\nJul 12, 2025: WKB Method and Symplectic Geometry\n\nJul 20, 2025: Quantizable Condition and Maslov Technique\nJul 26, 2025: A Complete Geometric Characterization of Quantizability\nAug 02, 2025: Differential Operators on Manifolds\nAug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry\nAug 05, 2025: Discrete Gauge Anomalies Revisited\nAug 06, 2025: Free Discussion on the Project"
   },
   {
     "objectID": "meetings/aug-05-2025.html",
@@ -537,5 +537,19 @@
     "title": "Apr 19, 2025",
     "section": "Speaker 2",
     "text": "Speaker 2\nYiyi Wan\n\nTheme\nCharacteristic Classes\n\n\nAbstract\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\nVideo\nVideo 2025-04-19\n\n\nNotes\nNotes 2025-04-19\n\n\nResources\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+  },
+  {
+    "objectID": "meetings/aug-06-2025.html",
+    "href": "meetings/aug-06-2025.html",
+    "title": "Aug 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion on the Project\n\n\n\nVideo 2025-08-06\n\n\n\nNotes 2025-08-06\n\n\n\n/"
+  },
+  {
+    "objectID": "meetings/aug-06-2025.html#speaker",
+    "href": "meetings/aug-06-2025.html#speaker",
+    "title": "Aug 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion on the Project\n\n\n\nVideo 2025-08-06\n\n\n\nNotes 2025-08-06\n\n\n\n/"
   }
 ]
