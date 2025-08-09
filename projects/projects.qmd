@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+- [Mar 16, 2025: Meet & Greet Session](mar-16-2025.qmd) 
+- [Apr 06, 2025: Leptogenesis](apr-06-2025.qmd) 
+- [Apr 13, 2025: Leptogenesis and Sakharov Conditions](apr-13-2025.qmd) 
+- [Apr 22, 2025: Atiyah-Singer Index Theorem](apr-22-2025.qmd)  
+- [Aug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry](aug-04-2025.qmd)
+- [Aug 05, 2025: Discrete Gauge Anomalies Revisited](aug-05-2025.qmd)
+- [Aug 06, 2025: Free Discussion on the Project](aug-06-2025.qmd)
