@@ -1,1 +1,2 @@
-Sitemap: https://roimex.github.io/Math-Physics-Paris/sitemap.xml
+User-agent: *
+Disallow: /
