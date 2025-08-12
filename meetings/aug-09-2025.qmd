@@ -1,0 +1,24 @@
+---
+title: "Aug 09, 2025"
+---
+
+## Speaker
+Yuxiao Xie
+
+### Theme
+Introduction to 2d Conformal Field Theory
+
+### Abstract
+The purpose of this talk is to interpret the main ingredients of two-dimensional Euclidean conformal field theory in terms of path integrals, including states, fields, the state-field correspondence, the Virasoro algebra, and operator product expansions. This led us to Segal's axiomatization of conformal field theory, which defines a conformal field theory as a projective functor from the cobordism category of Riemann surfaces to the category of Hilbert spaces, whence the conformal bootstrap is understood as a consequence of the gluing axiom. This perspective has the advantage of elucidating the link between conformal field theory and conformal geometry—especially with Teichmüller theory—and, in the case of Liouville theory, it has recently been given a mathematically rigorous construction.
+
+### Video
+[Video 2025-08-09](https://drive.google.com/file/d/1ttNTvb7GVGrRHTAZ0r5luQNJ59fy1-fK/view?usp=sharing)
+
+### Notes
+[共形场论的 Segal 公理化 (谢雨潇)](https://drive.google.com/file/d/1_EBUFYMZM34jZmN-YSX3ZHhVntfoBY1E/view?usp=sharing)
+
+### Resources
+- [Conformal Bootstrap in Liouville Theory (Colin Guillarmou, Antti Kupiainen, Rémi Rhodes, Vincent Vargas)](https://drive.google.com/file/d/1vheGuD8brKtqigmLz_BM-SZSNQQeu0OO/view?usp=sharing)
+- [Polyakov's Formulation of 2d Bosonic String Theory (Colin Guillarmou, Rémi Rhodes, Vincent Vargas)](https://drive.google.com/file/d/1dNlm1rQrlTWqGUl216rVMBHmdl856Lud/view?usp=sharing)
+- [Segal's Axioms and Bootstrap for Liouville Theory (Colin Guillarmou, Antti Kupiainen, Rémi Rhodes, Vincent Vargas)](https://drive.google.com/file/d/1YTVFJfruQg5zJr2vPYVW4hpYdPGzIpZc/view?usp=sharing)
+- [The Definition of Conformal Field Theory (Graeme Segal)](https://drive.google.com/file/d/10kr-cPy_YQlxTw8-ukLy8hctiAkN-P-D/view?usp=sharing)

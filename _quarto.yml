@@ -11,6 +11,8 @@ website:
         text: Notes
       - href: meetings/meetings.qmd
         text: Meetings
+      - href: projects/projects.qmd
+        text: Projects
       - href: papers/papers.qmd
         text: Papers
       - href: puzzles/puzzles.qmd
