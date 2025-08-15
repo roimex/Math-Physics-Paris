@@ -27,6 +27,7 @@ Kaichen Yin
 Replica method
 
 ### Abstract
+/
 
 ### Video  
 [Video 2025-04-12](https://drive.google.com/file/d/1Z9OscnXl7WgyrlfzmB90subRIBhGepuS/view?usp=sharing)
@@ -37,4 +38,4 @@ Replica method
 ### Resources  
 - [Introduction to Black Hole Thermodynamics (Edward Witten)](https://drive.google.com/file/d/1wiC13MmncGQJ3OcNlOx6eqVRyII0Jg5W/view?usp=sharing)
 - [Spin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)](https://drive.google.com/file/d/17NY7Nh4m6nx7rMc7EvfAI1yAarCbxfNg/view?usp=sharing)
-- [Replica wormholes and the black hole interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)](https://drive.google.com/file/d/1WpLvIPV7sLbEL9_F-OaehpckkxUY2gGH/view?usp=sharing)
+- [Replica Wormholes and the Black Hole Interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)](https://drive.google.com/file/d/1WpLvIPV7sLbEL9_F-OaehpckkxUY2gGH/view?usp=sharing)

@@ -9,7 +9,7 @@ Yiyi Wan
 Quantizable Condition and Maslov Technique
 
 ### Abstract
-In this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum \mathbb{T}_{\hbar} bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.
+In this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum $\mathbb{T}_{\hbar}$ bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.
 
 ### Video
 [Video 2025-07-20](https://drive.google.com/file/d/1dh4RsLJUcGZxIa6J4I02KM7uI5USmBYv/view?usp=sharing)

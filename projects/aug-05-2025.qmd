@@ -15,5 +15,5 @@ Discrete Gauge Anomalies Revisited
 [Notes 2025-08-05](https://drive.google.com/file/d/1_UBZEwrsZ9mYNLiB1SKA_62FeFRvTD6a/view?usp=sharing)
 
 ### Resources
-- [Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](https://drive.google.com/file/d/1tl4xwjy_haqueObJ7zAwpysuVwxoxZ2e/view?usp=sharing)
+- [Anomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)](https://drive.google.com/file/d/1tl4xwjy_haqueObJ7zAwpysuVwxoxZ2e/view?usp=sharing)
 - [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](https://drive.google.com/file/d/10DVU1EgEUwXN6SS_mDFLcEJ4GsYOe3Wo/view?usp=sharing)

@@ -12,4 +12,4 @@ We derive the anomaly indices of 4d Weyl fermions with symmetry $\mathrm{Spin} \
 
 ### Link
 
-[Anomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)](https://arxiv.org/abs/2506.19710)
+[Anomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)](https://arxiv.org/abs/2506.19710)
