@@ -13,3 +13,4 @@ title: "Projects"
 - [Aug 09, 2025: Free Discussion](aug-09-2025.qmd)
 - [Aug 10, 2025: Free Discussion](aug-10-2025.qmd)
 - [Aug 11, 2025: Free Discussion](aug-11-2025.qmd)
+- [Aug 14, 2025: Free Discussion](aug-14-2025.qmd)
