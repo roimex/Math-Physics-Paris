@@ -46,21 +46,21 @@
     "href": "meetings/meetings.html",
     "title": "Meetings",
     "section": "",
-    "text": "Mar 15, 2025: Axiomatic Construction of TQFT\n\nMar 22, 2025: Basic Concepts of Higher-form Symmetries & Yang-Mills Theory\n\nMar 29, 2025: Chiral Anomaly\n\nApr 05, 2025: ’t Hooft Anomaly\n\nApr 12, 2025: Homology Theory & Replica Method\n\nApr 19, 2025: Chern-Weil Theorem & Characteristic Classes\nMay 06, 2025: Wess-Zumino Condition\n\nMay 10, 2025: Topological K-theory\n\nMay 17, 2025: SPT Construction\n\nMay 24, 2025: Instanton\n\nJun 07, 2025: SymTFT\n\nJun 15, 2025: Non-invertible Symmetries in 4d\n\nJul 12, 2025: WKB Method and Symplectic Geometry\n\nJul 20, 2025: Quantizable Condition and Maslov Technique\nJul 26, 2025: A Complete Geometric Characterization of Quantizability\nAug 02, 2025: Differential Operators on Manifolds\nAug 09, 2025: Introduction to 2d Conformal Field Theory\nAug 16, 2025: Dirac-type Operators"
+    "text": "Mar 15, 2025: Axiomatic Construction of TQFT\n\nMar 22, 2025: Basic Concepts of Higher-form Symmetries & Yang-Mills Theory\n\nMar 29, 2025: Chiral Anomaly\n\nApr 05, 2025: ’t Hooft Anomaly\n\nApr 12, 2025: Homology Theory & Replica Method\n\nApr 19, 2025: Chern-Weil Theorem & Characteristic Classes\nMay 06, 2025: Wess-Zumino Condition\n\nMay 10, 2025: Topological K-theory\n\nMay 17, 2025: SPT Construction\n\nMay 24, 2025: Instanton\n\nJun 07, 2025: SymTFT\n\nJun 15, 2025: Non-invertible Symmetries in 4d\n\nJul 12, 2025: WKB Method and Symplectic Geometry\n\nJul 20, 2025: Quantizable Condition and Maslov Technique\nJul 26, 2025: A Complete Geometric Characterization of Quantizability\nAug 02, 2025: Differential Operators on Manifolds\nAug 09, 2025: Introduction to 2d Conformal Field Theory\nAug 16, 2025: The Analysis of Dirac-type Operators"
   },
   {
     "objectID": "meetings/aug-16-2025.html",
     "href": "meetings/aug-16-2025.html",
     "title": "Aug 16, 2025",
     "section": "",
-    "text": "Xingyu Chen\n\n\nDirac-type operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
     "objectID": "meetings/aug-16-2025.html#speaker",
     "href": "meetings/aug-16-2025.html#speaker",
     "title": "Aug 16, 2025",
     "section": "",
-    "text": "Xingyu Chen\n\n\nDirac-type operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
     "objectID": "meetings/may-10-2025.html",
@@ -445,14 +445,14 @@
     "href": "projects/aug-11-2025.html",
     "title": "Aug 11, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)"
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)\nCubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)"
   },
   {
     "objectID": "projects/aug-11-2025.html#speaker",
     "href": "projects/aug-11-2025.html#speaker",
     "title": "Aug 11, 2025",
     "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)"
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)\nCubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)"
   },
   {
     "objectID": "projects/apr-13-2025.html",
