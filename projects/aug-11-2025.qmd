@@ -17,3 +17,4 @@ Free Discussion
 ### Resources
 - [Mod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)](https://drive.google.com/file/d/1TIjuQc9icn0EcGdPoHqRqtSNz9OZTpUA/view?usp=sharing)
 - [Some Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)](https://drive.google.com/file/d/1zZlN-IjrSZs5__qWIAFGuKdPUdmskwSj/view?usp=sharing)
+- [Cubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)](https://drive.google.com/file/d/1NncoQEtaNX2hGV2HFAoAumUX8eA1W0KS/view?usp=sharing)
