@@ -19,3 +19,4 @@ title: "Meetings"
 - [Jul 26, 2025: A Complete Geometric Characterization of Quantizability](jul-26-2025.qmd)
 - [Aug 02, 2025: Differential Operators on Manifolds](aug-02-2025.qmd)
 - [Aug 09, 2025: Introduction to 2d Conformal Field Theory](aug-09-2025.qmd)
+- [Aug 16, 2025: Dirac-type Operators](aug-16-2025.qmd)

@@ -1,0 +1,21 @@
+---
+title: "Aug 16, 2025"
+---
+
+## Speaker
+Xingyu Chen
+
+### Theme
+Dirac-type operators
+
+### Abstract
+This lecture, based on the second half part of Chapter 1 of Christian Bär's Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.
+
+### Video
+[Video 2025-08-16](https://drive.google.com/file/d/1WhzQOmr3K7RVWMyvgHs6xkxiM3jN5O88/view?usp=sharing)
+
+### Notes
+[Notes 2025-08-16](https://drive.google.com/file/d/1JQhirfpmIGxNQ8sT_B2GIvfUfj6zjivP/view?usp=sharing)
+
+### Resources
+- [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)
