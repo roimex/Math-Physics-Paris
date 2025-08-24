@@ -1,0 +1,24 @@
+---
+title: "Aug 23, 2025"
+---
+
+## Speaker
+Yuxiao Xie
+
+### Theme
+Construction of Liouville Conformal Field Theory
+
+### Abstract
+In this talk, we introduced the main ideas in the mathematical construction of the path integrals in Liouville Conformal Field Theory. Taking inspiration from the finite-dimensional case, the Dirichlet energy term leads to the definition of Gaussian Free Fields, a probabilistic tool for studying infinite-dimensional Gaussian integrals. The linear curvature term amounts to a translation on this space, a process known as the Girsanov transform. Finally, the Liouville potential term is defined by introducing the Gaussian Multiplicative Chaos.
+
+### Video
+[Video 2025-08-23](https://drive.google.com/file/d/1E00GQFyKS17Vm04mdVdpnvOwSsGR7ibg/view?usp=sharing)
+
+### Notes
+[Liouville CFT (Yuxiao Xie)](https://drive.google.com/file/d/18IwIJYOcsTcX4_xij8CqLke7W4td8iVt/view?usp=sharing)
+
+### Resources
+- [Conformal Bootstrap in Liouville Theory (Colin Guillarmou, Antti Kupiainen, Rémi Rhodes, Vincent Vargas)](https://drive.google.com/file/d/1vheGuD8brKtqigmLz_BM-SZSNQQeu0OO/view?usp=sharing)
+- [Polyakov's Formulation of 2d Bosonic String Theory (Colin Guillarmou, Rémi Rhodes, Vincent Vargas)](https://drive.google.com/file/d/1dNlm1rQrlTWqGUl216rVMBHmdl856Lud/view?usp=sharing)
+- [Segal's Axioms and Bootstrap for Liouville Theory (Colin Guillarmou, Antti Kupiainen, Rémi Rhodes, Vincent Vargas)](https://drive.google.com/file/d/1YTVFJfruQg5zJr2vPYVW4hpYdPGzIpZc/view?usp=sharing)
+- [The Definition of Conformal Field Theory (Graeme Segal)](https://drive.google.com/file/d/10kr-cPy_YQlxTw8-ukLy8hctiAkN-P-D/view?usp=sharing)
