@@ -1,0 +1,26 @@
+---
+title: "Sep 01, 2025"
+---
+
+## Speaker
+Xianfeng Jiang
+
+### Theme
+An introduction to Clifford algebra
+
+### Abstract
+This talk is devoted to the basic algebraic ingredients of spin geometry: Clifford
+algebras and spin groups. Clifford algebras are naturally associated to vector spaces
+endowed with symmetric bilinear forms. The Clifford algebra of the n-dimensional
+Euclidean space contains the spin group $Spin(n)$, which is the 2-fold cover of the
+special orthogonal group $SO(n)$ for $n \ge 3$. We study the concept of Clifford algebras and
+highlight some of their important properties.
+
+### Video  
+[Video 2025-09-01](https://drive.google.com/file/d/1oc-9mVavo4ov3-TuvyuWjjVw9tho2_5P/view?usp=sharing)
+
+### Notes  
+[Notes 2025-09-01](https://drive.google.com/file/d/1rLasL_Jgf8gFKuis5aMg_VH4Le_Bk115/view?usp=sharing)
+
+### Resources  
+- [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)
