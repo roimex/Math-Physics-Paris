@@ -1,0 +1,21 @@
+---
+title: "Sep 06, 2025"
+---
+
+## Speaker
+Junchen Rong
+
+### Theme
+Irrational CFTs from coupled anyon chains with non-invertible symmetries?
+
+### Abstract
+Irrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling $N\geq2$ golden anyon chains together, preserving $N$ copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. As a byproduct of our analysis, we provide an extensive list of rational CFTs with $1<c<2.1$.
+
+### Video  
+[Video 2025-09-06](https://drive.google.com/file/d/1Qa2z7tGV9Kby9yvJeHSwZKXaX59B259y/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+- [Irrational CFTs from coupled anyon chains with non-invertible symmetries?](https://drive.google.com/file/d/1nelHcHDH-9HPpmSXrjTYvJfAZc9UFea9/view?usp=sharing)
