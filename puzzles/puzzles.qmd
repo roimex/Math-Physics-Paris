@@ -3,3 +3,4 @@ title: "Puzzles"
 ---
 
 - [Anomalies](anomalies.qmd)
+- [Modular Structures](modular_structures.qmd)

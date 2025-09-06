@@ -6,7 +6,7 @@ title: "Sep 01, 2025"
 Xianfeng Jiang
 
 ### Theme
-An introduction to Clifford algebra
+Introduction to Clifford algebra
 
 ### Abstract
 This talk is devoted to the basic algebraic ingredients of spin geometry: Clifford

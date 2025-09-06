@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Puzzles – Math-Physics Paris</title>
+<title>Modular Structures – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -276,7 +305,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../puzzles/puzzles.html" aria-current="page"> 
+    <a class="nav-link" href="../puzzles/puzzles.html"> 
 <span class="menu-text">Puzzles</span></a>
   </li>  
 </ul>
@@ -300,7 +329,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Puzzles</h1>
+<h1 class="title">Modular Structures</h1>
 </div>
 
 
@@ -317,10 +346,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<ul>
-<li><a href="../puzzles/anomalies.html">Anomalies</a></li>
-<li><a href="../puzzles/modular_structures.html">Modular Structures</a></li>
-</ul>
+<ol type="1">
+<li><a href="https://mathoverflow.net/questions/499085/evaluate-a-p-1-with-pontryagin-class-on-a-5-manifold">Evaluate <span class="math inline">\(A p_1\)</span> with Pontryagin Class on a 5-manifold</a></li>
+</ol>
 
 
 
