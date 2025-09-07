@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>May 06, 2025 – Math-Physics Paris</title>
+<title>Anomalies – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -304,21 +333,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#speaker" id="toc-speaker" class="nav-link active" data-scroll-target="#speaker">Speaker</a>
-  <ul class="collapse">
-  <li><a href="#theme" id="toc-theme" class="nav-link" data-scroll-target="#theme">Theme</a></li>
-  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#video" id="toc-video" class="nav-link" data-scroll-target="#video">Video</a></li>
-  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -326,7 +342,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">May 06, 2025</h1>
+<h1 class="title">Anomalies</h1>
 </div>
 
 
@@ -343,35 +359,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="speaker" class="level2">
-<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>Yiming Teng</p>
-<section id="theme" class="level3">
-<h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Wess-Zumino Condition</p>
-</section>
-<section id="abstract" class="level3">
-<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>We began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.</p>
-</section>
-<section id="video" class="level3">
-<h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1AFW39TjtSB9vfV2sQGAmt9oko9YoKJGT/view?usp=sharing">Video 2025-05-06</a></p>
-</section>
-<section id="notes" class="level3">
-<h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1VwHJUzbNwJHgM4D3sVbUCpepw_UpLdo3/view?usp=sharing">Notes 2025-05-06</a></p>
-</section>
-<section id="resources" class="level3">
-<h3 class="anchored" data-anchor-id="resources">Resources</h3>
-<ul>
-<li><a href="https://drive.google.com/file/d/1M799AKMq4QRIl1FmXDGCUIhiouesn8so/view?usp=sharing">The Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)</a></li>
-<li><a href="https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing">Geometry, Topology and Physics (Mikio Nakahara)</a></li>
-</ul>
+<p>1.⁠ ⁠What is the anomaly of 4d Weyl fermion with charge <span class="math inline">\(q\)</span> under <span class="math inline">\(U(1)\)</span> global symmetry?</p>
+<p>2.⁠ ⁠What is the anomaly of 4d Weyl fermion with representation as doublet under <span class="math inline">\(U(2)\)</span> global symmetry?</p>
+<p>3.⁠ ⁠What is the anomaly of 4d Weyl fermion with N-representation as N-multiplet under <span class="math inline">\(U(N)\)</span> global symmetry?</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script src="https://giscus.app/client.js" data-repo="roimex/Math-Physics-Paris" data-repo-id="R_kgDOPSnCxg" data-category="General" data-category-id="DIC_kwDOPSnCxs4Ctcpg" data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="bottom" data-theme="preferred_color_scheme" data-lang="en" crossorigin="anonymous" async="">

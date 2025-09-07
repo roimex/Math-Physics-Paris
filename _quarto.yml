@@ -14,13 +14,13 @@ website:
           - text: "Seminars"
             href: Seminars/seminars.qmd
           - text: "Projects"
-            href: Projects/projects.qmd
+            href: 2/projects.qmd
       - text: "Discussions"
         menu: 
           - text: "Papers"
-            href: Papers/papers.qmd
+            href: 1/papers.qmd
           - text: "Puzzles"
-            href: Puzzles/puzzles.qmd
+            href: 3/puzzles.qmd
 
 format:
   html:
