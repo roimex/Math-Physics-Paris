@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mar 22, 2025 – Math-Physics Paris</title>
+<title>Topological Quantum Dark Matter via Global Anomaly Cancellation – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -309,21 +338,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#speaker-1" id="toc-speaker-1" class="nav-link active" data-scroll-target="#speaker-1">Speaker 1</a>
+  <li><a href="#author" id="toc-author" class="nav-link active" data-scroll-target="#author">Author</a>
   <ul class="collapse">
-  <li><a href="#theme" id="toc-theme" class="nav-link" data-scroll-target="#theme">Theme</a></li>
   <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#video" id="toc-video" class="nav-link" data-scroll-target="#video">Video</a></li>
-  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
-  </ul></li>
-  <li><a href="#speaker-2" id="toc-speaker-2" class="nav-link" data-scroll-target="#speaker-2">Speaker 2</a>
-  <ul class="collapse">
-  <li><a href="#theme-1" id="toc-theme-1" class="nav-link" data-scroll-target="#theme-1">Theme</a></li>
-  <li><a href="#abstract-1" id="toc-abstract-1" class="nav-link" data-scroll-target="#abstract-1">Abstract</a></li>
-  <li><a href="#video-1" id="toc-video-1" class="nav-link" data-scroll-target="#video-1">Video</a></li>
-  <li><a href="#notes-1" id="toc-notes-1" class="nav-link" data-scroll-target="#notes-1">Notes</a></li>
-  <li><a href="#resources-1" id="toc-resources-1" class="nav-link" data-scroll-target="#resources-1">Resources</a></li>
+  <li><a href="#link" id="toc-link" class="nav-link" data-scroll-target="#link">Link</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -334,7 +352,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mar 22, 2025</h1>
+<h1 class="title">Topological Quantum Dark Matter via Global Anomaly Cancellation</h1>
 </div>
 
 
@@ -351,57 +369,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="speaker-1" class="level2">
-<h2 class="anchored" data-anchor-id="speaker-1">Speaker 1</h2>
-<p>Yiming Teng</p>
-<section id="theme" class="level3">
-<h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Basic Concepts of Higher-form Symmetries</p>
-</section>
+<section id="author" class="level2">
+<h2 class="anchored" data-anchor-id="author">Author</h2>
+<p>Juven Wang</p>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>Starting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.</p>
+<p>Standard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino <span class="math inline">\(\nu_R\)</span>) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number <span class="math inline">\(\mathbf{B} \pm \mathbf{L}\)</span> symmetry. Including <span class="math inline">\(\nu_R\)</span> per family can cancel these anomalies, but when <span class="math inline">\(\mathbf{B} \pm \mathbf{L}\)</span> symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete <span class="math inline">\(\mathbf{B} \pm \mathbf{L}\)</span> that are enhanced from the fermion parity <span class="math inline">\(\mathbb{Z}_2^\mathrm{F}\)</span> to <span class="math inline">\(\mathbb{Z}_{2N}^\mathrm{F}\)</span>, with <span class="math inline">\(N = 2, 3, 4, 6, 9\)</span>, etc. The discreteness of <span class="math inline">\(\mathbf{B} \pm \mathbf{L}\)</span> is constrained by multi-fermion deformations beyond-the-SM and the family number <span class="math inline">\(N_f\)</span>. Unlike the free quadratic <span class="math inline">\(\nu_R\)</span> Majorana mass gap preserving the minimal <span class="math inline">\(\mathbb{Z}_2^\mathrm{F}\)</span>, we explore novel scenarios canceling <span class="math inline">\((\mathbf{B} \pm \mathbf{L})\)</span>-gravitational anomalies while preserving the <span class="math inline">\(\mathbb{Z}_{2N}^\mathrm{F}\)</span> discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at <span class="math inline">\(N_f = 3\)</span>, such that when the representation of <span class="math inline">\(\mathbb{Z}_{2N}^\mathrm{F}\)</span> from the faithful <span class="math inline">\(\mathbf{B} + \mathbf{L}\)</span> for baryons at <span class="math inline">\(N = N_c = 3\)</span> is extended to the faithful <span class="math inline">\(\mathbf{Q} + N_c \mathbf{L}\)</span> for quarks at <span class="math inline">\(N = N_c N_f = 9\)</span>, this symmetry extension <span class="math inline">\(\mathbb{Z}_{N_c=3} \to \mathbb{Z}_{N_c N_f=9} \to \mathbb{Z}_{N_f=3}\)</span> matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete <span class="math inline">\(\mathbf{B} \pm \mathbf{L}\)</span> gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.</p>
 </section>
-<section id="video" class="level3">
-<h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1kHbiY7xXptit17MN3WMzLbDWDaC4lLqj/view?usp=sharing">Video(1) 2025-03-22</a></p>
-</section>
-<section id="notes" class="level3">
-<h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/13HAZXNuBrJy33HAlWVd3Y8Tr-m7YGm8Q/view?usp=sharing">Notes(1) 2025-03-22</a></p>
-</section>
-<section id="resources" class="level3">
-<h3 class="anchored" data-anchor-id="resources">Resources</h3>
-<ul>
-<li><a href="https://drive.google.com/file/d/1daoq_QLvTljh4vANfcM4TPVELCH2bpOm/view?usp=sharing">杂七杂八的凝聚态理论(滕一鸣)</a></li>
-<li><a href="https://drive.google.com/file/d/1oiXNv5Jq1TtYRwIk7GHhc-SYzjFQ-DFS/view?usp=sharing">Lecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)</a></li>
-</ul>
-</section>
-</section>
-<section id="speaker-2" class="level2">
-<h2 class="anchored" data-anchor-id="speaker-2">Speaker 2</h2>
-<p>Yiyi Wan</p>
-<section id="theme-1" class="level3">
-<h3 class="anchored" data-anchor-id="theme-1">Theme</h3>
-<p>Yang-Mills Theory</p>
-</section>
-<section id="abstract-1" class="level3">
-<h3 class="anchored" data-anchor-id="abstract-1">Abstract</h3>
-<p>We began with the foundational definitions of principal bundles and explored the associated notions of connection and curvature. Building on this framework, we introduced the Yang–Mills action within the context of gauge theory and discussed its physical and mathematical significance.</p>
-</section>
-<section id="video-1" class="level3">
-<h3 class="anchored" data-anchor-id="video-1">Video</h3>
-<p><a href="https://drive.google.com/file/d/1y-zqdxTSmqnw5bxVLrI9oQz_lB9vXne1/view?usp=sharing">Video(2) 2025-03-22</a></p>
-</section>
-<section id="notes-1" class="level3">
-<h3 class="anchored" data-anchor-id="notes-1">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1wEcvsDoAHdqX9718N6HAZHhhF-nm0U3s/view?usp=sharing">Notes(2) 2025-03-22</a></p>
-</section>
-<section id="resources-1" class="level3">
-<h3 class="anchored" data-anchor-id="resources-1">Resources</h3>
-<ul>
-<li><a href="https://drive.google.com/file/d/1UOlsM980IZQthlPzTB7CtETQEYmRb6P0/view?usp=sharing">Principal Bundles: the Classical Case (Stephen Bruce Sontz)</a></li>
-</ul>
+<section id="link" class="level3">
+<h3 class="anchored" data-anchor-id="link">Link</h3>
+<p><a href="https://arxiv.org/abs/2502.21319">Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)</a></p>
 
 
 </section>
