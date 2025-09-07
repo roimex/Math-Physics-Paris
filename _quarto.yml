@@ -5,26 +5,30 @@ website:
   title: "Math-Physics Paris"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - href: notes.qmd
-        text: Notes
-      - href: meetings/meetings.qmd
-        text: Meetings
-      - href: projects/projects.qmd
-        text: Projects
-      - href: papers/papers.qmd
-        text: Papers
-      - href: puzzles/puzzles.qmd
-        text: Puzzles
+      - text: "Home"
+        href: index.qmd        
+      - text: "Notes"
+        href: notes.qmd
+      - text: "Meetings"
+        menu: 
+          - text: "Seminars"
+            href: Seminars/seminars.qmd
+          - text: "Projects"
+            href: Projects/projects.qmd
+      - text: "Discussions"
+        menu: 
+          - text: "Papers"
+            href: Papers/papers.qmd
+          - text: "Puzzles"
+            href: Puzzles/puzzles.qmd
 
 format:
   html:
     theme:
       light: spacelab
       dark: cyborg
-    toggle: true 
-    css: styles.css
+    # toggle: true 
+    # css: styles.css
     toc: true
     include-after-body: _include/comments.html
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Apr 19, 2025 – Math-Physics Paris</title>
+<title>Apr 12, 2025 – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,37 +72,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -292,22 +262,36 @@ window.Quarto = {
     <a class="nav-link" href="../notes.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../meetings/meetings.html"> 
-<span class="menu-text">Meetings</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-meetings" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Meetings</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-meetings">    
+        <li>
+    <a class="dropdown-item" href="../Seminars/seminars.html">
+ <span class="dropdown-text">Seminars</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html"> 
-<span class="menu-text">Projects</span></a>
+        <li>
+    <a class="dropdown-item" href="../Projects/projects.html">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../papers/papers.html"> 
-<span class="menu-text">Papers</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-discussions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Discussions</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-discussions">    
+        <li>
+    <a class="dropdown-item" href="../Papers/papers.html">
+ <span class="dropdown-text">Papers</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../puzzles/puzzles.html"> 
-<span class="menu-text">Puzzles</span></a>
+        <li>
+    <a class="dropdown-item" href="../Puzzles/puzzles.html">
+ <span class="dropdown-text">Puzzles</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -350,7 +334,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Apr 19, 2025</h1>
+<h1 class="title">Apr 12, 2025</h1>
 </div>
 
 
@@ -369,51 +353,55 @@ window.Quarto = {
 
 <section id="speaker-1" class="level2">
 <h2 class="anchored" data-anchor-id="speaker-1">Speaker 1</h2>
-<p>Xianfeng Jiang</p>
+<p>Chen Wei</p>
 <section id="theme" class="level3">
 <h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Chern-Weil Theorem</p>
+<p>Homology Theory</p>
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>We began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural <span class="math inline">\(\mathbb{Z}_2\)</span>-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the <span class="math inline">\(\mathbb{Z}_2\)</span>-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.</p>
+<p>In this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1OLZlq3jx5rY1lRW2R8wzxXur-pREhct0/view?usp=sharing">Video 2025-04-19</a></p>
+<p><a href="https://drive.google.com/file/d/1Bx9-24vLl_KhmeDAS9Xj0a0VpfoZ6nMn/view?usp=sharing">Video 2025-04-12</a></p>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1hZcbqj0nLI9jmaexRSWObCbss0JjK9Vx/view?usp=sharing">Notes 2025-04-19</a></p>
+<p>/</p>
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>
-<p>/</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1b84HkWI1b4ex39Le5Pwn97ILkSQwceWc/view?usp=sharing">Categories and Homological Algebra (Pierre Schapira)</a></li>
+</ul>
 </section>
 </section>
 <section id="speaker-2" class="level2">
 <h2 class="anchored" data-anchor-id="speaker-2">Speaker 2</h2>
-<p>Yiyi Wan</p>
+<p>Kaichen Yin</p>
 <section id="theme-1" class="level3">
 <h3 class="anchored" data-anchor-id="theme-1">Theme</h3>
-<p>Characteristic Classes</p>
+<p>Replica method</p>
 </section>
 <section id="abstract-1" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-1">Abstract</h3>
-<p>In this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the <span class="math inline">\(\hat{A}-genus\)</span> (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.</p>
+<p>/</p>
 </section>
 <section id="video-1" class="level3">
 <h3 class="anchored" data-anchor-id="video-1">Video</h3>
-<p><a href="https://drive.google.com/file/d/1YU0LZjXAtXrmYUA1a19QzU8neZu4XUIU/view?usp=sharing">Video 2025-04-19</a></p>
+<p><a href="https://drive.google.com/file/d/1Z9OscnXl7WgyrlfzmB90subRIBhGepuS/view?usp=sharing">Video 2025-04-12</a></p>
 </section>
 <section id="notes-1" class="level3">
 <h3 class="anchored" data-anchor-id="notes-1">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1UateDl6DbF85KXUOKPkzeo-YFG_V3Tto/view?usp=sharing">Notes 2025-04-19</a></p>
+<p>/</p>
 </section>
 <section id="resources-1" class="level3">
 <h3 class="anchored" data-anchor-id="resources-1">Resources</h3>
 <ul>
-<li><a href="https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing">Geometry, Topology and Physics (Mikio Nakahara)</a></li>
+<li><a href="https://drive.google.com/file/d/1wiC13MmncGQJ3OcNlOx6eqVRyII0Jg5W/view?usp=sharing">Introduction to Black Hole Thermodynamics (Edward Witten)</a></li>
+<li><a href="https://drive.google.com/file/d/17NY7Nh4m6nx7rMc7EvfAI1yAarCbxfNg/view?usp=sharing">Spin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)</a></li>
+<li><a href="https://drive.google.com/file/d/1WpLvIPV7sLbEL9_F-OaehpckkxUY2gGH/view?usp=sharing">Replica Wormholes and the Black Hole Interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)</a></li>
 </ul>
 
 

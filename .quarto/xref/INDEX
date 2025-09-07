@@ -193,5 +193,230 @@
   },
   "meetings/sep-06-2025.qmd": {
     "sep-06-2025.html": "7827c1f3"
+  },
+  "Papers/gm20.qmd": {
+    "gm20.html": "a1f0160e"
+  },
+  "Papers/fre21.qmd": {
+    "fre21.html": "38d6d407"
+  },
+  "Papers/papers.qmd": {
+    "papers.html": "c65c0891"
+  },
+  "Papers/moo19.qmd": {
+    "moo19.html": "d4bca46c"
+  },
+  "Papers/wan25.qmd": {
+    "wan25.html": "8d6b31cc"
+  },
+  "Papers/as68b.qmd": {
+    "as68b.html": "9f854c4d"
+  },
+  "Papers/as68a.qmd": {
+    "as68a.html": "130fc7e4"
+  },
+  "Papers/aps75.qmd": {
+    "aps75.html": "18b48cea"
+  },
+  "Papers/yon16.qmd": {
+    "yon16.html": "49d8f846"
+  },
+  "Papers/wy20.qmd": {
+    "wy20.html": "1366df4a"
+  },
+  "Papers/pw23.qmd": {
+    "pw23.html": "56cb6998"
+  },
+  "Papers/wang25.qmd": {
+    "wang25.html": "55aa01cf"
+  },
+  "Papers/hsi18.qmd": {
+    "hsi18.html": "484ca2f9"
+  },
+  "Projects/apr-22-2025.qmd": {
+    "apr-22-2025.html": "3e4b6508"
+  },
+  "Projects/mar-16-2025.qmd": {
+    "mar-16-2025.html": "0618c74f"
+  },
+  "Projects/aug-09-2025.qmd": {
+    "aug-09-2025.html": "84d1fb43"
+  },
+  "Projects/aug-14-2025.qmd": {
+    "aug-14-2025.html": "92370968"
+  },
+  "Projects/apr-06-2025.qmd": {
+    "apr-06-2025.html": "3c04cb84"
+  },
+  "Projects/aug-04-2025.qmd": {
+    "aug-04-2025.html": "2c3a63e3"
+  },
+  "Projects/aug-05-2025.qmd": {
+    "aug-05-2025.html": "a12db154"
+  },
+  "Projects/projects.qmd": {
+    "projects.html": "02a0dc31"
+  },
+  "Projects/aug-30-2025.qmd": {
+    "aug-30-2025.html": "5776d732"
+  },
+  "Projects/aug-16-2025.qmd": {
+    "aug-16-2025.html": "3170d19d"
+  },
+  "Projects/apr-13-2025.qmd": {
+    "apr-13-2025.html": "52a54730"
+  },
+  "Projects/aug-07-2025.qmd": {
+    "aug-07-2025.html": "8f253074"
+  },
+  "Projects/aug-06-2025.qmd": {
+    "aug-06-2025.html": "a2dff9b9"
+  },
+  "Projects/aug-10-2025.qmd": {
+    "aug-10-2025.html": "6631a4f7"
+  },
+  "Projects/aug-11-2025.qmd": {
+    "aug-11-2025.html": "bb1abd2d"
+  },
+  "Puzzles/puzzles.qmd": {
+    "puzzles.html": "20c0e1ab"
+  },
+  "Puzzles/modular_structures.qmd": {
+    "modular_structures.html": "c3fc78d6"
+  },
+  "Puzzles/anomalies.qmd": {
+    "anomalies.html": "7ad9c513"
+  },
+  "Meetings/aug-02-2025.qmd": {
+    "aug-02-2025.html": "2fa4b49c"
+  },
+  "Meetings/mar-22-2025.qmd": {
+    "mar-22-2025.html": "b20c9365"
+  },
+  "Meetings/jul-12-2025.qmd": {
+    "jul-12-2025.html": "a3299251"
+  },
+  "Meetings/jul-26-2025.qmd": {
+    "jul-26-2025.html": "266919c8"
+  },
+  "Meetings/mar-29-2025.qmd": {
+    "mar-29-2025.html": "1622cfb9"
+  },
+  "Meetings/aug-09-2025.qmd": {
+    "aug-09-2025.html": "bf03bb39"
+  },
+  "Meetings/jun-07-2025.qmd": {
+    "jun-07-2025.html": "9ba949fb"
+  },
+  "Meetings/jul-20-2025.qmd": {
+    "jul-20-2025.html": "1b72cbe5"
+  },
+  "Meetings/aug-23-2025.qmd": {
+    "aug-23-2025.html": "f7e703eb"
+  },
+  "Meetings/meetings.qmd": {
+    "meetings.html": "81418f3c"
+  },
+  "Meetings/may-06-2025.qmd": {
+    "may-06-2025.html": "4ea5d27b"
+  },
+  "Meetings/aug-16-2025.qmd": {
+    "aug-16-2025.html": "f6fa3ae4"
+  },
+  "Meetings/mar-15-2025.qmd": {
+    "mar-15-2025.html": "081806ba"
+  },
+  "Meetings/may-10-2025.qmd": {
+    "may-10-2025.html": "0244bd93"
+  },
+  "Meetings/jun-15-2025.qmd": {
+    "jun-15-2025.html": "58f8cbed"
+  },
+  "Meetings/sep-01-2025.qmd": {
+    "sep-01-2025.html": "e7ae9349"
+  },
+  "Meetings/may-24-2025.qmd": {
+    "may-24-2025.html": "39e0cc75"
+  },
+  "Meetings/may-17-2025.qmd": {
+    "may-17-2025.html": "fad70338"
+  },
+  "Meetings/apr-12-2025.qmd": {
+    "apr-12-2025.html": "a83bf79c"
+  },
+  "Meetings/sep-06-2025.qmd": {
+    "sep-06-2025.html": "56a0c560"
+  },
+  "Meetings/apr-19-2025.qmd": {
+    "apr-19-2025.html": "37def135"
+  },
+  "Meetings/apr-05-2025.qmd": {
+    "apr-05-2025.html": "31e53f68"
+  },
+  "Seminars/aug-02-2025.qmd": {
+    "aug-02-2025.html": "645d6461"
+  },
+  "Seminars/mar-22-2025.qmd": {
+    "mar-22-2025.html": "39faa9d1"
+  },
+  "Seminars/jul-12-2025.qmd": {
+    "jul-12-2025.html": "26b78bb2"
+  },
+  "Seminars/jul-26-2025.qmd": {
+    "jul-26-2025.html": "a72873e9"
+  },
+  "Seminars/mar-29-2025.qmd": {
+    "mar-29-2025.html": "9b6b8fb2"
+  },
+  "Seminars/aug-09-2025.qmd": {
+    "aug-09-2025.html": "4b3519a6"
+  },
+  "Seminars/jun-07-2025.qmd": {
+    "jun-07-2025.html": "dd7a6449"
+  },
+  "Seminars/jul-20-2025.qmd": {
+    "jul-20-2025.html": "4bc3323d"
+  },
+  "Seminars/seminars.qmd": {
+    "seminars.html": "7be96449"
+  },
+  "Seminars/aug-23-2025.qmd": {
+    "aug-23-2025.html": "822b5c28"
+  },
+  "Seminars/may-06-2025.qmd": {
+    "may-06-2025.html": "8444c810"
+  },
+  "Seminars/aug-16-2025.qmd": {
+    "aug-16-2025.html": "c2baf116"
+  },
+  "Seminars/mar-15-2025.qmd": {
+    "mar-15-2025.html": "05c5956b"
+  },
+  "Seminars/may-10-2025.qmd": {
+    "may-10-2025.html": "5dd85159"
+  },
+  "Seminars/jun-15-2025.qmd": {
+    "jun-15-2025.html": "fe0f9a55"
+  },
+  "Seminars/sep-01-2025.qmd": {
+    "sep-01-2025.html": "4e7c25b6"
+  },
+  "Seminars/may-24-2025.qmd": {
+    "may-24-2025.html": "c0b4cb8a"
+  },
+  "Seminars/may-17-2025.qmd": {
+    "may-17-2025.html": "07a9fac9"
+  },
+  "Seminars/apr-12-2025.qmd": {
+    "apr-12-2025.html": "1341ff5a"
+  },
+  "Seminars/sep-06-2025.qmd": {
+    "sep-06-2025.html": "90d1a4d2"
+  },
+  "Seminars/apr-19-2025.qmd": {
+    "apr-19-2025.html": "97fb4575"
+  },
+  "Seminars/apr-05-2025.qmd": {
+    "apr-05-2025.html": "ca48b6cc"
   }
 }

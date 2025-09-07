@@ -1,5 +1,5 @@
 ---
-title: "Meetings"
+title: "Seminars"
 ---
 
 - [Mar 15, 2025: Axiomatic Construction of TQFT](mar-15-2025.qmd)   

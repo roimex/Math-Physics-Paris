@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Sep 01, 2025 – Math-Physics Paris</title>
+<title>Mar 29, 2025 – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,37 +72,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -292,22 +262,36 @@ window.Quarto = {
     <a class="nav-link" href="../notes.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../meetings/meetings.html"> 
-<span class="menu-text">Meetings</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-meetings" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Meetings</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-meetings">    
+        <li>
+    <a class="dropdown-item" href="../Seminars/seminars.html">
+ <span class="dropdown-text">Seminars</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html"> 
-<span class="menu-text">Projects</span></a>
+        <li>
+    <a class="dropdown-item" href="../Projects/projects.html">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../papers/papers.html"> 
-<span class="menu-text">Papers</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-discussions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Discussions</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-discussions">    
+        <li>
+    <a class="dropdown-item" href="../Papers/papers.html">
+ <span class="dropdown-text">Papers</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../puzzles/puzzles.html"> 
-<span class="menu-text">Puzzles</span></a>
+        <li>
+    <a class="dropdown-item" href="../Puzzles/puzzles.html">
+ <span class="dropdown-text">Puzzles</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -342,7 +326,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sep 01, 2025</h1>
+<h1 class="title">Mar 29, 2025</h1>
 </div>
 
 
@@ -361,27 +345,28 @@ window.Quarto = {
 
 <section id="speaker" class="level2">
 <h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>Xianfeng Jiang</p>
+<p>Yiyi Wan</p>
 <section id="theme" class="level3">
 <h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Introduction to Clifford algebra</p>
+<p>Chiral Anomaly</p>
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>This talk is devoted to the basic algebraic ingredients of spin geometry: Clifford algebras and spin groups. Clifford algebras are naturally associated to vector spaces endowed with symmetric bilinear forms. The Clifford algebra of the n-dimensional Euclidean space contains the spin group <span class="math inline">\(Spin(n)\)</span>, which is the 2-fold cover of the special orthogonal group <span class="math inline">\(SO(n)\)</span> for <span class="math inline">\(n \ge 3\)</span>. We study the concept of Clifford algebras and highlight some of their important properties.</p>
+<p>We began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1oc-9mVavo4ov3-TuvyuWjjVw9tho2_5P/view?usp=sharing">Video 2025-09-01</a></p>
+<p><a href="https://drive.google.com/file/d/17wGwReEfEpwmIfwFLKnYlqiUohgI25Eq/view?usp=sharing">Video 2025-03-29</a></p>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1rLasL_Jgf8gFKuis5aMg_VH4Le_Bk115/view?usp=sharing">Notes 2025-09-01</a></p>
+<p><a href="https://drive.google.com/file/d/1hBaoT_haQYpPokSLdMNMuocXx3WfZFH0/view?usp=sharing">Notes 2025-03-29</a></p>
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>
 <ul>
-<li><a href="https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing">Spin Geometry (Christian Bär)</a></li>
+<li><a href="https://drive.google.com/file/d/11DanV8ZPUsgH2pw8RsFgbPP1H75IfEVg/view?usp=sharing">Gauge Theory (David Tong)</a></li>
+<li><a href="https://drive.google.com/file/d/1zO3u1xZheRVJbgAj1p6wjgqGEW9wcbdx/view?usp=sharing">Topological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)</a></li>
 </ul>
 
 

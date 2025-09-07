@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>May 06, 2025 – Math-Physics Paris</title>
+<title>Sep 06, 2025 – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,8 +72,36 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -263,22 +291,36 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../notes.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../meetings/meetings.html"> 
-<span class="menu-text">Meetings</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-meetings" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Meetings</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-meetings">    
+        <li>
+    <a class="dropdown-item" href="../Seminars/seminars.html">
+ <span class="dropdown-text">Seminars</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html"> 
-<span class="menu-text">Projects</span></a>
+        <li>
+    <a class="dropdown-item" href="../Projects/projects.html">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../papers/papers.html"> 
-<span class="menu-text">Papers</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-discussions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Discussions</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-discussions">    
+        <li>
+    <a class="dropdown-item" href="../Papers/papers.html">
+ <span class="dropdown-text">Papers</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../puzzles/puzzles.html"> 
-<span class="menu-text">Puzzles</span></a>
+        <li>
+    <a class="dropdown-item" href="../Puzzles/puzzles.html">
+ <span class="dropdown-text">Puzzles</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -313,7 +355,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">May 06, 2025</h1>
+<h1 class="title">Sep 06, 2025</h1>
 </div>
 
 
@@ -332,28 +374,27 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="speaker" class="level2">
 <h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>Yiming Teng</p>
+<p>Junchen Rong</p>
 <section id="theme" class="level3">
 <h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Wess-Zumino Condition</p>
+<p>Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?</p>
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>We began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.</p>
+<p>Irrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling <span class="math inline">\(N\geq2\)</span> golden anyon chains together, preserving <span class="math inline">\(N\)</span> copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. As a byproduct of our analysis, we provide an extensive list of rational CFTs with <span class="math inline">\(1&lt;c&lt;2.1\)</span>.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1AFW39TjtSB9vfV2sQGAmt9oko9YoKJGT/view?usp=sharing">Video 2025-05-06</a></p>
+<p><a href="https://drive.google.com/file/d/1Qa2z7tGV9Kby9yvJeHSwZKXaX59B259y/view?usp=sharing">Video 2025-09-06</a></p>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1VwHJUzbNwJHgM4D3sVbUCpepw_UpLdo3/view?usp=sharing">Notes 2025-05-06</a></p>
+<p><a href="https://drive.google.com/file/d/1fQO9zN9jQJ_InZNDjWxJ0JmJDSrLTRnL/view?usp=sharing">Non-rational CFT from Coupled Anyon Chains</a></p>
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>
 <ul>
-<li><a href="https://drive.google.com/file/d/1M799AKMq4QRIl1FmXDGCUIhiouesn8so/view?usp=sharing">The Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)</a></li>
-<li><a href="https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing">Geometry, Topology and Physics (Mikio Nakahara)</a></li>
+<li><a href="https://drive.google.com/file/d/1nelHcHDH-9HPpmSXrjTYvJfAZc9UFea9/view?usp=sharing">Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?</a></li>
 </ul>
 
 
