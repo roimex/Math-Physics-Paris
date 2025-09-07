@@ -73,7 +73,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -263,22 +262,36 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../notes.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../meetings/meetings.html"> 
-<span class="menu-text">Meetings</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-meetings" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Meetings</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-meetings">    
+        <li>
+    <a class="dropdown-item" href="../Seminars/seminars.html">
+ <span class="dropdown-text">Seminars</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html"> 
-<span class="menu-text">Projects</span></a>
+        <li>
+    <a class="dropdown-item" href="../Projects/projects.qmd">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../papers/papers.html" aria-current="page"> 
-<span class="menu-text">Papers</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-discussions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Discussions</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-discussions">    
+        <li>
+    <a class="dropdown-item" href="../Papers/papers.qmd">
+ <span class="dropdown-text">Papers</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../puzzles/puzzles.html"> 
-<span class="menu-text">Puzzles</span></a>
+        <li>
+    <a class="dropdown-item" href="../Puzzles/puzzles.qmd">
+ <span class="dropdown-text">Puzzles</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Aug 23, 2025 – Math-Physics Paris</title>
+<title>Jul 20, 2025 – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,8 +72,36 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -263,22 +291,36 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../notes.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../meetings/meetings.html"> 
-<span class="menu-text">Meetings</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-meetings" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Meetings</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-meetings">    
+        <li>
+    <a class="dropdown-item" href="../Seminars/seminars.html">
+ <span class="dropdown-text">Seminars</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../projects/projects.html"> 
-<span class="menu-text">Projects</span></a>
+        <li>
+    <a class="dropdown-item" href="../Projects/projects.qmd">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../papers/papers.html"> 
-<span class="menu-text">Papers</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-discussions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Discussions</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-discussions">    
+        <li>
+    <a class="dropdown-item" href="../Papers/papers.qmd">
+ <span class="dropdown-text">Papers</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../puzzles/puzzles.html"> 
-<span class="menu-text">Puzzles</span></a>
+        <li>
+    <a class="dropdown-item" href="../Puzzles/puzzles.qmd">
+ <span class="dropdown-text">Puzzles</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -313,7 +355,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Aug 23, 2025</h1>
+<h1 class="title">Jul 20, 2025</h1>
 </div>
 
 
@@ -332,30 +374,27 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="speaker" class="level2">
 <h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>Yuxiao Xie</p>
+<p>Yiyi Wan</p>
 <section id="theme" class="level3">
 <h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Construction of Liouville Conformal Field Theory</p>
+<p>Quantizable Condition and Maslov Technique</p>
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>In this talk, we introduced the main ideas in the mathematical construction of the path integrals in Liouville Conformal Field Theory. Taking inspiration from the finite-dimensional case, the Dirichlet energy term leads to the definition of Gaussian Free Fields, a probabilistic tool for studying infinite-dimensional Gaussian integrals. The linear curvature term amounts to a translation on this space, a process known as the Girsanov transform. Finally, the Liouville potential term is defined by introducing the Gaussian Multiplicative Chaos.</p>
+<p>In this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum <span class="math inline">\(\mathbb{T}_{\hbar}\)</span> bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1E00GQFyKS17Vm04mdVdpnvOwSsGR7ibg/view?usp=sharing">Video 2025-08-23</a></p>
+<p><a href="https://drive.google.com/file/d/1dh4RsLJUcGZxIa6J4I02KM7uI5USmBYv/view?usp=sharing">Video 2025-07-20</a></p>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/18IwIJYOcsTcX4_xij8CqLke7W4td8iVt/view?usp=sharing">Liouville CFT (Yuxiao Xie)</a></p>
+<p><a href="https://drive.google.com/file/d/1U9heTq3b-yofhQlhEDPGnZxyGV4_REEE/view?usp=sharing">Notes 2025-07-20</a></p>
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>
 <ul>
-<li><a href="https://drive.google.com/file/d/1vheGuD8brKtqigmLz_BM-SZSNQQeu0OO/view?usp=sharing">Conformal Bootstrap in Liouville Theory (Colin Guillarmou, Antti Kupiainen, Rémi Rhodes, Vincent Vargas)</a></li>
-<li><a href="https://drive.google.com/file/d/1dNlm1rQrlTWqGUl216rVMBHmdl856Lud/view?usp=sharing">Polyakov’s Formulation of 2d Bosonic String Theory (Colin Guillarmou, Rémi Rhodes, Vincent Vargas)</a></li>
-<li><a href="https://drive.google.com/file/d/1YTVFJfruQg5zJr2vPYVW4hpYdPGzIpZc/view?usp=sharing">Segal’s Axioms and Bootstrap for Liouville Theory (Colin Guillarmou, Antti Kupiainen, Rémi Rhodes, Vincent Vargas)</a></li>
-<li><a href="https://drive.google.com/file/d/10kr-cPy_YQlxTw8-ukLy8hctiAkN-P-D/view?usp=sharing">The Definition of Conformal Field Theory (Graeme Segal)</a></li>
+<li><a href="https://drive.google.com/file/d/1YcEe_MCJmHE-1rjy8RQVOuVwBl61h4WU/view?usp=sharing">Lectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)</a></li>
 </ul>
 
 
