@@ -1,0 +1,21 @@
+---
+title: "Sep 13, 2025"
+---
+
+## Speaker
+Yiyi Wan
+
+### Theme
+Spin Groups and Spinors
+
+### Abstract
+/
+
+### Video  
+[Video 2025-09-13](https://drive.google.com/file/d/1lGLGEnTeuBnwhLyuB67ZjkYzFe3RYpn3/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+- [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)
