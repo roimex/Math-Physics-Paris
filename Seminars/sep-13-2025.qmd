@@ -9,7 +9,7 @@ Yiyi Wan
 Spin Groups and Spinors
 
 ### Abstract
-/
+In this lecture, we first reviewed some important results from the previous section. Then we introduced the pin groups and spin groups. By working out some explicit computations, we found isomorphisms between $\mathrm{Spin}(n)$ and a few other groups for $n=1,2,3$. By studying the relationship between $\mathrm{Spin}(n)$ and $\mathrm{SO}(n)$, we derived topological properties of $\mathrm{Spin}(n)$, in particular its connectedness. Finally, we studied representations of the spin group and identified their representation spaces, the spinor spaces.
 
 ### Video  
 [Video 2025-09-13](https://drive.google.com/file/d/1lGLGEnTeuBnwhLyuB67ZjkYzFe3RYpn3/view?usp=sharing)

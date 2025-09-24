@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -352,7 +381,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>/</p>
+<p>In this lecture, we first reviewed some important results from the previous section. Then we introduced the pin groups and spin groups. By working out some explicit computations, we found isomorphisms between <span class="math inline">\(\mathrm{Spin}(n)\)</span> and a few other groups for <span class="math inline">\(n=1,2,3\)</span>. By studying the relationship between <span class="math inline">\(\mathrm{Spin}(n)\)</span> and <span class="math inline">\(\mathrm{SO}(n)\)</span>, we derived topological properties of <span class="math inline">\(\mathrm{Spin}(n)\)</span>, in particular its connectedness. Finally, we studied representations of the spin group and identified their representation spaces, the spinor spaces.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>

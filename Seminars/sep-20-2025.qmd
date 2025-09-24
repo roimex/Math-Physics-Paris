@@ -1,0 +1,22 @@
+---
+title: "Sep 20, 2025"
+---
+
+## Speaker
+Zechen Bian
+
+### Theme
+Higher Gauge Theory and Group Cohomology
+
+### Abstract
+In this lecture, we will introduce higher gauge theory from the perspective of group cohomology. We begin with a short review of the categorical language that underlies modern approaches to gauge theory. Building on this, we will explain the construction of group cohomology, then we will describe how the group cohomology can be used to build topological gauge theories in the sense of Dijkgraaf–Witten. References include the works of Dijkgraaf–Witten and Freed–Hopkins–Lurie–Teleman.
+
+### Video  
+[Video 2025-09-20](https://drive.google.com/file/d/1bY0OiRhtO58vKEw2mP1lh-epdM8Aw3RV/view?usp=sharing)
+
+### Notes  
+[Notes 2025-09-20](https://drive.google.com/file/d/1lAgKWYtkA15E87FISo_vNuJUwjzCc6g0/view?usp=sharing)
+
+### Resources  
+- [Topological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)](https://drive.google.com/file/d/1bmLftmk9ufierJpH9IjHpEWR4upGp2dM/view?usp=sharing)
+- [Topological Quantum Field Theories from Compact Lie Groups (Daniel S. Freed, Michael J. Hopkins, Jacob Lurie, Constantin Teleman)](https://drive.google.com/file/d/1DTjt2dJBP9reR0RuPPBo8NBHDQCKYfeH/view?usp=sharing)
