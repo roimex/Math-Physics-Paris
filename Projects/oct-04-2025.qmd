@@ -1,0 +1,20 @@
+---
+title: "Oct 04, 2025"
+---
+
+## Speaker
+Yiyi Wan
+
+### Theme
+Free Discussion
+
+### Video
+[Video 2025-10-04](https://drive.google.com/file/d/1ioPdWQXMMWLnYZY5j8Q2LZB5B2PcMT1t/view?usp=sharing)
+
+### Notes
+/
+
+### Resources
+- [Discrete Gauge Anomalies Revisited (Chang-Tse Hsieh)](https://drive.google.com/file/d/10DVU1EgEUwXN6SS_mDFLcEJ4GsYOe3Wo/view?usp=sharing)
+- [Dai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)](https://drive.google.com/file/d/1uFDjITbXp_R6zTvnQHljRsbH8fHNM9vy/view?usp=sharing)
+- [Dai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)](https://drive.google.com/file/d/1fOfWV1v1gvsumDx6bVv_qzzI09B2phfd/view?usp=sharing)
