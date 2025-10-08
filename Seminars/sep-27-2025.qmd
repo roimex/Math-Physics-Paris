@@ -15,7 +15,7 @@ In this lecture, we will present the spin structure on the manifold. This is a p
 [Video 2025-09-27](https://drive.google.com/file/d/1wHOUAi5Px1VdE7Dt8FTrzWOv0iK3alkO/view?usp=sharing)
 
 ### Notes  
-[Notes 2025-09-27]()
+[Notes 2025-09-27](https://drive.google.com/file/d/1asgNgx-VSzEea3ddnYHuWPgIV4DLjoOn/view?usp=sharing)
 
 ### Resources  
 - [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)
