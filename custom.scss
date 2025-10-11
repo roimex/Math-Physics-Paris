@@ -1,0 +1,111 @@
+/*-- scss:defaults --*/
+
+/* You can define SCSS variables here if needed */
+
+/*-- scss:rules --*/
+
+/* === APS@Paris Custom Theme === */
+
+/* Global text and background */
+body {
+  background-color: #f9fafc;
+  color: #1a1a1a;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: #1a1a1a !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #007fa3 !important; /* APS teal blue */
+}
+
+/* Page headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #0d2b45;
+  font-weight: 700;
+}
+
+/* Paragraphs and links */
+a {
+  color: #007fa3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #005f75;
+  text-decoration: underline;
+}
+
+/* Buttons */
+.btn, .btn-primary {
+  background-color: #007fa3;
+  border-color: #007fa3;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+.btn:hover, .btn-primary:hover {
+  background-color: #005f75;
+  border-color: #005f75;
+  color: #fff;
+}
+
+/* Section titles */
+.section-title, .page-header {
+  border-bottom: 2px solid #007fa3;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+/* Horizontal rules */
+hr {
+  border-top: 1px solid #d0d0d0;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th {
+  background-color: #007fa3;
+  color: white;
+  font-weight: 600;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Code blocks */
+code, pre {
+  background-color: #f0f4f8;
+  color: #0d2b45;
+  font-family: "Courier New", monospace;
+}
+
+/* Improved spacing for the whole layout */
+main {
+  padding-top: 1em;
+  padding-bottom: 3em;
+}
+
+/*-- scss:rules --*/

@@ -24,13 +24,22 @@ website:
 
 format:
   html:
-    theme:
-      light: spacelab
-      dark: cyborg
+#    theme:
+#      light: spacelab
+#      dark: cyborg
     # toggle: true 
     # css: styles.css
-    toc: true
+#    toc: true
     include-after-body: _include/comments.html
+
+    theme:
+      light:
+        - flatly
+        - custom.scss
+      dark:
+        - darkly
+        - custom.scss
+    toc: true
 
 
 
