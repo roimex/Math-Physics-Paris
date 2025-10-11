@@ -36,9 +36,9 @@ format:
       light:
         - flatly
         - custom.scss
-      dark:
-        - darkly
-        - custom.scss
+#      dark:
+#        - darkly
+#        - custom.scss
     toc: true
 
 
