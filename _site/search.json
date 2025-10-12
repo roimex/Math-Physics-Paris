@@ -413,6 +413,20 @@
     "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
   },
   {
+    "objectID": "Contact/contact.html",
+    "href": "Contact/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you’re interested, feel free to reach out at yiyi.wan@etu.sorbonne-universite.fr."
+  },
+  {
+    "objectID": "Contact/contact.html#email",
+    "href": "Contact/contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "If you’re interested, feel free to reach out at yiyi.wan@etu.sorbonne-universite.fr."
+  },
+  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes",
