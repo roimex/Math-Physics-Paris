@@ -26,3 +26,5 @@ title: "Seminars"
 - [Sep 13, 2025: Spin Groups and Spinors](sep-13-2025.qmd)
 - [Sep 20, 2025: Higher Gauge Theory and Group Cohomology](sep-20-2025.qmd)
 - [Sep 27, 2025: Spin structure](sep-27-2025.qmd)
+- [Oct 11, 2025: Heat equation and heat kernel](oct-11-2025.qmd)
+- [Oct 18, 2025: All's well that ends well: Endpoint bootstrap for conformal line defects](oct-18-2025.qmd)

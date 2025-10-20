@@ -1,0 +1,21 @@
+---
+title: "Oct 11, 2025"
+---
+
+## Speaker
+Chen Wei
+
+### Theme
+Heat equation and heat kernel
+
+### Abstract
+Beginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.
+
+### Video  
+[Video 2025-10-11](https://drive.google.com/file/d/1_2Jc8T-Ng8beZb-D83a3_dUPlMTo1mkP/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+- [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)
