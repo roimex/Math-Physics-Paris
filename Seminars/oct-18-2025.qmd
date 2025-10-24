@@ -6,7 +6,7 @@ title: "Oct 18, 2025"
 Shang Liu
 
 ### Theme
-All's well that ends well: Endpoint bootstrap for conformal line defects
+All's Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects
 
 ### Abstract
 A challenge in the study of conformal field theory (CFT) is to characterize the possible defects in specific bulk CFTs. Given the success of numerical bootstrap techniques applied to the characterization of bulk CFTs, it is desirable to develop similar tools to study conformal defects. In this work, we successfully demonstrate this possibility for endable conformal line defects. We achieve this by incorporating the endpoints of a conformal line defect into the numerical four-point bootstrap and exploit novel crossing symmetry relations that mix bulk and defect CFT data in a way that further possesses positivity, so that rigorous numerical bootstrap techniques are applicable. We implement this approach for the pinning field line defect of the3dIsing CFT, obtaining estimates of its defect CFT data that agree well with other recent estimates, particularly those obtained via the fuzzy sphere regularization. An interesting consequence of our bounds is nearly rigorous evidence that theZ2-symmetric defect exhibiting long range order obtained as a direct sum of two conjugate pinning field defects is unstable to domain wall proliferation.
@@ -15,7 +15,7 @@ A challenge in the study of conformal field theory (CFT) is to characterize the 
 [Video 2025-10-18](https://drive.google.com/file/d/1TaZsLEdFBS6s_gbZi1Un9cjtC-P78a7z/view?usp=sharing)
 
 ### Notes  
-/
+[Slides 2025-10-18](https://drive.google.com/file/d/1kPgxSTn8fviDxa8HAV0gDECtDXAZrKM2/view?usp=sharing)
 
 ### Resources  
 - [The beginning of the endpoint bootstrap for conformal line defects (Ryan A. Lanzetta, Shang Liu, Max A. Metlitski)](https://arxiv.org/abs/2508.14964)
