@@ -2,6 +2,10 @@
 title: "Contact"
 ---
 
+## Mailing List
+
+[Mailing list subscription form](https://docs.google.com/forms/d/e/1FAIpQLSdBNd5tm8wn-YgbaG6gD7GvPfAsCsV4OgKyQU8uS-7VvKvp2w/viewform?usp=sharing&ouid=106182589394752820012)
+
 ## Email
 
 If you're interested, feel free to reach out at <yiyi.wan@etu.sorbonne-universite.fr>.

@@ -6,7 +6,7 @@ title: "Sep 27, 2025"
 Xianfeng Jiang
 
 ### Theme
-Spin structure
+Spin Structure
 
 ### Abstract
 In this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.

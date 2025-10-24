@@ -3,7 +3,9 @@ project:
 
 website:
   title: "Math-Physics Paris"
+  favicon: logo02.png
   navbar:
+    logo: logo02.png
     right:
       - text: "Home"
         href: index.qmd        
