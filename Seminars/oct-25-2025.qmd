@@ -1,0 +1,23 @@
+---
+title: "Oct 25, 2025"
+---
+
+## Speaker
+Ran Luo
+
+### Theme
+Anomaly from Moving Defects for Continuous Symmetries
+
+### Abstract
+Symmetries and their anomalies in quantum field theories has been of great concern for decades. Predecessors has developed a comprehensive framework for 't Hooft anomalies, which is described by a topological quantum field theory of 1-higher dimension (or equivalently, invertible field theory, symmetry-protected topological phase). We introduce the basic background of anomaly given by characteristic classes (anomaly polynomials), and derive a bridge towards principal bundles with flat connection within which we construct the generalized global symmetries.
+
+The center of this work [2510.14722] is to show that the anomaly of Lie group symmetries can be probed by defect F-moves, exactly analogous to the case of anomalous discrete group symmetries. We present an explicit calculation of the gauge configuration and transformation corresponding to this F-move, and obtain a phase factor described by a class in Lie group cohomology with discrete topology.
+
+### Video  
+[Video 2025-10-25](https://drive.google.com/file/d/1TQ8_QlWIzqRz4FrRZ8oDN4bOYEm8iPcN/view?usp=sharing)
+
+### Notes  
+[Notes 2025-10-25](https://drive.google.com/file/d/1HbHE7RwA6KH-l_zRlJrnyhWF_ZH1c_6F/view?usp=sharing)
+
+### Resources  
+- [Anomaly of Continuous Symmetries from Topological Defect Network (Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang)](https://arxiv.org/abs/2510.14722)

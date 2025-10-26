@@ -12,7 +12,7 @@ title: "Seminars"
 - [May 10, 2025: Topological K-theory](may-10-2025.qmd)  
 - [May 17, 2025: SPT Construction](may-17-2025.qmd)  
 - [May 24, 2025: Instanton](may-24-2025.qmd)  
-- [Jun 07, 2025: SymTFT](jun-07-2025.qmd)  
+- [Jun 07, 2025: Brief Introduction to SymTFT](jun-07-2025.qmd)  
 - [Jun 15, 2025: Non-invertible Symmetries in 4d](jun-15-2025.qmd)  
 - [Jul 12, 2025: WKB Method and Symplectic Geometry](jul-12-2025.qmd)  
 - [Jul 20, 2025: Quantizable Condition and Maslov Technique](jul-20-2025.qmd)
@@ -28,3 +28,4 @@ title: "Seminars"
 - [Sep 27, 2025: Spin Structure](sep-27-2025.qmd)
 - [Oct 11, 2025: Heat Equation and Heat Kernel](oct-11-2025.qmd)
 - [Oct 18, 2025: All's Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects](oct-18-2025.qmd)
+- [Oct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries](oct-25-2025.qmd)
