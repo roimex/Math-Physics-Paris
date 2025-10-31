@@ -9,7 +9,7 @@ Xingyang Yu
 Non-invertible Symmetries in 4d
 
 ### Abstract
-This talk reviewed the historical development of non-invertible symmetries in two-dimensional field theories, especially in conformal field theory, and discussed their connection to anomaly matching under the renormalization group flow in more general settings. We then introduced recent progress on non-invertible symmetries in four-dimensional quantum field theories. In particular, we presented how two distinct types of anomalies—the Adler–Bell–Jackiw (ABJ) anomaly and the ’t Hooft anomaly—can each give rise to nontrivial non-invertible symmetries.
+This talk reviewed the historical development of non-invertible symmetries in two-dimensional field theories, especially in conformal field theory, and discussed their connection to anomaly matching under the renormalization group flow in more general settings. We then introduced recent progress on non-invertible symmetries in four-dimensional quantum field theories. In particular, we presented how two distinct types of anomalies—the Adler–Bell–Jackiw (ABJ) anomaly and the 't Hooft anomaly—can each give rise to nontrivial non-invertible symmetries.
 
 ### Video  
 [Video 2025-06-15](https://drive.google.com/file/d/1Ncau2dNOljxYbiFYyExCyQWf74GkGKEx/view?usp=sharing)

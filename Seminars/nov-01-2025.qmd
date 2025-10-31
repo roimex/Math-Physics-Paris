@@ -1,0 +1,22 @@
+---
+title: "Nov 01, 2025"
+---
+
+## Speaker
+Zheng Zhou
+
+### Theme
+An Introduction to Studying 3D CFTs on the Fuzzy Sphere
+
+### Abstract
+Conformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.
+
+### Video  
+
+
+### Notes  
+
+
+### Resources  
+- [A New Series of 3D CFTs with $Sp(N)$ Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）](https://arxiv.org/abs/2410.00087)
+- [FuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)](https://arxiv.org/abs/2503.00100)

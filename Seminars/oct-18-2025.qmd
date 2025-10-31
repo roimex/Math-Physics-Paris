@@ -18,4 +18,4 @@ A challenge in the study of conformal field theory (CFT) is to characterize the 
 [Slides 2025-10-18](https://drive.google.com/file/d/1kPgxSTn8fviDxa8HAV0gDECtDXAZrKM2/view?usp=sharing)
 
 ### Resources  
-- [The beginning of the endpoint bootstrap for conformal line defects (Ryan A. Lanzetta, Shang Liu, Max A. Metlitski)](https://arxiv.org/abs/2508.14964)
+- [The Beginning of the Endpoint Bootstrap for Conformal Line Defects (Ryan A. Lanzetta, Shang Liu, Max A. Metlitski)](https://arxiv.org/abs/2508.14964)
