@@ -340,7 +340,7 @@
     "href": "Projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Mar 16, 2025: Meet & Greet Session\nApr 06, 2025: Leptogenesis\nApr 13, 2025: Leptogenesis and Sakharov Conditions\nApr 22, 2025: Atiyah-Singer Index Theorem\n\nAug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry\nAug 05, 2025: Discrete Gauge Anomalies Revisited\nAug 06, 2025: Free Discussion\nAug 07, 2025: Free Discussion\nAug 09, 2025: Free Discussion\nAug 10, 2025: Free Discussion\nAug 11, 2025: Free Discussion\nAug 14, 2025: Free Discussion\nAug 16, 2025: Free Discussion\nAug 30, 2025: Free Discussion\nSep 13, 2025: Free Discussion\nSep 14, 2025: Free Discussion\nSep 17, 2025: Free Discussion\nOct 04, 2025: Free Discussion\nOct 25, 2025: Free Discussion"
+    "text": "Mar 16, 2025: Meet & Greet Session\nApr 06, 2025: Leptogenesis\nApr 13, 2025: Leptogenesis and Sakharov Conditions\nApr 22, 2025: Atiyah-Singer Index Theorem\n\nAug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry\nAug 05, 2025: Discrete Gauge Anomalies Revisited\nAug 06, 2025: Free Discussion\nAug 07, 2025: Free Discussion\nAug 09, 2025: Free Discussion\nAug 10, 2025: Free Discussion\nAug 11, 2025: Free Discussion\nAug 14, 2025: Free Discussion\nAug 16, 2025: Free Discussion\nAug 30, 2025: Free Discussion\nSep 13, 2025: Free Discussion\nSep 14, 2025: Free Discussion\nSep 17, 2025: Free Discussion\nOct 04, 2025: Free Discussion\nOct 25, 2025: Free Discussion\nNov 01, 2025: Free Discussion"
   },
   {
     "objectID": "Projects/apr-13-2025.html",
@@ -469,18 +469,25 @@
     "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\n\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "Projects/nov-01-2025.html",
+    "href": "Projects/nov-01-2025.html",
+    "title": "Oct 25, 2025",
     "section": "",
-    "text": "Waiting to be filled…"
+    "text": "Chen Wei\n\n\nFree Discussion\n\n\n\nVideo 2025-11-01\n\n\n\n/\n\n\n\n/"
   },
   {
-    "objectID": "Puzzles/puzzles.html",
-    "href": "Puzzles/puzzles.html",
-    "title": "Puzzles",
+    "objectID": "Projects/nov-01-2025.html#speaker",
+    "href": "Projects/nov-01-2025.html#speaker",
+    "title": "Oct 25, 2025",
     "section": "",
-    "text": "Anomalies\nModular Structures"
+    "text": "Chen Wei\n\n\nFree Discussion\n\n\n\nVideo 2025-11-01\n\n\n\n/\n\n\n\n/"
+  },
+  {
+    "objectID": "Puzzles/modular_structures.html",
+    "href": "Puzzles/modular_structures.html",
+    "title": "Modular Structures",
+    "section": "",
+    "text": "Evaluate \\(A p_1\\) with Pontryagin Class on a 5-manifold"
   },
   {
     "objectID": "Puzzles/anomalies.html",
@@ -490,11 +497,18 @@
     "text": "1.⁠ ⁠What is the anomaly of 4d Weyl fermion with charge \\(q\\) under \\(U(1)\\) global symmetry?\n2.⁠ ⁠What is the anomaly of 4d Weyl fermion with representation as doublet under \\(U(2)\\) global symmetry?\n3.⁠ ⁠What is the anomaly of 4d Weyl fermion with N-representation as N-multiplet under \\(U(N)\\) global symmetry?"
   },
   {
-    "objectID": "Puzzles/modular_structures.html",
-    "href": "Puzzles/modular_structures.html",
-    "title": "Modular Structures",
+    "objectID": "Puzzles/puzzles.html",
+    "href": "Puzzles/puzzles.html",
+    "title": "Puzzles",
     "section": "",
-    "text": "Evaluate \\(A p_1\\) with Pontryagin Class on a 5-manifold"
+    "text": "Anomalies\nModular Structures"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Waiting to be filled…"
   },
   {
     "objectID": "Projects/aug-05-2025.html",
@@ -648,14 +662,14 @@
     "href": "Seminars/nov-01-2025.html",
     "title": "Nov 01, 2025",
     "section": "",
-    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\n\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
+    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\nVideo 2025-11-01\n\n\n\n\n\nSlides 2025-11-01\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
   },
   {
     "objectID": "Seminars/nov-01-2025.html#speaker",
     "href": "Seminars/nov-01-2025.html#speaker",
     "title": "Nov 01, 2025",
     "section": "",
-    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\n\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
+    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\nVideo 2025-11-01\n\n\n\n\n\nSlides 2025-11-01\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
   },
   {
     "objectID": "Seminars/may-17-2025.html",
