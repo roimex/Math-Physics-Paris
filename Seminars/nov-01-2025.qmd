@@ -12,10 +12,10 @@ An Introduction to Studying 3D CFTs on the Fuzzy Sphere
 Conformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.
 
 ### Video  
-
+- [Video 2025-11-01](https://drive.google.com/file/d/1BbmO4KGdzVp97vhTbTF7Vb_98A2W_b8G/view?usp=sharing)
 
 ### Notes  
-
+- [Slides 2025-11-01]()
 
 ### Resources  
 - [A New Series of 3D CFTs with $Sp(N)$ Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）](https://arxiv.org/abs/2410.00087)
