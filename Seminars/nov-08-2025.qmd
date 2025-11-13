@@ -1,0 +1,21 @@
+---
+title: "Nov 08, 2025"
+---
+
+## Speaker
+Yiyi Wan
+
+### Theme
+Heat Kernel Proof of the Atiyah–Singer Index Theorem
+
+### Abstract
+In this lecture, we bring together several key concepts developed in the previous sessions, including super traces, characteristic classes, and heat kernels. We apply a rescaling argument to the Dirac operator, and extract the relevant coefficients of its heat kernel in the limit. Substituting these into the index formula, we arrive at the heat kernel proof of the Atiyah–Singer Index Theorem.
+
+### Video  
+- [Video 2025-11-08](https://drive.google.com/file/d/11nADtVImgk93kdNgq-m448pzIeMWDYMA/view?usp=sharing)
+
+### Notes  
+- [Notes 2025-11-08](https://drive.google.com/file/d/1PIH7cWVbqmB9T8lR5DjqIJExqWfKvqqM/view?usp=sharing)
+
+### Resources  
+- [Spin Geometry (Christian Bär)](https://drive.google.com/file/d/1GbkRLjgx5aitNtW42gnpcq4Xt0zwyZIe/view?usp=sharing)

@@ -15,7 +15,7 @@ Conformal field theories are central to modern condensed matter and high energy 
 - [Video 2025-11-01](https://drive.google.com/file/d/1BbmO4KGdzVp97vhTbTF7Vb_98A2W_b8G/view?usp=sharing)
 
 ### Notes  
-- [Slides 2025-11-01]()
+- [Slides 2025-11-01](https://drive.google.com/file/d/1n3-5FyJPe96CQ7_gPzH_dKGS29Ij1YSW/view?usp=sharing)
 
 ### Resources  
 - [A New Series of 3D CFTs with $Sp(N)$ Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）](https://arxiv.org/abs/2410.00087)

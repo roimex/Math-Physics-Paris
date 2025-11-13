@@ -30,3 +30,4 @@ title: "Seminars"
 - [Oct 18, 2025: All's Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects](oct-18-2025.qmd)
 - [Oct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries](oct-25-2025.qmd)
 - [Nov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere](nov-01-2025.qmd)
+- [Nov 08, 2025: Heat Kernel Proof of the Atiyah–Singer Index Theorem](nov-08-2025.qmd)
