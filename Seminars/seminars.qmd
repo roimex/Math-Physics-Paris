@@ -31,3 +31,4 @@ title: "Seminars"
 - [Oct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries](oct-25-2025.qmd)
 - [Nov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere](nov-01-2025.qmd)
 - [Nov 08, 2025: Heat Kernel Proof of the Atiyah–Singer Index Theorem](nov-08-2025.qmd)
+- [Nov 15, 2025: Non-invertible Symmetries and SPT on Lattice](nov-15-2025.qmd)

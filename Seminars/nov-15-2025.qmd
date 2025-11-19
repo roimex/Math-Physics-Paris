@@ -1,0 +1,23 @@
+---
+title: "Nov 15, 2025"
+---
+
+## Speaker
+Weiguang Cao
+
+### Theme
+Non-invertible Symmetries and SPT on Lattice
+
+### Abstract
+I will discuss noninvertible symmetries and the associated noninvertible symmetry-protected topological (NISPT) phases in lattice systems. I will begin with the simplest example, the Kramers–Wannier (KW) duality symmetry, which arises from gauging a $\mathbb Z_2$ symmetry on the lattice. I will then explain how more elaborate noninvertible symmetries, such as Rep$(D_8)$, can be generated from KW via a sandwich construction. These new symmetries naturally give rise to new quantum phases of matter. Using a duality-based method, I will show how to classify NISPTs and realize them explicitly in lattice models. The resulting constructions provide concrete platforms that can be probed numerically and, potentially, in future experiments.
+
+### Video  
+- [Video 2025-11-15](https://drive.google.com/file/d/1obbaQCmbPk5rVWoEMZNRcACeLwfT2k5O/view?usp=sharing)
+
+### Notes  
+- [Notes 2025-11-15](https://drive.google.com/file/d/1tuUxP5ycpw6wLaMyu8FwEjvcty0-Zou1/view?usp=sharing)
+
+### Resources  
+- [Tensor Networks for Non-invertible Symmetries in 3+1d and Beyond (Pranay Gorantla, Shu-Heng Shao, and Nathanan Tantivasadakarn)](https://arxiv.org/pdf/2406.12978)
+- [Cluster State as a Non-invertible Symmetry Protected Topological Phase (Sahand Seifnashri, Shu-Heng Shao)](https://arxiv.org/pdf/2404.01369)
+- [Duality Viewpoint of Noninvertible Symmetry Protected Topological Phases (Weiguang Cao, Masahito Yamazaki, and Linhao Li)](https://arxiv.org/pdf/2502.20435)
