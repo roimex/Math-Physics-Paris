@@ -32,3 +32,4 @@ title: "Seminars"
 - [Nov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere](nov-01-2025.qmd)
 - [Nov 08, 2025: Heat Kernel Proof of the Atiyah–Singer Index Theorem](nov-08-2025.qmd)
 - [Nov 15, 2025: Non-invertible Symmetries and SPT on Lattice](nov-15-2025.qmd)
+- [Nov 29, 2025: Quantum Groups as Global Symmetries 1](nov-29-2025.qmd)
