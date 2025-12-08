@@ -21,7 +21,7 @@ title: "Seminars"
 - [Aug 09, 2025: Introduction to 2d Conformal Field Theory](2025-08-09.qmd)
 - [Aug 16, 2025: Spin Geometry (2) --- The Analysis of Dirac-type Operators](2025-08-16.qmd)
 - [Aug 23, 2025: Construction of Liouville Conformal Field Theory](2025-08-23.qmd)
-- [Sep 01, 2025: Spin Geometry (3) --- Introduction to Clifford Algebra](09-012025.qmd)
+- [Sep 01, 2025: Spin Geometry (3) --- Introduction to Clifford Algebra](2025-09-01.qmd)
 - [Sep 06, 2025: Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?](2025-09-06.qmd)
 - [Sep 13, 2025: Spin Geometry (4) --- Spin Groups and Spinors](2025-09-13.qmd)
 - [Sep 20, 2025: Higher Gauge Theory and Group Cohomology](2025-09-20.qmd)

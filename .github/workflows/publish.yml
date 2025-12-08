@@ -1,31 +1,29 @@
+name: Deploy Quarto Site to Cloudflare Pages
+
 on:
-  workflow_dispatch:
   push:
-    branches: main
+    branches: [main]
 
-name: Quarto Publish
-
+  workflow_dispatch:
+  
 jobs:
-  build-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
 
-      - name: Set up Quarto
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Render Quarto project
+        run: quarto render
+
+      - name: Upload _site to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
-        id: deployment
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: ${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+          directory: ./_site
