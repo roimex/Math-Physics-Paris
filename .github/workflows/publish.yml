@@ -26,7 +26,3 @@ jobs:
           cname: mp-paris.org
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
-        id: deployment
