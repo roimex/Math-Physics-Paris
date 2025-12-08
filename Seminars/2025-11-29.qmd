@@ -6,7 +6,7 @@ title: "Nov 29, 2025"
 Jiaxin Qiao
 
 ### Theme
-Quantum Groups as Global Symmetries 1
+Quantum Groups as Global Symmetries (1)
 
 ### Abstract
 In this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with $U_q(\mathfrak{sl}_2) $symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.

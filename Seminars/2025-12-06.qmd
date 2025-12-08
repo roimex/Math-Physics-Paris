@@ -1,0 +1,22 @@
+---
+title: "Dec 06, 2025"
+---
+
+## Speaker
+Xianfeng Jiang
+
+### Theme
+Cluster Algebras and Scattering Diagrams (1)
+
+### Abstract
+This lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.
+
+### Video
+[Video 2025-07-12]()(Due to technical problems, only the audio was recorded. We’re sorry.)
+
+### Notes
+/
+
+### Resources
+- [Cluster Algebras and Scattering Diagrams, Part I. Basics in Cluster Algebras (Tomoki Nakanishi)](https://arxiv.org/abs/2201.11371)
+- [Cluster Algebras and Scattering Diagrams, Part II. Cluster Patterns and Scattering Diagrams](https://arxiv.org/abs/2103.16309)
