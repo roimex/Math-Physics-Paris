@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Dec 06, 2025 – Math-Physics Paris</title>
+<title>Dec 13, 2025 – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -166,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dec 06, 2025</h1>
+<h1 class="title">Dec 13, 2025</h1>
 </div>
 
 
@@ -185,28 +214,31 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="speaker" class="level2">
 <h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>Xianfeng Jiang</p>
+<p>Jiaxin Qiao</p>
 <section id="theme" class="level3">
 <h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Cluster Algebras and Scattering Diagrams (1)</p>
+<p>Quantum Groups as Global Symmetries (2)</p>
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>This lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.</p>
+<p>We study quantum field theories which have quantum groups as global internal symmetries. We show that in such theories operators are generically non-local, and should be thought as living at the ends of topological lines. We describe the general constraints of the quantum group symmetry, given by Ward identities, that correlation functions of the theory should satisfy. We also show that generators of the symmetry can be represented by topological lines with some novel properties. We then discuss a particular example of <span class="math inline">\(U_q(\mathfrak{sl}_2)\)</span> symmetric CFT, which we solve using the bootstrap techniques and relying on the symmetry. We finally show strong evidence that for a special value of <span class="math inline">\(q\)</span> a subsector of this theory reproduces the fermionic formulation of the Ising model. This suggests that a quantum group can act on local operators as well, however, it generically transforms them into non-local ones.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1w50OuPjUFNcv2go6yKx-rdLdgF2dFGKH/view?usp=sharing">Video 2025-12-06</a> (Sorry, due to technical problems, only the audio was recorded.)</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1co1l8CcnkwBA5PuxCGRkNBwkvm9ouwEK/view?usp=sharing">Video 2025-12-13</a></li>
+</ul>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p>/</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1bgzAm4rQstF7Ay87U8uuiVb2Z9sQtmVo/view?usp=sharing">Notes 2025-12-13</a></li>
+</ul>
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>
 <ul>
-<li><a href="https://arxiv.org/abs/2201.11371">Cluster Algebras and Scattering Diagrams, Part I. Basics in Cluster Algebras (Tomoki Nakanishi)</a></li>
-<li><a href="https://arxiv.org/abs/2103.16309">Cluster Algebras and Scattering Diagrams, Part II. Cluster Patterns and Scattering Diagrams</a></li>
+<li><a href="https://arxiv.org/abs/2410.24142">Quantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)</a></li>
 </ul>
 
 

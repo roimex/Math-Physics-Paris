@@ -12,7 +12,7 @@ Cluster Algebras and Scattering Diagrams (1)
 This lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.
 
 ### Video
-[Video 2025-07-12]()(Due to technical problems, only the audio was recorded. We’re sorry.)
+[Video 2025-12-06](https://drive.google.com/file/d/1w50OuPjUFNcv2go6yKx-rdLdgF2dFGKH/view?usp=sharing) (Sorry, due to technical problems, only the audio was recorded.)
 
 ### Notes
 /
