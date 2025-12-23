@@ -35,3 +35,4 @@ title: "Seminars"
 - [Nov 29, 2025: Quantum Groups as Global Symmetries (1)](2025-11-29.qmd)
 - [Dec 06, 2025: Cluster Algebras and Scattering Diagrams (1)](2025-12-06.qmd)
 - [Dec 13, 2025: Quantum Groups as Global Symmetries (2)](2025-12-13.qmd)
+- [Dec 20, 2025: Quantum Groups as Global Symmetries (3)](2025-12-20.qmd)

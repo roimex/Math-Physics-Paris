@@ -1,0 +1,22 @@
+---
+title: "Dec 20, 2025"
+---
+
+## Speaker
+Jiaxin Qiao
+
+### Theme
+Quantum Groups as Global Symmetries (3)
+
+### Abstract
+We study a conformal field theory that arises in the infinite-volume limit of a spin chain with $U_q(\mathfrak{sl}_2)$ global symmetry. Most operators in the theory are defect-ending operators which allows $U_q(\mathfrak{sl}_2)$ symmetry transformations to act on them in a consistent way. We use Coulomb gas techniques to construct correlation functions and compute all OPE coefficients of the model, as well as to prove that the properties imposed by the quantum group symmetry are indeed satisfied by the correlation functions. In particular, we treat the non-chiral operators present in the theory. Free boson realization elucidates the origin of the defects attached to the operators. We also comment on the role of quantum group in generalized minimal models.
+
+### Video  
+- [Video 2025-12-20](https://drive.google.com/file/d/1VRsA-1l-87nyFfYd4RuvTFTB0tuhWmVw/view?usp=sharing)
+
+### Notes  
+- [Notes 2025-12-20](https://drive.google.com/file/d/1OLmHCw0VnJUZbb7QVQOfQntp0HbTM2xK/view?usp=sharing)
+
+### Resources  
+- [Quantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)](https://arxiv.org/abs/2410.24142)
+- [Quantum Groups as Global Symmetries II. Coulomb Gas Construction (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan, Aleksandr Zhabin)](https://arxiv.org/abs/2410.24143)
