@@ -69,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -192,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>In this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with $U_q(_2) $symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.</p>
+<p>In this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with <span class="math inline">\(U_q(\mathfrak{sl}_2)\)</span> symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
