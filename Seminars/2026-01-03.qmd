@@ -1,0 +1,23 @@
+---
+title: "Jan 03, 2026"
+---
+
+## Speaker
+Yan Luo
+
+### Theme
+Renormalized Volume and Weil-Petersson Teichmüller Theory
+
+### Abstract
+In this talk, we introduce the renormalized volume of hyperbolic 3-manifolds and its relation to Teichmüller theory. We first briefly introduce the concept of Teichmüller and universal Teichmüller spaces, and their Weil-Petersson metric structure. Then we talk about the definitions of renormalized volume of certain manifolds in convex co-compact and universal cases. Finally, we discuss the relations between the previous two parts, namely, the renormalized volume provides a Kähler potential for the Weil Petersson metric.
+
+### Video  
+- [Video 2026-01-03](https://drive.google.com/file/d/1aMDwOGDALjbHGIwZmCREA5PDRu4M73dL/view?usp=sharing)
+
+### Notes  
+- [Notes 2026-01-03](https://drive.google.com/file/d/1qUDXMQlYGbL9nV6mHB6h8TznE9DVro7B/view?usp=sharing)
+
+### Resources  
+- [The Weil-Petersson Metric and the Renormalized Volume of Hyperbolic 3-Manifolds (Kirill Krasnov, Jean-Marc Schlenker)](https://arxiv.org/abs/0907.2590)
+- [Weil-Petersson Metric on the Universal Teichmuller Space I: Curvature Properties and Chern Forms (Leon A. Takhtajan, Lee-Peng Teo)](https://arxiv.org/abs/math/0312172)
+- [Universal Liouville Action as a Renormalized Volume and its Gradient Flow (Martin Bridgeman, Kenneth Bromberg, Franco Vargas Pallete and Yilin Wang)](https://arxiv.org/abs/2311.18767)
