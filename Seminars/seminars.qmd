@@ -37,3 +37,4 @@ title: "Seminars"
 - [Dec 13, 2025: Quantum Groups as Global Symmetries (2)](2025-12-13.qmd)
 - [Dec 20, 2025: Quantum Groups as Global Symmetries (3)](2025-12-20.qmd)
 - [Jan 03, 2026: Renormalized Volume and Weil-Petersson Teichmüller Theory](2026-01-03.qmd)
+- [Jan 10, 2026: On Boundary Conditions and Phases of Quantum Field Theories](2026-01-10.qmd)

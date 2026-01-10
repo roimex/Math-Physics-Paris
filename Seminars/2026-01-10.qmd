@@ -1,0 +1,21 @@
+---
+title: "Jan 10, 2026"
+---
+
+## Speaker
+Du Pei
+
+### Theme
+On Boundary Conditions and Phases of Quantum Field Theories
+
+### Abstract
+In this lecture, I will discuss how to access the homotopy type of the space of boundary conditions of quantum field theories. In the process, I will generalize Witten's work relating Morse theory and supersymmetric quantum mechanics to higher dimensions, demonstrating that supersymmetric boundary conditions in certain higher-dimensional sigma models are classified by generalized homology theories. As an application, we show that this new invariant can be used to distinguish infrared massive phases.
+
+### Video  
+- [Video 2026-01-10](https://drive.google.com/file/d/1PaPoSLffmQV786RnVpX4j57wsqJQo0vq/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+- [A new approach to (3+1)-dimensional TQFTs via topological modular forms (Sergei Gukov, Vyacheslav Krushkal, Lennart Meier, Du Pei)](https://arxiv.org/abs/2509.12402)
