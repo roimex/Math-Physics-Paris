@@ -231,284 +231,298 @@
     "text": "Yiming Teng\n\n\n’t Hooft Anomaly\n\n\n\nIn this lecture, we discussed how quantum anomalies manifest at the perturbative level. We outlined the method of computing chiral anomalies using the AVV one-loop triangle diagram and highlighted the connection between anomalies and regularization schemes. Based on the triangle diagram, we demonstrated the conditions required for perturbative gauge anomaly cancellation in chiral gauge theories and introduced the concept of ’t Hooft anomalies for global symmetries. Finally, we briefly mentioned the existence of non-perturbative anomalies in SU(2) chiral gauge theories, which cannot be detected via perturbative methods.\n\n\n\nVideo 2025-04-05\n\n\n\n/\n\n\n\n\n数学物理讨论班讲义 (滕一鸣)\nGauge Theory (David Tong)\nCharacteristic Forms and Geometric Invariants (Shiing-Shen Chern, James Simons)\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nSymmetry Protected Topological Orders and the Group Cohomology of their Symmetry Group (Xie Chen, Zheng-Cheng Gu, Zheng-Xin Liu, and Xiao-Gang Wen)"
   },
   {
-    "objectID": "Seminars/2025-11-08.html",
-    "href": "Seminars/2025-11-08.html",
-    "title": "Nov 08, 2025",
+    "objectID": "Seminars/2026-01-10.html",
+    "href": "Seminars/2026-01-10.html",
+    "title": "Jan 10, 2026",
     "section": "",
-    "text": "Yiyi Wan\n\n\nHeat Kernel Proof of the Atiyah–Singer Index Theorem\n\n\n\nIn this lecture, we bring together several key concepts developed in the previous sessions, including super traces, characteristic classes, and heat kernels. We apply a rescaling argument to the Dirac operator, and extract the relevant coefficients of its heat kernel in the limit. Substituting these into the index formula, we arrive at the heat kernel proof of the Atiyah–Singer Index Theorem.\n\n\n\n\nVideo 2025-11-08\n\n\n\n\n\nNotes 2025-11-08\n\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Du Pei\n\n\nOn Boundary Conditions and Phases of Quantum Field Theories\n\n\n\nIn this lecture, I will discuss how to access the homotopy type of the space of boundary conditions of quantum field theories. In the process, I will generalize Witten’s work relating Morse theory and supersymmetric quantum mechanics to higher dimensions, demonstrating that supersymmetric boundary conditions in certain higher-dimensional sigma models are classified by generalized homology theories. As an application, we show that this new invariant can be used to distinguish infrared massive phases.\n\n\n\n\nVideo 2026-01-10\n\n\n\n\n/\n\n\n\n\nA new approach to (3+1)-dimensional TQFTs via topological modular forms (Sergei Gukov, Vyacheslav Krushkal, Lennart Meier, Du Pei)"
   },
   {
-    "objectID": "Seminars/2025-11-08.html#speaker",
-    "href": "Seminars/2025-11-08.html#speaker",
-    "title": "Nov 08, 2025",
+    "objectID": "Seminars/2026-01-10.html#speaker",
+    "href": "Seminars/2026-01-10.html#speaker",
+    "title": "Jan 10, 2026",
     "section": "",
-    "text": "Yiyi Wan\n\n\nHeat Kernel Proof of the Atiyah–Singer Index Theorem\n\n\n\nIn this lecture, we bring together several key concepts developed in the previous sessions, including super traces, characteristic classes, and heat kernels. We apply a rescaling argument to the Dirac operator, and extract the relevant coefficients of its heat kernel in the limit. Substituting these into the index formula, we arrive at the heat kernel proof of the Atiyah–Singer Index Theorem.\n\n\n\n\nVideo 2025-11-08\n\n\n\n\n\nNotes 2025-11-08\n\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Du Pei\n\n\nOn Boundary Conditions and Phases of Quantum Field Theories\n\n\n\nIn this lecture, I will discuss how to access the homotopy type of the space of boundary conditions of quantum field theories. In the process, I will generalize Witten’s work relating Morse theory and supersymmetric quantum mechanics to higher dimensions, demonstrating that supersymmetric boundary conditions in certain higher-dimensional sigma models are classified by generalized homology theories. As an application, we show that this new invariant can be used to distinguish infrared massive phases.\n\n\n\n\nVideo 2026-01-10\n\n\n\n\n/\n\n\n\n\nA new approach to (3+1)-dimensional TQFTs via topological modular forms (Sergei Gukov, Vyacheslav Krushkal, Lennart Meier, Du Pei)"
   },
   {
-    "objectID": "Seminars/2025-06-07.html",
-    "href": "Seminars/2025-06-07.html",
-    "title": "Jun 07, 2025",
+    "objectID": "Seminars/2025-03-22.html",
+    "href": "Seminars/2025-03-22.html",
+    "title": "Mar 22, 2025",
     "section": "",
-    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
+    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
   },
   {
-    "objectID": "Seminars/2025-06-07.html#speaker",
-    "href": "Seminars/2025-06-07.html#speaker",
-    "title": "Jun 07, 2025",
+    "objectID": "Seminars/2025-03-22.html#speaker-1",
+    "href": "Seminars/2025-03-22.html#speaker-1",
+    "title": "Mar 22, 2025",
     "section": "",
-    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
+    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
   },
   {
-    "objectID": "Seminars/2025-08-02.html",
-    "href": "Seminars/2025-08-02.html",
-    "title": "Aug 02, 2025",
-    "section": "",
-    "text": "Chen Wei\n\n\nDifferential Operators on Manifolds\n\n\n\nThis lecture, based on Chapter 1 of Christian Bär’s Spin Geometry, provides a rigorous treatment of differential operators on manifolds and their analytical framework. Beginning with fundamental concepts—including order classification, principal symbols, and formal adjoints—it illustrates the theory through geometric examples like gradient, divergence, and Laplace operators. The course then develops Sobolev space theory, covering norms, embedding theorems, compactness results, and weak solution regularity, forming the analytical foundation for Hodge theory and spectral analysis of elliptic operators.\n\n\n\nVideo 2025-08-02\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "objectID": "Seminars/2025-03-22.html#speaker-2",
+    "href": "Seminars/2025-03-22.html#speaker-2",
+    "title": "Mar 22, 2025",
+    "section": "Speaker 2",
+    "text": "Speaker 2\nYiyi Wan\n\nTheme\nYang-Mills Theory\n\n\nAbstract\nWe began with the foundational definitions of principal bundles and explored the associated notions of connection and curvature. Building on this framework, we introduced the Yang–Mills action within the context of gauge theory and discussed its physical and mathematical significance.\n\n\nVideo\nVideo(2) 2025-03-22\n\n\nNotes\nNotes(2) 2025-03-22\n\n\nResources\n\nPrincipal Bundles: the Classical Case (Stephen Bruce Sontz)"
   },
   {
-    "objectID": "Seminars/2025-08-02.html#speaker",
-    "href": "Seminars/2025-08-02.html#speaker",
-    "title": "Aug 02, 2025",
-    "section": "",
-    "text": "Chen Wei\n\n\nDifferential Operators on Manifolds\n\n\n\nThis lecture, based on Chapter 1 of Christian Bär’s Spin Geometry, provides a rigorous treatment of differential operators on manifolds and their analytical framework. Beginning with fundamental concepts—including order classification, principal symbols, and formal adjoints—it illustrates the theory through geometric examples like gradient, divergence, and Laplace operators. The course then develops Sobolev space theory, covering norms, embedding theorems, compactness results, and weak solution regularity, forming the analytical foundation for Hodge theory and spectral analysis of elliptic operators.\n\n\n\nVideo 2025-08-02\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
-  },
-  {
-    "objectID": "Projects/2025-08-30.html",
-    "href": "Projects/2025-08-30.html",
-    "title": "Aug 30, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-30\n\n\n\nNotes 2025-08-30\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-08-30.html#speaker",
-    "href": "Projects/2025-08-30.html#speaker",
-    "title": "Aug 30, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-30\n\n\n\nNotes 2025-08-30\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-11-01.html",
-    "href": "Projects/2025-11-01.html",
-    "title": "Oct 25, 2025",
-    "section": "",
-    "text": "Chen Wei\n\n\nFree Discussion\n\n\n\nVideo 2025-11-01\n\n\n\n/\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-11-01.html#speaker",
-    "href": "Projects/2025-11-01.html#speaker",
-    "title": "Oct 25, 2025",
-    "section": "",
-    "text": "Chen Wei\n\n\nFree Discussion\n\n\n\nVideo 2025-11-01\n\n\n\n/\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-03-16.html",
-    "href": "Projects/2025-03-16.html",
-    "title": "Mar 16, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\n\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
-  },
-  {
-    "objectID": "Projects/2025-03-16.html#speaker",
-    "href": "Projects/2025-03-16.html#speaker",
-    "title": "Mar 16, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\n\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
-  },
-  {
-    "objectID": "Projects/2025-09-13.html",
-    "href": "Projects/2025-09-13.html",
-    "title": "Sep 13, 2025",
-    "section": "",
-    "text": "Yiming Teng\n\n\nFree Discussion\n\n\n\nVideo 2025-09-13\n\n\n\n数学物理讨论班讲义 (滕一鸣)\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-09-13.html#speaker",
-    "href": "Projects/2025-09-13.html#speaker",
-    "title": "Sep 13, 2025",
-    "section": "",
-    "text": "Yiming Teng\n\n\nFree Discussion\n\n\n\nVideo 2025-09-13\n\n\n\n数学物理讨论班讲义 (滕一鸣)\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-09-14.html",
-    "href": "Projects/2025-09-14.html",
-    "title": "Sep 14, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-14\n\n\n\n笔记 2025年9月14日\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-09-14.html#speaker",
-    "href": "Projects/2025-09-14.html#speaker",
-    "title": "Sep 14, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-14\n\n\n\n笔记 2025年9月14日\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/projects.html",
-    "href": "Projects/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Mar 16, 2025: Meet & Greet Session\nApr 06, 2025: Leptogenesis\nApr 13, 2025: Leptogenesis and Sakharov Conditions\nApr 22, 2025: Atiyah-Singer Index Theorem\n\nAug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry\nAug 05, 2025: Discrete Gauge Anomalies Revisited\nAug 06, 2025: Free Discussion\nAug 07, 2025: Free Discussion\nAug 09, 2025: Free Discussion\nAug 10, 2025: Free Discussion\nAug 11, 2025: Free Discussion\nAug 14, 2025: Free Discussion\nAug 16, 2025: Free Discussion\nAug 30, 2025: Free Discussion\nSep 13, 2025: Free Discussion\nSep 14, 2025: Free Discussion\nSep 17, 2025: Free Discussion\nOct 04, 2025: Free Discussion\nOct 25, 2025: Free Discussion\nNov 01, 2025: Free Discussion"
-  },
-  {
-    "objectID": "Projects/2025-04-06.html",
-    "href": "Projects/2025-04-06.html",
-    "title": "Apr 06, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n/\n\n\n\n/\n\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
-  },
-  {
-    "objectID": "Projects/2025-04-06.html#speaker",
-    "href": "Projects/2025-04-06.html#speaker",
-    "title": "Apr 06, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n/\n\n\n\n/\n\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
-  },
-  {
-    "objectID": "Projects/2025-08-07.html",
-    "href": "Projects/2025-08-07.html",
-    "title": "Aug 07, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-07\n\n\n\n/\n\n\n\n\nMathematica Code"
-  },
-  {
-    "objectID": "Projects/2025-08-07.html#speaker",
-    "href": "Projects/2025-08-07.html#speaker",
-    "title": "Aug 07, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-07\n\n\n\n/\n\n\n\n\nMathematica Code"
-  },
-  {
-    "objectID": "Projects/2025-08-05.html",
-    "href": "Projects/2025-08-05.html",
-    "title": "Aug 05, 2025",
-    "section": "",
-    "text": "Zheyan Wan\n\n\nDiscrete Gauge Anomalies Revisited\n\n\n\nVideo 2025-08-05\n\n\n\nNotes 2025-08-05\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
-  },
-  {
-    "objectID": "Projects/2025-08-05.html#speaker",
-    "href": "Projects/2025-08-05.html#speaker",
-    "title": "Aug 05, 2025",
-    "section": "",
-    "text": "Zheyan Wan\n\n\nDiscrete Gauge Anomalies Revisited\n\n\n\nVideo 2025-08-05\n\n\n\nNotes 2025-08-05\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
-  },
-  {
-    "objectID": "Projects/2025-08-10.html",
-    "href": "Projects/2025-08-10.html",
-    "title": "Aug 10, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-10\n\n\n\nNotes 2025-08-10\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-08-10.html#speaker",
-    "href": "Projects/2025-08-10.html#speaker",
-    "title": "Aug 10, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-10\n\n\n\nNotes 2025-08-10\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-08-16.html",
-    "href": "Projects/2025-08-16.html",
+    "objectID": "Seminars/2025-08-16.html",
+    "href": "Seminars/2025-08-16.html",
     "title": "Aug 16, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n/"
+    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Projects/2025-08-16.html#speaker",
-    "href": "Projects/2025-08-16.html#speaker",
+    "objectID": "Seminars/2025-08-16.html#speaker",
+    "href": "Seminars/2025-08-16.html#speaker",
     "title": "Aug 16, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n/"
+    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Papers/wang25.html",
-    "href": "Papers/wang25.html",
-    "title": "Topological Quantum Dark Matter via Global Anomaly Cancellation",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Math-Physics Paris",
     "section": "",
-    "text": "Juven Wang\n\n\nStandard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino \\(\\nu_R\\)) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry. Including \\(\\nu_R\\) per family can cancel these anomalies, but when \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) that are enhanced from the fermion parity \\(\\mathbb{Z}_2^\\mathrm{F}\\) to \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\), with \\(N = 2, 3, 4, 6, 9\\), etc. The discreteness of \\(\\mathbf{B} \\pm \\mathbf{L}\\) is constrained by multi-fermion deformations beyond-the-SM and the family number \\(N_f\\). Unlike the free quadratic \\(\\nu_R\\) Majorana mass gap preserving the minimal \\(\\mathbb{Z}_2^\\mathrm{F}\\), we explore novel scenarios canceling \\((\\mathbf{B} \\pm \\mathbf{L})\\)-gravitational anomalies while preserving the \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at \\(N_f = 3\\), such that when the representation of \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) from the faithful \\(\\mathbf{B} + \\mathbf{L}\\) for baryons at \\(N = N_c = 3\\) is extended to the faithful \\(\\mathbf{Q} + N_c \\mathbf{L}\\) for quarks at \\(N = N_c N_f = 9\\), this symmetry extension \\(\\mathbb{Z}_{N_c=3} \\to \\mathbb{Z}_{N_c N_f=9} \\to \\mathbb{Z}_{N_f=3}\\) matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
+    "text": "The Math-Physics Paris discussion group focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across HEP, CMT and mathematical physics. It is inspried by and aligned with the theme of the 2024 IHES Summer School."
   },
   {
-    "objectID": "Papers/wang25.html#author",
-    "href": "Papers/wang25.html#author",
-    "title": "Topological Quantum Dark Matter via Global Anomaly Cancellation",
-    "section": "",
-    "text": "Juven Wang\n\n\nStandard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino \\(\\nu_R\\)) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry. Including \\(\\nu_R\\) per family can cancel these anomalies, but when \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) that are enhanced from the fermion parity \\(\\mathbb{Z}_2^\\mathrm{F}\\) to \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\), with \\(N = 2, 3, 4, 6, 9\\), etc. The discreteness of \\(\\mathbf{B} \\pm \\mathbf{L}\\) is constrained by multi-fermion deformations beyond-the-SM and the family number \\(N_f\\). Unlike the free quadratic \\(\\nu_R\\) Majorana mass gap preserving the minimal \\(\\mathbb{Z}_2^\\mathrm{F}\\), we explore novel scenarios canceling \\((\\mathbf{B} \\pm \\mathbf{L})\\)-gravitational anomalies while preserving the \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at \\(N_f = 3\\), such that when the representation of \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) from the faithful \\(\\mathbf{B} + \\mathbf{L}\\) for baryons at \\(N = N_c = 3\\) is extended to the faithful \\(\\mathbf{Q} + N_c \\mathbf{L}\\) for quarks at \\(N = N_c N_f = 9\\), this symmetry extension \\(\\mathbb{Z}_{N_c=3} \\to \\mathbb{Z}_{N_c N_f=9} \\to \\mathbb{Z}_{N_f=3}\\) matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
+    "objectID": "index.html#organization",
+    "href": "index.html#organization",
+    "title": "Math-Physics Paris",
+    "section": "Organization",
+    "text": "Organization\nWe have two types of meetings:\n\nirregular project meetings,\nregular seminar meetings.\n\n\nProject Meetings\nThese are scheduled irregularly, depending on the availability of the professors and students involved in the project.\n\n\nSeminar Meetings\nThe purpose is to provide a shared reading space for students working on projects and to invite researchers from related fields to broaden perspectives. These two types of meetings will therefore alternate.\n\nTime\n14:00 CET/08:00 ET/21:00 CST on Saturdays\n(The time may be adjusted to accommodate speakers’ availability.)\n\n\nVenue:\n\nENS Math Department — Salle R3\nIMJ-PRG Jussieu — 15-16-413\n\n(The exact room may vary by week and will be announced via email.)\n\n\nZoom Link\nDistributed via email."
   },
   {
-    "objectID": "Papers/wy20.html",
-    "href": "Papers/wy20.html",
-    "title": "Anomaly Inflow and the η-Invariant",
+    "objectID": "Projects/2025-08-09.html",
+    "href": "Projects/2025-08-09.html",
+    "title": "Aug 09, 2025",
     "section": "",
-    "text": "Edward Witten, Kazuya Yonekura\n\n\nPerturbative fermion anomalies in spacetime dimension \\(d\\) have a well-known relation to Chern–Simons functions in dimension \\(D = d + 1\\). This relationship is manifested in a beautiful way in ``anomaly inflow’’ from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the \\(\\eta\\)-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the \\(\\eta\\)-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in \\(d\\) dimensions in terms of an \\(\\eta\\)-invariant in \\(D\\) dimensions. This \\(\\eta\\)-invariant is a cobordism invariant whenever perturbative anomalies cancel.\n\n\n\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-09\n\n\n\nNotes 2025-08-10\n\n\n\n/"
   },
   {
-    "objectID": "Papers/wy20.html#author",
-    "href": "Papers/wy20.html#author",
-    "title": "Anomaly Inflow and the η-Invariant",
+    "objectID": "Projects/2025-08-09.html#speaker",
+    "href": "Projects/2025-08-09.html#speaker",
+    "title": "Aug 09, 2025",
     "section": "",
-    "text": "Edward Witten, Kazuya Yonekura\n\n\nPerturbative fermion anomalies in spacetime dimension \\(d\\) have a well-known relation to Chern–Simons functions in dimension \\(D = d + 1\\). This relationship is manifested in a beautiful way in ``anomaly inflow’’ from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the \\(\\eta\\)-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the \\(\\eta\\)-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in \\(d\\) dimensions in terms of an \\(\\eta\\)-invariant in \\(D\\) dimensions. This \\(\\eta\\)-invariant is a cobordism invariant whenever perturbative anomalies cancel.\n\n\n\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-09\n\n\n\nNotes 2025-08-10\n\n\n\n/"
   },
   {
-    "objectID": "Papers/aps75.html",
-    "href": "Papers/aps75.html",
-    "title": "Spectral Asymmetry and Riemannian Geometry I",
+    "objectID": "Projects/2025-04-22.html",
+    "href": "Projects/2025-04-22.html",
+    "title": "Apr 22, 2025",
     "section": "",
-    "text": "M. F. Atiyah, V. K. Patodi and I. M. Singer\n\n\n/\n\n\n\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)"
+    "text": "Juven Wang\n\n\nAtiyah-Singer Index Theorem\n\n\n\nVideo 2025-04-22\n\n\n\n/\n\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nwk6_modular_invariance"
   },
   {
-    "objectID": "Papers/aps75.html#author",
-    "href": "Papers/aps75.html#author",
-    "title": "Spectral Asymmetry and Riemannian Geometry I",
+    "objectID": "Projects/2025-04-22.html#speaker",
+    "href": "Projects/2025-04-22.html#speaker",
+    "title": "Apr 22, 2025",
     "section": "",
-    "text": "M. F. Atiyah, V. K. Patodi and I. M. Singer\n\n\n/\n\n\n\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)"
+    "text": "Juven Wang\n\n\nAtiyah-Singer Index Theorem\n\n\n\nVideo 2025-04-22\n\n\n\n/\n\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nwk6_modular_invariance"
   },
   {
-    "objectID": "Papers/as68b.html",
-    "href": "Papers/as68b.html",
-    "title": "The Index of Elliptic Operators II",
+    "objectID": "Projects/2025-10-25.html",
+    "href": "Projects/2025-10-25.html",
+    "title": "Oct 25, 2025",
     "section": "",
-    "text": "M. F. Atiyah, G. B. Segal\n\n\nThe purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.\nThe content of this paper is essentially topological, and it should be viewed as a paper on the equivariant \\(K\\)-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.\nAs in [5], we avoid cohomology and use only \\(K\\)-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.\nThe basic result in \\(K_G\\)-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.\n\n\n\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)"
+    "text": "Ran Luo\n\n\nFree Discussion\n\n\n\nVideo 2025-10-25\n\n\n\n/\n\n\n\n\nBrief Introduction to SymTFT (Ran Luo)"
   },
   {
-    "objectID": "Papers/as68b.html#author",
-    "href": "Papers/as68b.html#author",
-    "title": "The Index of Elliptic Operators II",
+    "objectID": "Projects/2025-10-25.html#speaker",
+    "href": "Projects/2025-10-25.html#speaker",
+    "title": "Oct 25, 2025",
     "section": "",
-    "text": "M. F. Atiyah, G. B. Segal\n\n\nThe purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.\nThe content of this paper is essentially topological, and it should be viewed as a paper on the equivariant \\(K\\)-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.\nAs in [5], we avoid cohomology and use only \\(K\\)-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.\nThe basic result in \\(K_G\\)-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.\n\n\n\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)"
+    "text": "Ran Luo\n\n\nFree Discussion\n\n\n\nVideo 2025-10-25\n\n\n\n/\n\n\n\n\nBrief Introduction to SymTFT (Ran Luo)"
   },
   {
-    "objectID": "Papers/moo19.html",
-    "href": "Papers/moo19.html",
-    "title": "Introduction To Chern-Simons Theories",
+    "objectID": "Projects/2025-09-17.html",
+    "href": "Projects/2025-09-17.html",
+    "title": "Sep 17, 2025",
     "section": "",
-    "text": "Gregory W. Moore\n\n\nThese are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)\n\n\n\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+    "text": "Xianfeng Jiang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-17\n\n\n\nWhiteboards 2025-09-17\n\n\n\n/"
   },
   {
-    "objectID": "Papers/moo19.html#author",
-    "href": "Papers/moo19.html#author",
-    "title": "Introduction To Chern-Simons Theories",
+    "objectID": "Projects/2025-09-17.html#speaker",
+    "href": "Projects/2025-09-17.html#speaker",
+    "title": "Sep 17, 2025",
     "section": "",
-    "text": "Gregory W. Moore\n\n\nThese are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)\n\n\n\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+    "text": "Xianfeng Jiang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-17\n\n\n\nWhiteboards 2025-09-17\n\n\n\n/"
   },
   {
-    "objectID": "Papers/fre21.html",
-    "href": "Papers/fre21.html",
-    "title": "The Atiyah-Singer Index Theorem",
+    "objectID": "Projects/2025-10-04.html",
+    "href": "Projects/2025-10-04.html",
+    "title": "Oct 04, 2025",
     "section": "",
-    "text": "Daniel S. Freed\n\n\nThe Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-10-04\n\n\n\n/\n\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
   },
   {
-    "objectID": "Papers/fre21.html#author",
-    "href": "Papers/fre21.html#author",
-    "title": "The Atiyah-Singer Index Theorem",
+    "objectID": "Projects/2025-10-04.html#speaker",
+    "href": "Projects/2025-10-04.html#speaker",
+    "title": "Oct 04, 2025",
     "section": "",
-    "text": "Daniel S. Freed\n\n\nThe Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-10-04\n\n\n\n/\n\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "Projects/2025-08-06.html",
+    "href": "Projects/2025-08-06.html",
+    "title": "Aug 06, 2025",
     "section": "",
-    "text": "Waiting to be filled…"
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-06\n\n\n\n/\n\n\n\n\nThe Kitaev Chain And Two-Dimensional Gravity (Edward Witten)"
+  },
+  {
+    "objectID": "Projects/2025-08-06.html#speaker",
+    "href": "Projects/2025-08-06.html#speaker",
+    "title": "Aug 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-06\n\n\n\n/\n\n\n\n\nThe Kitaev Chain And Two-Dimensional Gravity (Edward Witten)"
+  },
+  {
+    "objectID": "Projects/2025-04-13.html",
+    "href": "Projects/2025-04-13.html",
+    "title": "Apr 13, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov Conditions\n\n\n\nVideo 2025-04-13\n\n\n\nReport April 13 2025 - Juven Wang\n\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and \\(3(E8)_1\\) Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
+  },
+  {
+    "objectID": "Projects/2025-04-13.html#speaker",
+    "href": "Projects/2025-04-13.html#speaker",
+    "title": "Apr 13, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov Conditions\n\n\n\nVideo 2025-04-13\n\n\n\nReport April 13 2025 - Juven Wang\n\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and \\(3(E8)_1\\) Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
+  },
+  {
+    "objectID": "Projects/2025-08-11.html",
+    "href": "Projects/2025-08-11.html",
+    "title": "Aug 11, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)\nCubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)"
+  },
+  {
+    "objectID": "Projects/2025-08-11.html#speaker",
+    "href": "Projects/2025-08-11.html#speaker",
+    "title": "Aug 11, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)\nCubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)"
+  },
+  {
+    "objectID": "Projects/2025-08-04.html",
+    "href": "Projects/2025-08-04.html",
+    "title": "Aug 04, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+  },
+  {
+    "objectID": "Projects/2025-08-04.html#speaker",
+    "href": "Projects/2025-08-04.html#speaker",
+    "title": "Aug 04, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
+  },
+  {
+    "objectID": "Projects/2025-08-14.html",
+    "href": "Projects/2025-08-14.html",
+    "title": "Aug 14, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-14\n\n\n\nWhiteboards 2025-08-14\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-08-14.html#speaker",
+    "href": "Projects/2025-08-14.html#speaker",
+    "title": "Aug 14, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-14\n\n\n\nWhiteboards 2025-08-14\n\n\n\n/"
+  },
+  {
+    "objectID": "Papers/hsi18.html",
+    "href": "Papers/hsi18.html",
+    "title": "Discrete Gauge Anomalies Revisited",
+    "section": "",
+    "text": "Chang-Tse Hsieh\n\n\nWe revisit discrete gauge anomalies in chiral fermion theories in \\(3+1\\) dimensions. We focus on the case that the full symmetry group of fermions is \\(\\mathrm{Spin}(4) \\times \\mathbb{Z}_n\\) or \\((\\mathrm{Spin}(4) \\times \\mathbb{Z}_{2m})/\\mathbb{Z}_2\\) with \\(\\mathbb{Z}_2\\) being the diagonal \\(\\mathbb{Z}_2\\) subgroup. The anomalies are determined by the consistency condition — based on the Dai-Freed theorem — of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global \\(\\mathbb{Z}_n\\) symmetry, and present a model for constructing these states in the framework of weak coupling.\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+  },
+  {
+    "objectID": "Papers/hsi18.html#author",
+    "href": "Papers/hsi18.html#author",
+    "title": "Discrete Gauge Anomalies Revisited",
+    "section": "",
+    "text": "Chang-Tse Hsieh\n\n\nWe revisit discrete gauge anomalies in chiral fermion theories in \\(3+1\\) dimensions. We focus on the case that the full symmetry group of fermions is \\(\\mathrm{Spin}(4) \\times \\mathbb{Z}_n\\) or \\((\\mathrm{Spin}(4) \\times \\mathbb{Z}_{2m})/\\mathbb{Z}_2\\) with \\(\\mathbb{Z}_2\\) being the diagonal \\(\\mathbb{Z}_2\\) subgroup. The anomalies are determined by the consistency condition — based on the Dai-Freed theorem — of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global \\(\\mathbb{Z}_n\\) symmetry, and present a model for constructing these states in the framework of weak coupling.\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+  },
+  {
+    "objectID": "Papers/pw23.html",
+    "href": "Papers/pw23.html",
+    "title": "Categorical Symmetry of the Standard Model from Gravitational Anomaly",
+    "section": "",
+    "text": "Pavel Putrov, Juven Wang\n\n\nIn the Standard Model, some combination of the baryon \\(\\mathbf{B}\\) and lepton \\(\\mathbf{L}\\) number symmetry is free of mixed anomalies with strong and electroweak \\(su(3) \\times su(2) \\times u(1)_{\\tilde{Y}}\\) gauge forces. However, it can still suffer from a mixed gravitational anomaly, hypothetically pertinent to leptogenesis in the very early universe. This happens when the total “sterile right-handed” neutrino number \\(n_{\\nu_R}\\) is not equal to the family number \\(N_f\\). Thus the invertible \\(\\mathbf{B} - \\mathbf{L}\\) symmetry current conservation can be violated quantum mechanically by gravitational backgrounds such as gravitational instantons. In specific, we show that a noninvertible categorical \\(\\mathbf{B} - \\mathbf{L}\\) generalized symmetry still survives in gravitational backgrounds. In general, we propose a construction of noninvertible symmetry charge operators as topological defects derived from invertible anomalous symmetries that suffer from mixed gravitational anomalies. Examples include the perturbative local and nonperturbative global anomalies classified by \\(\\mathbb{Z}\\) and \\(\\mathbb{Z}_{16}\\) respectively. For this construction, we utilize the anomaly inflow bulk-boundary correspondence, the 4d Pontryagin class and the gravitational Chern-Simons 3-form, the 3d Witten–Reshetikhin–Turaev-type topological quantum field theory with a framing anomaly corresponding to a 2d rational conformal field theory with an appropriate rational chiral central charge, and the 4d \\(\\mathbb{Z}_4^{\\mathrm{TF}}\\)-time-reversal symmetric topological superconductor with 3d boundary topological order.\n\n\n\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "Papers/pw23.html#author",
+    "href": "Papers/pw23.html#author",
+    "title": "Categorical Symmetry of the Standard Model from Gravitational Anomaly",
+    "section": "",
+    "text": "Pavel Putrov, Juven Wang\n\n\nIn the Standard Model, some combination of the baryon \\(\\mathbf{B}\\) and lepton \\(\\mathbf{L}\\) number symmetry is free of mixed anomalies with strong and electroweak \\(su(3) \\times su(2) \\times u(1)_{\\tilde{Y}}\\) gauge forces. However, it can still suffer from a mixed gravitational anomaly, hypothetically pertinent to leptogenesis in the very early universe. This happens when the total “sterile right-handed” neutrino number \\(n_{\\nu_R}\\) is not equal to the family number \\(N_f\\). Thus the invertible \\(\\mathbf{B} - \\mathbf{L}\\) symmetry current conservation can be violated quantum mechanically by gravitational backgrounds such as gravitational instantons. In specific, we show that a noninvertible categorical \\(\\mathbf{B} - \\mathbf{L}\\) generalized symmetry still survives in gravitational backgrounds. In general, we propose a construction of noninvertible symmetry charge operators as topological defects derived from invertible anomalous symmetries that suffer from mixed gravitational anomalies. Examples include the perturbative local and nonperturbative global anomalies classified by \\(\\mathbb{Z}\\) and \\(\\mathbb{Z}_{16}\\) respectively. For this construction, we utilize the anomaly inflow bulk-boundary correspondence, the 4d Pontryagin class and the gravitational Chern-Simons 3-form, the 3d Witten–Reshetikhin–Turaev-type topological quantum field theory with a framing anomaly corresponding to a 2d rational conformal field theory with an appropriate rational chiral central charge, and the 4d \\(\\mathbb{Z}_4^{\\mathrm{TF}}\\)-time-reversal symmetric topological superconductor with 3d boundary topological order.\n\n\n\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "Papers/yon16.html",
+    "href": "Papers/yon16.html",
+    "title": "Dai-Freed Theorem and Topological Phases of Matter",
+    "section": "",
+    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
+  },
+  {
+    "objectID": "Papers/yon16.html#author",
+    "href": "Papers/yon16.html#author",
+    "title": "Dai-Freed Theorem and Topological Phases of Matter",
+    "section": "",
+    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
+  },
+  {
+    "objectID": "Papers/as68a.html",
+    "href": "Papers/as68a.html",
+    "title": "The Index of Elliptic Operators I",
+    "section": "",
+    "text": "M. F. Atiyah, I. M. Singer\n\n\nThis is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.\n\n\n\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)"
+  },
+  {
+    "objectID": "Papers/as68a.html#author",
+    "href": "Papers/as68a.html#author",
+    "title": "The Index of Elliptic Operators I",
+    "section": "",
+    "text": "M. F. Atiyah, I. M. Singer\n\n\nThis is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.\n\n\n\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)"
+  },
+  {
+    "objectID": "Papers/wan25.html",
+    "href": "Papers/wan25.html",
+    "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
+    "section": "",
+    "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)"
+  },
+  {
+    "objectID": "Papers/wan25.html#author",
+    "href": "Papers/wan25.html#author",
+    "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
+    "section": "",
+    "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)"
+  },
+  {
+    "objectID": "Papers/papers.html",
+    "href": "Papers/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+  },
+  {
+    "objectID": "Papers/gm20.html",
+    "href": "Papers/gm20.html",
+    "title": "Dai-Freed Anomalies in Particle Physics",
+    "section": "",
+    "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
+  },
+  {
+    "objectID": "Papers/gm20.html#author",
+    "href": "Papers/gm20.html#author",
+    "title": "Dai-Freed Anomalies in Particle Physics",
+    "section": "",
+    "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
   },
   {
     "objectID": "Contact/contact.html",
@@ -532,284 +546,284 @@
     "text": "Email\nIf you’re interested, feel free to reach out at yiyi.wan@etu.sorbonne-universite.fr."
   },
   {
-    "objectID": "Papers/gm20.html",
-    "href": "Papers/gm20.html",
-    "title": "Dai-Freed Anomalies in Particle Physics",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
     "section": "",
-    "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
+    "text": "Waiting to be filled…"
   },
   {
-    "objectID": "Papers/gm20.html#author",
-    "href": "Papers/gm20.html#author",
-    "title": "Dai-Freed Anomalies in Particle Physics",
+    "objectID": "Papers/fre21.html",
+    "href": "Papers/fre21.html",
+    "title": "The Atiyah-Singer Index Theorem",
     "section": "",
-    "text": "Iñaki García-Etxebarria, Miguel Montero\n\n\nAnomalies can be elegantly analyzed by means of the Dai–Freed theorem. In this framework it is natural to consider a refinement of traditional anomaly cancellation conditions, which sometimes leads to nontrivial extra constraints in the fermion spectrum. We analyze these more refined anomaly cancellation conditions in a variety of theories of physical interest, including the Standard Model and the \\(SU(5)\\) and \\(Spin(10)\\) GUTs, which we find to be anomaly free. Turning to discrete symmetries, we find that baryon triality has a \\(\\mathbb{Z}_9\\) anomaly that only cancels if the number of generations is a multiple of 3. Assuming the existence of certain anomaly-free \\(\\mathbb{Z}_4\\) symmetry we relate the fact that there are 16 fermions per generation of the Standard Model — including right-handed neutrinos — to anomalies under time-reversal of boundary states in four-dimensional topological superconductors. A similar relation exists for the MSSM, only this time involving the number of gauginos and Higgsinos, and it is non-trivially, and remarkably, satisfied for the \\(SU(3) \\times SU(2) \\times U(1)\\) gauge group with two Higgs doublets. We relate the constraints we find to the well-known Ibáñez–Ross ones, and discuss the dependence on UV data of the construction. Finally, we comment on the (non-)existence of K-theoretic \\(\\theta\\) angles in four dimensions.\n\n\n\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)"
+    "text": "Daniel S. Freed\n\n\nThe Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)"
   },
   {
-    "objectID": "Papers/papers.html",
-    "href": "Papers/papers.html",
-    "title": "Papers",
+    "objectID": "Papers/fre21.html#author",
+    "href": "Papers/fre21.html#author",
+    "title": "The Atiyah-Singer Index Theorem",
     "section": "",
-    "text": "Topological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)\nAnomaly of 4d Weyl Fermion with Discrete Charge (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+    "text": "Daniel S. Freed\n\n\nThe Atiyah-Singer index theorem, a landmark achievement of the early 1960s, brings together ideas in analysis, geometry, and topology. We recount some antecedents and motivations; various forms of the theorem; and some of its implications, which extend to the present.\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)"
   },
   {
-    "objectID": "Papers/wan25.html",
-    "href": "Papers/wan25.html",
-    "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
+    "objectID": "Papers/moo19.html",
+    "href": "Papers/moo19.html",
+    "title": "Introduction To Chern-Simons Theories",
     "section": "",
-    "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)"
+    "text": "Gregory W. Moore\n\n\nThese are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)\n\n\n\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
   },
   {
-    "objectID": "Papers/wan25.html#author",
-    "href": "Papers/wan25.html#author",
-    "title": "Anomaly of 4d Weyl Fermion with Discrete Charge",
+    "objectID": "Papers/moo19.html#author",
+    "href": "Papers/moo19.html#author",
+    "title": "Introduction To Chern-Simons Theories",
     "section": "",
-    "text": "Zheyan Wan\n\n\nWe derive the anomaly indices of 4d Weyl fermions with symmetry \\(\\mathrm{Spin} \\times \\mathbb{Z}_n\\) and \\(\\mathrm{Spin} \\times_{\\mathbb{Z}_2} \\mathbb{Z}_{2m}\\) by reducing the continuous \\(\\mathrm{Spin} \\times \\mathrm{U}(1)\\) and \\(\\mathrm{Spin}^c\\) anomaly indices on five-dimensional manifolds to discrete sectors subject to flux quantization. We calculate the values of the 5d invertible theories on the corresponding manifold generators. We express the values of the 5d invertible theories on general manifolds in terms of their values on the manifold generators.\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)"
+    "text": "Gregory W. Moore\n\n\nThese are lecture notes for a series of talks at the 2019 TASI school. They contain introductory material to the general subject of Chern-Simons theory. They are meant to be elementary and pedagogical. These notes are still in Preparation. Constructive comments are very welcome. (In particular, I have not been systematic about trying to include references. The literature is huge and I know my own work best. I will certainly be interested if people bring reference omissions to my attention.)\n\n\n\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
   },
   {
-    "objectID": "Papers/as68a.html",
-    "href": "Papers/as68a.html",
-    "title": "The Index of Elliptic Operators I",
+    "objectID": "Papers/as68b.html",
+    "href": "Papers/as68b.html",
+    "title": "The Index of Elliptic Operators II",
     "section": "",
-    "text": "M. F. Atiyah, I. M. Singer\n\n\nThis is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.\n\n\n\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)"
+    "text": "M. F. Atiyah, G. B. Segal\n\n\nThe purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.\nThe content of this paper is essentially topological, and it should be viewed as a paper on the equivariant \\(K\\)-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.\nAs in [5], we avoid cohomology and use only \\(K\\)-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.\nThe basic result in \\(K_G\\)-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.\n\n\n\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)"
   },
   {
-    "objectID": "Papers/as68a.html#author",
-    "href": "Papers/as68a.html#author",
-    "title": "The Index of Elliptic Operators I",
+    "objectID": "Papers/as68b.html#author",
+    "href": "Papers/as68b.html#author",
+    "title": "The Index of Elliptic Operators II",
     "section": "",
-    "text": "M. F. Atiyah, I. M. Singer\n\n\nThis is the first of a series of papers which will be devoted to a study of the index of elliptic operators on compact manifolds. The main result was announced in [6] and, for manifolds with boundary, in [5]. The long delay between these announcements and the present paper is due to several factors. On the one hand, a fairly detailed exposition has already appeared in [14]. On the other hand, our original proof, reproduced with minor modifications in [14], had a number of drawbacks. In the first place the use of cobordism, and the computational checking associated with this, were not very enlightening. More seriously, however, the method of proof did not lend itself to certain natural generalizations of the problem where appropriate cobordism groups were not known. The reader who is familiar with the Riemann–Roch theorem will realize that our original proof of the index theorem was modelled closely on Hirzebruch’s proof of the Riemann–Roch theorem. Naturally enough we were led to look for a proof modelled more on that of Grothendieck. While we have not completely succeeded in this aim, we have at least found a proof which is much more natural, does not use cobordism, and lends itself therefore to generalization. In spirit, at least, it has much in common with Grothendieck’s approach.\n\n\n\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)"
+    "text": "M. F. Atiyah, G. B. Segal\n\n\nThe purpose of this paper is to show how the index theorem of [5] can be reformulated as a general “Lefschetz fixed-point theorem” on the lines of [2]. In this way we shall obtain the main theorem of [2], generalized to deal with arbitrary fixed-point sets, but only for transformations belonging to a compact group.\nThe content of this paper is essentially topological, and it should be viewed as a paper on the equivariant \\(K\\)-theory of manifolds. The analysis has all been done in [5], and what we do here is simply to express the topological index in terms of fixed-point sets. This is quite independent of the main theorem of [5] asserting the equality of the topological and analytical indices.\nAs in [5], we avoid cohomology and use only \\(K\\)-theory. In paper III of this series, we shall pass over to cohomology obtaining explicit formulas in terms of characteristic classes.\nThe basic result in \\(K_G\\)-theory which leads to the fixed-point formula is what we call the Localization Theorem. We review this in 1. In 2, this is then applied to the topological index. Some cases of special interest are then discussed in 3.\n\n\n\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)"
   },
   {
-    "objectID": "Papers/yon16.html",
-    "href": "Papers/yon16.html",
-    "title": "Dai-Freed Theorem and Topological Phases of Matter",
+    "objectID": "Papers/aps75.html",
+    "href": "Papers/aps75.html",
+    "title": "Spectral Asymmetry and Riemannian Geometry I",
     "section": "",
-    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
+    "text": "M. F. Atiyah, V. K. Patodi and I. M. Singer\n\n\n/\n\n\n\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)"
   },
   {
-    "objectID": "Papers/yon16.html#author",
-    "href": "Papers/yon16.html#author",
-    "title": "Dai-Freed Theorem and Topological Phases of Matter",
+    "objectID": "Papers/aps75.html#author",
+    "href": "Papers/aps75.html#author",
+    "title": "Spectral Asymmetry and Riemannian Geometry I",
     "section": "",
-    "text": "Kazuya Yonekura\n\n\nWe describe a physics derivation of theorems due to Dai and Freed about the Atiyah–Patodi–Singer eta-invariant which is important for anomalies and topological phases of matter. This is done by studying a massive fermion. The key role is played by the wave function of the ground state in the Hilbert space of the fermion in the large mass limit. The ground state takes values in the determinant line bundle and has nontrivial Berry phases which characterize the low energy topological phases.\n\n\n\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
+    "text": "M. F. Atiyah, V. K. Patodi and I. M. Singer\n\n\n/\n\n\n\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)"
   },
   {
-    "objectID": "Papers/pw23.html",
-    "href": "Papers/pw23.html",
-    "title": "Categorical Symmetry of the Standard Model from Gravitational Anomaly",
+    "objectID": "Papers/wy20.html",
+    "href": "Papers/wy20.html",
+    "title": "Anomaly Inflow and the η-Invariant",
     "section": "",
-    "text": "Pavel Putrov, Juven Wang\n\n\nIn the Standard Model, some combination of the baryon \\(\\mathbf{B}\\) and lepton \\(\\mathbf{L}\\) number symmetry is free of mixed anomalies with strong and electroweak \\(su(3) \\times su(2) \\times u(1)_{\\tilde{Y}}\\) gauge forces. However, it can still suffer from a mixed gravitational anomaly, hypothetically pertinent to leptogenesis in the very early universe. This happens when the total “sterile right-handed” neutrino number \\(n_{\\nu_R}\\) is not equal to the family number \\(N_f\\). Thus the invertible \\(\\mathbf{B} - \\mathbf{L}\\) symmetry current conservation can be violated quantum mechanically by gravitational backgrounds such as gravitational instantons. In specific, we show that a noninvertible categorical \\(\\mathbf{B} - \\mathbf{L}\\) generalized symmetry still survives in gravitational backgrounds. In general, we propose a construction of noninvertible symmetry charge operators as topological defects derived from invertible anomalous symmetries that suffer from mixed gravitational anomalies. Examples include the perturbative local and nonperturbative global anomalies classified by \\(\\mathbb{Z}\\) and \\(\\mathbb{Z}_{16}\\) respectively. For this construction, we utilize the anomaly inflow bulk-boundary correspondence, the 4d Pontryagin class and the gravitational Chern-Simons 3-form, the 3d Witten–Reshetikhin–Turaev-type topological quantum field theory with a framing anomaly corresponding to a 2d rational conformal field theory with an appropriate rational chiral central charge, and the 4d \\(\\mathbb{Z}_4^{\\mathrm{TF}}\\)-time-reversal symmetric topological superconductor with 3d boundary topological order.\n\n\n\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+    "text": "Edward Witten, Kazuya Yonekura\n\n\nPerturbative fermion anomalies in spacetime dimension \\(d\\) have a well-known relation to Chern–Simons functions in dimension \\(D = d + 1\\). This relationship is manifested in a beautiful way in ``anomaly inflow’’ from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the \\(\\eta\\)-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the \\(\\eta\\)-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in \\(d\\) dimensions in terms of an \\(\\eta\\)-invariant in \\(D\\) dimensions. This \\(\\eta\\)-invariant is a cobordism invariant whenever perturbative anomalies cancel.\n\n\n\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
   },
   {
-    "objectID": "Papers/pw23.html#author",
-    "href": "Papers/pw23.html#author",
-    "title": "Categorical Symmetry of the Standard Model from Gravitational Anomaly",
+    "objectID": "Papers/wy20.html#author",
+    "href": "Papers/wy20.html#author",
+    "title": "Anomaly Inflow and the η-Invariant",
     "section": "",
-    "text": "Pavel Putrov, Juven Wang\n\n\nIn the Standard Model, some combination of the baryon \\(\\mathbf{B}\\) and lepton \\(\\mathbf{L}\\) number symmetry is free of mixed anomalies with strong and electroweak \\(su(3) \\times su(2) \\times u(1)_{\\tilde{Y}}\\) gauge forces. However, it can still suffer from a mixed gravitational anomaly, hypothetically pertinent to leptogenesis in the very early universe. This happens when the total “sterile right-handed” neutrino number \\(n_{\\nu_R}\\) is not equal to the family number \\(N_f\\). Thus the invertible \\(\\mathbf{B} - \\mathbf{L}\\) symmetry current conservation can be violated quantum mechanically by gravitational backgrounds such as gravitational instantons. In specific, we show that a noninvertible categorical \\(\\mathbf{B} - \\mathbf{L}\\) generalized symmetry still survives in gravitational backgrounds. In general, we propose a construction of noninvertible symmetry charge operators as topological defects derived from invertible anomalous symmetries that suffer from mixed gravitational anomalies. Examples include the perturbative local and nonperturbative global anomalies classified by \\(\\mathbb{Z}\\) and \\(\\mathbb{Z}_{16}\\) respectively. For this construction, we utilize the anomaly inflow bulk-boundary correspondence, the 4d Pontryagin class and the gravitational Chern-Simons 3-form, the 3d Witten–Reshetikhin–Turaev-type topological quantum field theory with a framing anomaly corresponding to a 2d rational conformal field theory with an appropriate rational chiral central charge, and the 4d \\(\\mathbb{Z}_4^{\\mathrm{TF}}\\)-time-reversal symmetric topological superconductor with 3d boundary topological order.\n\n\n\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+    "text": "Edward Witten, Kazuya Yonekura\n\n\nPerturbative fermion anomalies in spacetime dimension \\(d\\) have a well-known relation to Chern–Simons functions in dimension \\(D = d + 1\\). This relationship is manifested in a beautiful way in ``anomaly inflow’’ from the bulk of a system to its boundary. Along with perturbative anomalies, fermions also have global or nonperturbative anomalies, which can be incorporated by using the \\(\\eta\\)-invariant of Atiyah, Patodi, and Singer instead of the Chern–Simons function. Here we give a nonperturbative description of anomaly inflow, involving the \\(\\eta\\)-invariant. This formula has been expected in the past based on the Dai–Freed theorem, but has not been fully justified. It leads to a general description of perturbative and nonperturbative fermion anomalies in \\(d\\) dimensions in terms of an \\(\\eta\\)-invariant in \\(D\\) dimensions. This \\(\\eta\\)-invariant is a cobordism invariant whenever perturbative anomalies cancel.\n\n\n\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
   },
   {
-    "objectID": "Papers/hsi18.html",
-    "href": "Papers/hsi18.html",
-    "title": "Discrete Gauge Anomalies Revisited",
+    "objectID": "Papers/wang25.html",
+    "href": "Papers/wang25.html",
+    "title": "Topological Quantum Dark Matter via Global Anomaly Cancellation",
     "section": "",
-    "text": "Chang-Tse Hsieh\n\n\nWe revisit discrete gauge anomalies in chiral fermion theories in \\(3+1\\) dimensions. We focus on the case that the full symmetry group of fermions is \\(\\mathrm{Spin}(4) \\times \\mathbb{Z}_n\\) or \\((\\mathrm{Spin}(4) \\times \\mathbb{Z}_{2m})/\\mathbb{Z}_2\\) with \\(\\mathbb{Z}_2\\) being the diagonal \\(\\mathbb{Z}_2\\) subgroup. The anomalies are determined by the consistency condition — based on the Dai-Freed theorem — of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global \\(\\mathbb{Z}_n\\) symmetry, and present a model for constructing these states in the framework of weak coupling.\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+    "text": "Juven Wang\n\n\nStandard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino \\(\\nu_R\\)) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry. Including \\(\\nu_R\\) per family can cancel these anomalies, but when \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) that are enhanced from the fermion parity \\(\\mathbb{Z}_2^\\mathrm{F}\\) to \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\), with \\(N = 2, 3, 4, 6, 9\\), etc. The discreteness of \\(\\mathbf{B} \\pm \\mathbf{L}\\) is constrained by multi-fermion deformations beyond-the-SM and the family number \\(N_f\\). Unlike the free quadratic \\(\\nu_R\\) Majorana mass gap preserving the minimal \\(\\mathbb{Z}_2^\\mathrm{F}\\), we explore novel scenarios canceling \\((\\mathbf{B} \\pm \\mathbf{L})\\)-gravitational anomalies while preserving the \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at \\(N_f = 3\\), such that when the representation of \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) from the faithful \\(\\mathbf{B} + \\mathbf{L}\\) for baryons at \\(N = N_c = 3\\) is extended to the faithful \\(\\mathbf{Q} + N_c \\mathbf{L}\\) for quarks at \\(N = N_c N_f = 9\\), this symmetry extension \\(\\mathbb{Z}_{N_c=3} \\to \\mathbb{Z}_{N_c N_f=9} \\to \\mathbb{Z}_{N_f=3}\\) matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
   },
   {
-    "objectID": "Papers/hsi18.html#author",
-    "href": "Papers/hsi18.html#author",
-    "title": "Discrete Gauge Anomalies Revisited",
+    "objectID": "Papers/wang25.html#author",
+    "href": "Papers/wang25.html#author",
+    "title": "Topological Quantum Dark Matter via Global Anomaly Cancellation",
     "section": "",
-    "text": "Chang-Tse Hsieh\n\n\nWe revisit discrete gauge anomalies in chiral fermion theories in \\(3+1\\) dimensions. We focus on the case that the full symmetry group of fermions is \\(\\mathrm{Spin}(4) \\times \\mathbb{Z}_n\\) or \\((\\mathrm{Spin}(4) \\times \\mathbb{Z}_{2m})/\\mathbb{Z}_2\\) with \\(\\mathbb{Z}_2\\) being the diagonal \\(\\mathbb{Z}_2\\) subgroup. The anomalies are determined by the consistency condition — based on the Dai-Freed theorem — of formulating a chiral fermion theory on a generic spacetime manifold with a structure associated with either one of the above symmetry groups and are represented by elements of some finite abelian groups. Accordingly, we give a reformulation of the anomaly cancellation conditions, and compare them with the previous result by Ibáñez and Ross. The role of symmetry extensions in discrete symmetry anomalies is clarified in a formal fashion. We also study gapped states of fermion with an anomalous global \\(\\mathbb{Z}_n\\) symmetry, and present a model for constructing these states in the framework of weak coupling.\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+    "text": "Juven Wang\n\n\nStandard Model (SM) with 15 Weyl fermions per family (lacking the 16th, the sterile right-handed neutrino \\(\\nu_R\\)) suffers from mixed gauge-gravitational anomalies tied to baryon number plus or minus lepton number \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry. Including \\(\\nu_R\\) per family can cancel these anomalies, but when \\(\\mathbf{B} \\pm \\mathbf{L}\\) symmetry is preserved as discrete finite subgroups rather than a continuous U(1), the perturbative local anomalies become nonperturbative global anomalies. In this work, we systematically enumerate these gauge-gravitational global anomalies involving discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) that are enhanced from the fermion parity \\(\\mathbb{Z}_2^\\mathrm{F}\\) to \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\), with \\(N = 2, 3, 4, 6, 9\\), etc. The discreteness of \\(\\mathbf{B} \\pm \\mathbf{L}\\) is constrained by multi-fermion deformations beyond-the-SM and the family number \\(N_f\\). Unlike the free quadratic \\(\\nu_R\\) Majorana mass gap preserving the minimal \\(\\mathbb{Z}_2^\\mathrm{F}\\), we explore novel scenarios canceling \\((\\mathbf{B} \\pm \\mathbf{L})\\)-gravitational anomalies while preserving the \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) discrete symmetries, featuring 4-dimensional interacting gapped topological orders (potentially with or without low-energy topological quantum field theory descriptions) or gapless sectors (e.g., conformal field theories). We propose symmetric anomalous sectors as quantum dark matter to cancel SM’s global anomalies. We find the uniqueness of the family number at \\(N_f = 3\\), such that when the representation of \\(\\mathbb{Z}_{2N}^\\mathrm{F}\\) from the faithful \\(\\mathbf{B} + \\mathbf{L}\\) for baryons at \\(N = N_c = 3\\) is extended to the faithful \\(\\mathbf{Q} + N_c \\mathbf{L}\\) for quarks at \\(N = N_c N_f = 9\\), this symmetry extension \\(\\mathbb{Z}_{N_c=3} \\to \\mathbb{Z}_{N_c N_f=9} \\to \\mathbb{Z}_{N_f=3}\\) matches with the topological order dark matter construction. Key implications include: (1) a 5th force mediating between SM and dark matter via discrete \\(\\mathbf{B} \\pm \\mathbf{L}\\) gauge fields, (2) dark matter as topological order quantum matter with gapped anyon excitations at ends of extended defects, and (3) Ultra Unification and topological leptogenesis.\n\n\n\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)"
   },
   {
-    "objectID": "Projects/2025-08-14.html",
-    "href": "Projects/2025-08-14.html",
-    "title": "Aug 14, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-14\n\n\n\nWhiteboards 2025-08-14\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-08-14.html#speaker",
-    "href": "Projects/2025-08-14.html#speaker",
-    "title": "Aug 14, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-14\n\n\n\nWhiteboards 2025-08-14\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-08-04.html",
-    "href": "Projects/2025-08-04.html",
-    "title": "Aug 04, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
-  },
-  {
-    "objectID": "Projects/2025-08-04.html#speaker",
-    "href": "Projects/2025-08-04.html#speaker",
-    "title": "Aug 04, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nAnomaly Coefficients: Continuous vs Discrete Symmetry\n\n\n\nVideo 2025-08-04\n\n\n\nNotes 2025-08-04\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nSpectral Asymmetry and Riemannian Geometry I (M. F. Atiyah, V. K. Patodi and I. M. Singer)\nThe Index of Elliptic Operators I (M. F. Atiyah, I. M. Singer)\nThe Index of Elliptic Operators II (M. F. Atiyah, G. B. Segal)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)\nAnomaly Inflow and the η-Invariant (Edward Witten, Kazuya Yonekura)"
-  },
-  {
-    "objectID": "Projects/2025-08-11.html",
-    "href": "Projects/2025-08-11.html",
-    "title": "Aug 11, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)\nCubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)"
-  },
-  {
-    "objectID": "Projects/2025-08-11.html#speaker",
-    "href": "Projects/2025-08-11.html#speaker",
-    "title": "Aug 11, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-11\n\n\n\nAug 4, Anomaly Coefficient -0811 - August 11\n\n\n\n\nMod 3 Pontryagin Class and Indecomposability of Differentiable Manifolds (Yasuro Tomonaga)\nSome Properties of Pontryagin Classes mod 3 (Yasuro Tomonaga)\nCubic Forms, Anomaly Cancellation and Modularity (Fei Han, Ruizhi Huang, Kefeng Liu, and Weiping Zhang)"
-  },
-  {
-    "objectID": "Projects/2025-04-13.html",
-    "href": "Projects/2025-04-13.html",
-    "title": "Apr 13, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov Conditions\n\n\n\nVideo 2025-04-13\n\n\n\nReport April 13 2025 - Juven Wang\n\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and \\(3(E8)_1\\) Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
-  },
-  {
-    "objectID": "Projects/2025-04-13.html#speaker",
-    "href": "Projects/2025-04-13.html#speaker",
-    "title": "Apr 13, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nLeptogenesis and Sakharov Conditions\n\n\n\nVideo 2025-04-13\n\n\n\nReport April 13 2025 - Juven Wang\n\n\n\n\nC-R-T Fractionalization, Fermions, and Mod 8 Periodicity (Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)\nFamily Puzzle, Framing Topology, c_ = 24 and \\(3(E8)_1\\) Conformal Field Theories (Juven Wang)\nC-R-T Fractionalization in the First Quantized Hamiltonian Theory (Yang-Yang Li, Zheyan Wan, Juven Wang, Shing-Tung Yau, and Yi-Zhuang You)"
-  },
-  {
-    "objectID": "Projects/2025-08-06.html",
-    "href": "Projects/2025-08-06.html",
-    "title": "Aug 06, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-06\n\n\n\n/\n\n\n\n\nThe Kitaev Chain And Two-Dimensional Gravity (Edward Witten)"
-  },
-  {
-    "objectID": "Projects/2025-08-06.html#speaker",
-    "href": "Projects/2025-08-06.html#speaker",
-    "title": "Aug 06, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-06\n\n\n\n/\n\n\n\n\nThe Kitaev Chain And Two-Dimensional Gravity (Edward Witten)"
-  },
-  {
-    "objectID": "Projects/2025-10-04.html",
-    "href": "Projects/2025-10-04.html",
-    "title": "Oct 04, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-10-04\n\n\n\n/\n\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
-  },
-  {
-    "objectID": "Projects/2025-10-04.html#speaker",
-    "href": "Projects/2025-10-04.html#speaker",
-    "title": "Oct 04, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-10-04\n\n\n\n/\n\n\n\n\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)\nDai-Freed Anomalies in Particle Physics (Iñaki García-Etxebarria, Miguel Montero)\nDai-Freed Theorem and Topological Phases of Matter (Kazuya Yonekura)"
-  },
-  {
-    "objectID": "Projects/2025-09-17.html",
-    "href": "Projects/2025-09-17.html",
-    "title": "Sep 17, 2025",
-    "section": "",
-    "text": "Xianfeng Jiang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-17\n\n\n\nWhiteboards 2025-09-17\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-09-17.html#speaker",
-    "href": "Projects/2025-09-17.html#speaker",
-    "title": "Sep 17, 2025",
-    "section": "",
-    "text": "Xianfeng Jiang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-17\n\n\n\nWhiteboards 2025-09-17\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-10-25.html",
-    "href": "Projects/2025-10-25.html",
-    "title": "Oct 25, 2025",
-    "section": "",
-    "text": "Ran Luo\n\n\nFree Discussion\n\n\n\nVideo 2025-10-25\n\n\n\n/\n\n\n\n\nBrief Introduction to SymTFT (Ran Luo)"
-  },
-  {
-    "objectID": "Projects/2025-10-25.html#speaker",
-    "href": "Projects/2025-10-25.html#speaker",
-    "title": "Oct 25, 2025",
-    "section": "",
-    "text": "Ran Luo\n\n\nFree Discussion\n\n\n\nVideo 2025-10-25\n\n\n\n/\n\n\n\n\nBrief Introduction to SymTFT (Ran Luo)"
-  },
-  {
-    "objectID": "Projects/2025-04-22.html",
-    "href": "Projects/2025-04-22.html",
-    "title": "Apr 22, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nAtiyah-Singer Index Theorem\n\n\n\nVideo 2025-04-22\n\n\n\n/\n\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nwk6_modular_invariance"
-  },
-  {
-    "objectID": "Projects/2025-04-22.html#speaker",
-    "href": "Projects/2025-04-22.html#speaker",
-    "title": "Apr 22, 2025",
-    "section": "",
-    "text": "Juven Wang\n\n\nAtiyah-Singer Index Theorem\n\n\n\nVideo 2025-04-22\n\n\n\n/\n\n\n\n\nThe Atiyah-Singer Index Theorem (Daniel S. Freed)\nwk6_modular_invariance"
-  },
-  {
-    "objectID": "Projects/2025-08-09.html",
-    "href": "Projects/2025-08-09.html",
-    "title": "Aug 09, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-09\n\n\n\nNotes 2025-08-10\n\n\n\n/"
-  },
-  {
-    "objectID": "Projects/2025-08-09.html#speaker",
-    "href": "Projects/2025-08-09.html#speaker",
-    "title": "Aug 09, 2025",
-    "section": "",
-    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-09\n\n\n\nNotes 2025-08-10\n\n\n\n/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Math-Physics Paris",
-    "section": "",
-    "text": "The Math-Physics Paris discussion group focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across HEP, CMT and mathematical physics. It is inspried by and aligned with the theme of the 2024 IHES Summer School."
-  },
-  {
-    "objectID": "index.html#organization",
-    "href": "index.html#organization",
-    "title": "Math-Physics Paris",
-    "section": "Organization",
-    "text": "Organization\nWe have two types of meetings:\n\nirregular project meetings,\nregular seminar meetings.\n\n\nProject Meetings\nThese are scheduled irregularly, depending on the availability of the professors and students involved in the project.\n\n\nSeminar Meetings\nThe purpose is to provide a shared reading space for students working on projects and to invite researchers from related fields to broaden perspectives. These two types of meetings will therefore alternate.\n\nTime\n14:00 CET/08:00 ET/21:00 CST on Saturdays\n(The time may be adjusted to accommodate speakers’ availability.)\n\n\nVenue:\n\nENS Math Department — Salle R3\nIMJ-PRG Jussieu — 15-16-413\n\n(The exact room may vary by week and will be announced via email.)\n\n\nZoom Link\nDistributed via email."
-  },
-  {
-    "objectID": "Seminars/2025-08-16.html",
-    "href": "Seminars/2025-08-16.html",
+    "objectID": "Projects/2025-08-16.html",
+    "href": "Projects/2025-08-16.html",
     "title": "Aug 16, 2025",
     "section": "",
-    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-08-16.html#speaker",
-    "href": "Seminars/2025-08-16.html#speaker",
+    "objectID": "Projects/2025-08-16.html#speaker",
+    "href": "Projects/2025-08-16.html#speaker",
     "title": "Aug 16, 2025",
     "section": "",
-    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-03-22.html",
-    "href": "Seminars/2025-03-22.html",
-    "title": "Mar 22, 2025",
+    "objectID": "Projects/2025-08-10.html",
+    "href": "Projects/2025-08-10.html",
+    "title": "Aug 10, 2025",
     "section": "",
-    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-10\n\n\n\nNotes 2025-08-10\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-03-22.html#speaker-1",
-    "href": "Seminars/2025-03-22.html#speaker-1",
-    "title": "Mar 22, 2025",
+    "objectID": "Projects/2025-08-10.html#speaker",
+    "href": "Projects/2025-08-10.html#speaker",
+    "title": "Aug 10, 2025",
     "section": "",
-    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-10\n\n\n\nNotes 2025-08-10\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-03-22.html#speaker-2",
-    "href": "Seminars/2025-03-22.html#speaker-2",
-    "title": "Mar 22, 2025",
-    "section": "Speaker 2",
-    "text": "Speaker 2\nYiyi Wan\n\nTheme\nYang-Mills Theory\n\n\nAbstract\nWe began with the foundational definitions of principal bundles and explored the associated notions of connection and curvature. Building on this framework, we introduced the Yang–Mills action within the context of gauge theory and discussed its physical and mathematical significance.\n\n\nVideo\nVideo(2) 2025-03-22\n\n\nNotes\nNotes(2) 2025-03-22\n\n\nResources\n\nPrincipal Bundles: the Classical Case (Stephen Bruce Sontz)"
+    "objectID": "Projects/2025-08-05.html",
+    "href": "Projects/2025-08-05.html",
+    "title": "Aug 05, 2025",
+    "section": "",
+    "text": "Zheyan Wan\n\n\nDiscrete Gauge Anomalies Revisited\n\n\n\nVideo 2025-08-05\n\n\n\nNotes 2025-08-05\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+  },
+  {
+    "objectID": "Projects/2025-08-05.html#speaker",
+    "href": "Projects/2025-08-05.html#speaker",
+    "title": "Aug 05, 2025",
+    "section": "",
+    "text": "Zheyan Wan\n\n\nDiscrete Gauge Anomalies Revisited\n\n\n\nVideo 2025-08-05\n\n\n\nNotes 2025-08-05\n\n\n\n\nAnomaly of 4d Weyl Fermion with Discrete Symmetries (Zheyan Wan)\nDiscrete Gauge Anomalies Revisited (Chang-Tse Hsieh)"
+  },
+  {
+    "objectID": "Projects/2025-08-07.html",
+    "href": "Projects/2025-08-07.html",
+    "title": "Aug 07, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-07\n\n\n\n/\n\n\n\n\nMathematica Code"
+  },
+  {
+    "objectID": "Projects/2025-08-07.html#speaker",
+    "href": "Projects/2025-08-07.html#speaker",
+    "title": "Aug 07, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-08-07\n\n\n\n/\n\n\n\n\nMathematica Code"
+  },
+  {
+    "objectID": "Projects/2025-04-06.html",
+    "href": "Projects/2025-04-06.html",
+    "title": "Apr 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n/\n\n\n\n/\n\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "Projects/2025-04-06.html#speaker",
+    "href": "Projects/2025-04-06.html#speaker",
+    "title": "Apr 06, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nLeptogenesis\n\n\n\n/\n\n\n\n/\n\n\n\n\nTASI Lectures on Non-Invertible Symmetries (Shuheng Shao)\nCategorical Symmetry of the Standard Model from Gravitational Anomaly (Pavel Putrov, Juven Wang)"
+  },
+  {
+    "objectID": "Projects/projects.html",
+    "href": "Projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Mar 16, 2025: Meet & Greet Session\nApr 06, 2025: Leptogenesis\nApr 13, 2025: Leptogenesis and Sakharov Conditions\nApr 22, 2025: Atiyah-Singer Index Theorem\n\nAug 04, 2025: Anomaly Coefficients: Continuous vs Discrete Symmetry\nAug 05, 2025: Discrete Gauge Anomalies Revisited\nAug 06, 2025: Free Discussion\nAug 07, 2025: Free Discussion\nAug 09, 2025: Free Discussion\nAug 10, 2025: Free Discussion\nAug 11, 2025: Free Discussion\nAug 14, 2025: Free Discussion\nAug 16, 2025: Free Discussion\nAug 30, 2025: Free Discussion\nSep 13, 2025: Free Discussion\nSep 14, 2025: Free Discussion\nSep 17, 2025: Free Discussion\nOct 04, 2025: Free Discussion\nOct 25, 2025: Free Discussion\nNov 01, 2025: Free Discussion"
+  },
+  {
+    "objectID": "Projects/2025-09-14.html",
+    "href": "Projects/2025-09-14.html",
+    "title": "Sep 14, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-14\n\n\n\n笔记 2025年9月14日\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-09-14.html#speaker",
+    "href": "Projects/2025-09-14.html#speaker",
+    "title": "Sep 14, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nFree Discussion\n\n\n\nVideo 2025-09-14\n\n\n\n笔记 2025年9月14日\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-09-13.html",
+    "href": "Projects/2025-09-13.html",
+    "title": "Sep 13, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\nFree Discussion\n\n\n\nVideo 2025-09-13\n\n\n\n数学物理讨论班讲义 (滕一鸣)\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-09-13.html#speaker",
+    "href": "Projects/2025-09-13.html#speaker",
+    "title": "Sep 13, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\nFree Discussion\n\n\n\nVideo 2025-09-13\n\n\n\n数学物理讨论班讲义 (滕一鸣)\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-03-16.html",
+    "href": "Projects/2025-03-16.html",
+    "title": "Mar 16, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\n\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+  },
+  {
+    "objectID": "Projects/2025-03-16.html#speaker",
+    "href": "Projects/2025-03-16.html#speaker",
+    "title": "Mar 16, 2025",
+    "section": "",
+    "text": "Juven Wang\n\n\nMeet & Greet Session\n\n\n\n/\n\n\n\n/\n\n\n\n\nTopological Quantum Dark Matter via Standard Model’s Global Gravitational Anomaly Cancellation (Juven Wang)\nTopological Quantum Dark Matter via Global Anomaly Cancellation (Juven Wang)\nTopological Leptogenesis from Ultra Unification (Juven Wang)\nUltra Unification (2020) Fundamental Physics and Topological Matter (Juven Wang)\nCondensed Matter Field Theory (Alexander Altland, Ben Simons)\nEquations of Gauge Theory (Karen Uhlenbeck)\nIntroduction To Chern-Simons Theories (Gregory W. Moore)"
+  },
+  {
+    "objectID": "Projects/2025-11-01.html",
+    "href": "Projects/2025-11-01.html",
+    "title": "Oct 25, 2025",
+    "section": "",
+    "text": "Chen Wei\n\n\nFree Discussion\n\n\n\nVideo 2025-11-01\n\n\n\n/\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-11-01.html#speaker",
+    "href": "Projects/2025-11-01.html#speaker",
+    "title": "Oct 25, 2025",
+    "section": "",
+    "text": "Chen Wei\n\n\nFree Discussion\n\n\n\nVideo 2025-11-01\n\n\n\n/\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-08-30.html",
+    "href": "Projects/2025-08-30.html",
+    "title": "Aug 30, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-30\n\n\n\nNotes 2025-08-30\n\n\n\n/"
+  },
+  {
+    "objectID": "Projects/2025-08-30.html#speaker",
+    "href": "Projects/2025-08-30.html#speaker",
+    "title": "Aug 30, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nFree Discussion\n\n\n\nVideo 2025-08-30\n\n\n\nNotes 2025-08-30\n\n\n\n/"
+  },
+  {
+    "objectID": "Seminars/2025-08-02.html",
+    "href": "Seminars/2025-08-02.html",
+    "title": "Aug 02, 2025",
+    "section": "",
+    "text": "Chen Wei\n\n\nDifferential Operators on Manifolds\n\n\n\nThis lecture, based on Chapter 1 of Christian Bär’s Spin Geometry, provides a rigorous treatment of differential operators on manifolds and their analytical framework. Beginning with fundamental concepts—including order classification, principal symbols, and formal adjoints—it illustrates the theory through geometric examples like gradient, divergence, and Laplace operators. The course then develops Sobolev space theory, covering norms, embedding theorems, compactness results, and weak solution regularity, forming the analytical foundation for Hodge theory and spectral analysis of elliptic operators.\n\n\n\nVideo 2025-08-02\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+  },
+  {
+    "objectID": "Seminars/2025-08-02.html#speaker",
+    "href": "Seminars/2025-08-02.html#speaker",
+    "title": "Aug 02, 2025",
+    "section": "",
+    "text": "Chen Wei\n\n\nDifferential Operators on Manifolds\n\n\n\nThis lecture, based on Chapter 1 of Christian Bär’s Spin Geometry, provides a rigorous treatment of differential operators on manifolds and their analytical framework. Beginning with fundamental concepts—including order classification, principal symbols, and formal adjoints—it illustrates the theory through geometric examples like gradient, divergence, and Laplace operators. The course then develops Sobolev space theory, covering norms, embedding theorems, compactness results, and weak solution regularity, forming the analytical foundation for Hodge theory and spectral analysis of elliptic operators.\n\n\n\nVideo 2025-08-02\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+  },
+  {
+    "objectID": "Seminars/2025-06-07.html",
+    "href": "Seminars/2025-06-07.html",
+    "title": "Jun 07, 2025",
+    "section": "",
+    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
+  },
+  {
+    "objectID": "Seminars/2025-06-07.html#speaker",
+    "href": "Seminars/2025-06-07.html#speaker",
+    "title": "Jun 07, 2025",
+    "section": "",
+    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
+  },
+  {
+    "objectID": "Seminars/2025-11-08.html",
+    "href": "Seminars/2025-11-08.html",
+    "title": "Nov 08, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nHeat Kernel Proof of the Atiyah–Singer Index Theorem\n\n\n\nIn this lecture, we bring together several key concepts developed in the previous sessions, including super traces, characteristic classes, and heat kernels. We apply a rescaling argument to the Dirac operator, and extract the relevant coefficients of its heat kernel in the limit. Substituting these into the index formula, we arrive at the heat kernel proof of the Atiyah–Singer Index Theorem.\n\n\n\n\nVideo 2025-11-08\n\n\n\n\n\nNotes 2025-11-08\n\n\n\n\n\nSpin Geometry (Christian Bär)"
+  },
+  {
+    "objectID": "Seminars/2025-11-08.html#speaker",
+    "href": "Seminars/2025-11-08.html#speaker",
+    "title": "Nov 08, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nHeat Kernel Proof of the Atiyah–Singer Index Theorem\n\n\n\nIn this lecture, we bring together several key concepts developed in the previous sessions, including super traces, characteristic classes, and heat kernels. We apply a rescaling argument to the Dirac operator, and extract the relevant coefficients of its heat kernel in the limit. Substituting these into the index formula, we arrive at the heat kernel proof of the Atiyah–Singer Index Theorem.\n\n\n\n\nVideo 2025-11-08\n\n\n\n\n\nNotes 2025-11-08\n\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
     "objectID": "Seminars/2025-06-15.html",
@@ -886,7 +900,7 @@
     "href": "Seminars/seminars.html",
     "title": "Seminars",
     "section": "",
-    "text": "Mar 15, 2025: TQFT (1) — Axiomatic Construction of TQFT\n\nMar 22, 2025: TQFT (2) — Basic Concepts of Higher-form Symmetries & Yang-Mills Theory\n\nMar 29, 2025: TQFT (3) — Chiral Anomaly\nApr 05, 2025: TQFT (4) — ’t Hooft Anomaly\n\nApr 12, 2025: TQFT (5) — Homology Theory & Replica Method\n\nApr 19, 2025: TQFT (6) — Chern-Weil Theorem & Characteristic Classes\nMay 06, 2025: TQFT (7) — Wess-Zumino Condition\n\nMay 10, 2025: TQFT (8) — Topological K-theory\n\nMay 17, 2025: TQFT (9) — SPT Construction\n\nMay 24, 2025: TQFT (10) — Instanton\n\nJun 07, 2025: TQFT (11) — Brief Introduction to SymTFT\nJun 15, 2025: TQFT (12) — Non-invertible Symmetries in 4d\n\nJul 12, 2025: Geometric Quantization (1) — WKB Method and Symplectic Geometry\n\nJul 20, 2025: Geometric Quantization (2) — Quantizable Condition and Maslov Technique\nJul 26, 2025: Geometric Quantization (3) — A Complete Geometric Characterization of Quantizability\nAug 02, 2025: Spin Geometry (1) — Differential Operators on Manifolds\nAug 09, 2025: Introduction to 2d Conformal Field Theory\nAug 16, 2025: Spin Geometry (2) — The Analysis of Dirac-type Operators\nAug 23, 2025: Construction of Liouville Conformal Field Theory\nSep 01, 2025: Spin Geometry (3) — Introduction to Clifford Algebra\nSep 06, 2025: Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\nSep 13, 2025: Spin Geometry (4) — Spin Groups and Spinors\nSep 20, 2025: Higher Gauge Theory and Group Cohomology\nSep 27, 2025: Spin Geometry (5) — Spin Structure\nOct 11, 2025: Spin Geometry (6) — Heat Equation and Heat Kernel\nOct 18, 2025: All’s Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects\nOct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries\nNov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere\nNov 08, 2025: Spin Geometry (7) — Heat Kernel Proof of the Atiyah–Singer Index Theorem\nNov 15, 2025: Non-invertible Symmetries and SPT on Lattice\nNov 29, 2025: Quantum Groups as Global Symmetries (1)\nDec 06, 2025: Cluster Algebras and Scattering Diagrams (1)\nDec 13, 2025: Quantum Groups as Global Symmetries (2)\nDec 20, 2025: Quantum Groups as Global Symmetries (3)\nJan 03, 2026: Renormalized Volume and Weil-Petersson Teichmüller Theory"
+    "text": "Mar 15, 2025: TQFT (1) — Axiomatic Construction of TQFT\n\nMar 22, 2025: TQFT (2) — Basic Concepts of Higher-form Symmetries & Yang-Mills Theory\n\nMar 29, 2025: TQFT (3) — Chiral Anomaly\nApr 05, 2025: TQFT (4) — ’t Hooft Anomaly\n\nApr 12, 2025: TQFT (5) — Homology Theory & Replica Method\n\nApr 19, 2025: TQFT (6) — Chern-Weil Theorem & Characteristic Classes\nMay 06, 2025: TQFT (7) — Wess-Zumino Condition\n\nMay 10, 2025: TQFT (8) — Topological K-theory\n\nMay 17, 2025: TQFT (9) — SPT Construction\n\nMay 24, 2025: TQFT (10) — Instanton\n\nJun 07, 2025: TQFT (11) — Brief Introduction to SymTFT\nJun 15, 2025: TQFT (12) — Non-invertible Symmetries in 4d\n\nJul 12, 2025: Geometric Quantization (1) — WKB Method and Symplectic Geometry\n\nJul 20, 2025: Geometric Quantization (2) — Quantizable Condition and Maslov Technique\nJul 26, 2025: Geometric Quantization (3) — A Complete Geometric Characterization of Quantizability\nAug 02, 2025: Spin Geometry (1) — Differential Operators on Manifolds\nAug 09, 2025: Introduction to 2d Conformal Field Theory\nAug 16, 2025: Spin Geometry (2) — The Analysis of Dirac-type Operators\nAug 23, 2025: Construction of Liouville Conformal Field Theory\nSep 01, 2025: Spin Geometry (3) — Introduction to Clifford Algebra\nSep 06, 2025: Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\nSep 13, 2025: Spin Geometry (4) — Spin Groups and Spinors\nSep 20, 2025: Higher Gauge Theory and Group Cohomology\nSep 27, 2025: Spin Geometry (5) — Spin Structure\nOct 11, 2025: Spin Geometry (6) — Heat Equation and Heat Kernel\nOct 18, 2025: All’s Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects\nOct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries\nNov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere\nNov 08, 2025: Spin Geometry (7) — Heat Kernel Proof of the Atiyah–Singer Index Theorem\nNov 15, 2025: Non-invertible Symmetries and SPT on Lattice\nNov 29, 2025: Quantum Groups as Global Symmetries (1)\nDec 06, 2025: Cluster Algebras and Scattering Diagrams (1)\nDec 13, 2025: Quantum Groups as Global Symmetries (2)\nDec 20, 2025: Quantum Groups as Global Symmetries (3)\nJan 03, 2026: Renormalized Volume and Weil-Petersson Teichmüller Theory\nJan 10, 2026: On Boundary Conditions and Phases of Quantum Field Theories"
   },
   {
     "objectID": "Seminars/2025-07-20.html",
