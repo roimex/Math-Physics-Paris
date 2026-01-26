@@ -1,0 +1,21 @@
+---
+title: "Jan 11, 2026"
+---
+
+## Speaker
+Yutai Zhang
+
+### Theme
+An Introduction to Topological String Theory (2): Topological Sigma Model and Topological String
+
+### Abstract
+In this talk, I will explain some basic concepts of $2d$ topological sigma model and topological string theory, focusing on the case where the target space is a compact Calabi–Yau manifold. In this setting, the topological sigma model can be constructed via topological twist of the $2d$ $N=(2,2)$ nonlinear sigma model. The Hilbert space of the theory is known, and the computation of correlation functions can be reduced to geometric quantities of the target space. I will then explain how to couple the sigma model to topological gravity to formulate topological string theory, what quantities we compute in the theory, and their relation to the prepotential of $4d$ $N=2$ supergravity in type II compactifications.
+
+### Video  
+- [Video 2026-01-11](https://drive.google.com/file/d/18ytttZtjfmwCUu1mPOhpIaxRDuiiLsta/view?usp=sharing)
+
+### Notes  
+- [Notes 2026-01-11](https://drive.google.com/file/d/1KFJkBqCIUv9oBkTG-Z1aW3oIz9po_84j/view?usp=sharing)
+
+### Resources  
+/

@@ -1,0 +1,21 @@
+---
+title: "Dec 27, 2025"
+---
+
+## Speaker
+Chen Wei
+
+### Theme
+An Introduction to Topological String Theory (1)
+
+### Abstract
+We discuss Marcos Mariño's notes from the introduction up to Section 3.2, covering Calabi–Yau manifolds and the A-model, without yet discussing the physical motivations.
+
+### Video  
+- [Video 2025-12-20](https://drive.google.com/file/d/1ecB-GNsMV0Z1bPE_gGSaqMkYwy70V4Wx/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+- [An Introduction to Topological String Theory (Marcos Marĩno)](https://drive.google.com/file/d/16stMcJ4IEygW52GwFUps0KR1RrchHNew/view?usp=sharing)

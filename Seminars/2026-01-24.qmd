@@ -1,0 +1,21 @@
+---
+title: "Jan 24, 2026"
+---
+
+## Speaker
+Zhongkai Tao
+
+### Theme
+Some Spectral Theory Problems in Condensed Matter Physics
+
+### Abstract
+In this talk, I will discuss some fundamental spectral theory problems arising from recent studies in condensed matter physics. The main topics include the spectral structure of periodic operators on \mathbb{R}^n, as well as the study of magic angles and flat bands in models of twisted bilayer graphene, which provide a particularly interesting class of periodic operators.
+
+### Video  
+- [Video 2026-01-24](https://drive.google.com/file/d/1yvENrK_OjnDDo3fkubMW7OQBKw7hbHKx/view?usp=sharing)
+
+### Notes  
+- [Notes 2026-01-24]()
+
+### Resources
+/
