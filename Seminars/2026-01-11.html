@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Aug 16, 2025 – Math-Physics Paris</title>
+<title>Jan 11, 2026 – Math-Physics Paris</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -155,6 +184,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#speaker" id="toc-speaker" class="nav-link active" data-scroll-target="#speaker">Speaker</a>
   <ul class="collapse">
   <li><a href="#theme" id="toc-theme" class="nav-link" data-scroll-target="#theme">Theme</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
   <li><a href="#video" id="toc-video" class="nav-link" data-scroll-target="#video">Video</a></li>
   <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
@@ -167,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Aug 16, 2025</h1>
+<h1 class="title">Jan 11, 2026</h1>
 </div>
 
 
@@ -186,18 +216,26 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="speaker" class="level2">
 <h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>Yiyi Wan</p>
+<p>Yutai Zhang</p>
 <section id="theme" class="level3">
 <h3 class="anchored" data-anchor-id="theme">Theme</h3>
-<p>Free Discussion</p>
+<p>An Introduction to Topological String Theory (2): Topological Sigma Model and Topological String</p>
+</section>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>In this talk, I will explain some basic concepts of <span class="math inline">\(2d\)</span> topological sigma model and topological string theory, focusing on the case where the target space is a compact Calabi–Yau manifold. In this setting, the topological sigma model can be constructed via topological twist of the <span class="math inline">\(2d\)</span> <span class="math inline">\(N=(2,2)\)</span> nonlinear sigma model. The Hilbert space of the theory is known, and the computation of correlation functions can be reduced to geometric quantities of the target space. I will then explain how to couple the sigma model to topological gravity to formulate topological string theory, what quantities we compute in the theory, and their relation to the prepotential of <span class="math inline">\(4d\)</span> <span class="math inline">\(N=2\)</span> supergravity in type II compactifications.</p>
 </section>
 <section id="video" class="level3">
 <h3 class="anchored" data-anchor-id="video">Video</h3>
-<p><a href="https://drive.google.com/file/d/1KHlxr5qpbwdZSM04D-GQE7fcRciP_P__/view?usp=sharing">Video 2025-08-16</a></p>
+<ul>
+<li><a href="https://drive.google.com/file/d/18ytttZtjfmwCUu1mPOhpIaxRDuiiLsta/view?usp=sharing">Video 2026-01-11</a></li>
+</ul>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
-<p><a href="https://drive.google.com/file/d/1EFua-s0XxxfsMRGX6ewFZqp7immhfag1/view?usp=sharing">Notes 2025-08-16</a></p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1KFJkBqCIUv9oBkTG-Z1aW3oIz9po_84j/view?usp=sharing">Notes 2026-01-11</a></li>
+</ul>
 </section>
 <section id="resources" class="level3">
 <h3 class="anchored" data-anchor-id="resources">Resources</h3>

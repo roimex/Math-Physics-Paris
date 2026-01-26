@@ -168,32 +168,46 @@
     "text": "Speaker 2\nKaichen Yin\n\nTheme\nReplica method\n\n\nAbstract\n/\n\n\nVideo\nVideo 2025-04-12\n\n\nNotes\n/\n\n\nResources\n\nIntroduction to Black Hole Thermodynamics (Edward Witten)\nSpin Glass Theory and Beyond (Marc Megard, Giorgio Parisi etc.)\nReplica Wormholes and the Black Hole Interior (Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang)"
   },
   {
-    "objectID": "Seminars/2025-08-16.html",
-    "href": "Seminars/2025-08-16.html",
-    "title": "Aug 16, 2025",
+    "objectID": "Seminars/2026-01-24.html",
+    "href": "Seminars/2026-01-24.html",
+    "title": "Jan 24, 2026",
     "section": "",
-    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Zhongkai Tao\n\n\nSome Spectral Theory Problems in Condensed Matter Physics\n\n\n\nIn this talk, I will discuss some fundamental spectral theory problems arising from recent studies in condensed matter physics. The main topics include the spectral structure of periodic operators on ^n, as well as the study of magic angles and flat bands in models of twisted bilayer graphene, which provide a particularly interesting class of periodic operators.\n\n\n\n\nVideo 2026-01-24\n\n\n\n\n\nNotes 2026-01-24\n\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-08-16.html#speaker",
-    "href": "Seminars/2025-08-16.html#speaker",
-    "title": "Aug 16, 2025",
+    "objectID": "Seminars/2026-01-24.html#speaker",
+    "href": "Seminars/2026-01-24.html#speaker",
+    "title": "Jan 24, 2026",
     "section": "",
-    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Zhongkai Tao\n\n\nSome Spectral Theory Problems in Condensed Matter Physics\n\n\n\nIn this talk, I will discuss some fundamental spectral theory problems arising from recent studies in condensed matter physics. The main topics include the spectral structure of periodic operators on ^n, as well as the study of magic angles and flat bands in models of twisted bilayer graphene, which provide a particularly interesting class of periodic operators.\n\n\n\n\nVideo 2026-01-24\n\n\n\n\n\nNotes 2026-01-24\n\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-11-01.html",
-    "href": "Seminars/2025-11-01.html",
-    "title": "Nov 01, 2025",
+    "objectID": "Seminars/2025-07-26.html",
+    "href": "Seminars/2025-07-26.html",
+    "title": "Jul 26, 2025",
     "section": "",
-    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\nVideo 2025-11-01\n\n\n\n\n\nSlides 2025-11-01\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
+    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
   },
   {
-    "objectID": "Seminars/2025-11-01.html#speaker",
-    "href": "Seminars/2025-11-01.html#speaker",
-    "title": "Nov 01, 2025",
+    "objectID": "Seminars/2025-07-26.html#speaker",
+    "href": "Seminars/2025-07-26.html#speaker",
+    "title": "Jul 26, 2025",
     "section": "",
-    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\nVideo 2025-11-01\n\n\n\n\n\nSlides 2025-11-01\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
+    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+  },
+  {
+    "objectID": "Seminars/2025-03-29.html",
+    "href": "Seminars/2025-03-29.html",
+    "title": "Mar 29, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\nWe began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
+  },
+  {
+    "objectID": "Seminars/2025-03-29.html#speaker",
+    "href": "Seminars/2025-03-29.html#speaker",
+    "title": "Mar 29, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\nWe began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
   },
   {
     "objectID": "Seminars/2025-05-24.html",
@@ -266,53 +280,60 @@
     "text": "Ran Luo\n\n\nSPT Construction\n\n\n\nWe began by introducing the Lieb-Robinson bound, which provides estimates on the correlations between local operators in lattice systems, thereby motivating the notion of a causal light cone on the lattice. We then defined quasi-local unitary operators and discussed their implementation complexity in terms of quantum circuits. Building on these concepts, we explored the definition of symmetry-protected topological (SPT) phases, characterized by whether each quantum gate respects the underlying symmetry. Finally, we examined the cluster chain model as a concrete example of an SPT phase, analyzed its decorated domain-wall structure, and connected it to projective representations, thereby establishing a classification scheme for bosonic SPT phases.\n\n\n\nVideo 2025-05-17\n\n\n\nNotes 2025-05-17\n\n\n\n\nLocal Unitary Transformation, Long-range Quantum Entanglement, Wave Function Renormalization, and Topological Order (Xie Chen, Zheng-Cheng Gu, and Xiao-Gang Wen)\nLocality in Quantum Systems (Matthew B. Hastings)\nQuantum Algorithm for Simulating Real Time Evolution of Lattice Hamiltonians (Jeongwan Haah, Matthew B. Hastings, Robin Kothari, Guang Hao Low)\nQuantum Phases of Matter (John McGreevy)"
   },
   {
-    "objectID": "Seminars/2025-04-19.html",
-    "href": "Seminars/2025-04-19.html",
-    "title": "Apr 19, 2025",
+    "objectID": "Seminars/2025-09-06.html",
+    "href": "Seminars/2025-09-06.html",
+    "title": "Sep 06, 2025",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nChern-Weil Theorem\n\n\n\nWe began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural \\(\\mathbb{Z}_2\\)-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the \\(\\mathbb{Z}_2\\)-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n/"
+    "text": "Junchen Rong\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\n\n\n\nIrrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling \\(N\\geq2\\) golden anyon chains together, preserving \\(N\\) copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. As a byproduct of our analysis, we provide an extensive list of rational CFTs with \\(1&lt;c&lt;2.1\\).\n\n\n\nVideo 2025-09-06\n\n\n\nNon-rational CFT from Coupled Anyon Chains\n\n\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?"
   },
   {
-    "objectID": "Seminars/2025-04-19.html#speaker-1",
-    "href": "Seminars/2025-04-19.html#speaker-1",
-    "title": "Apr 19, 2025",
+    "objectID": "Seminars/2025-09-06.html#speaker",
+    "href": "Seminars/2025-09-06.html#speaker",
+    "title": "Sep 06, 2025",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nChern-Weil Theorem\n\n\n\nWe began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural \\(\\mathbb{Z}_2\\)-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the \\(\\mathbb{Z}_2\\)-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n/"
+    "text": "Junchen Rong\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\n\n\n\nIrrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling \\(N\\geq2\\) golden anyon chains together, preserving \\(N\\) copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. As a byproduct of our analysis, we provide an extensive list of rational CFTs with \\(1&lt;c&lt;2.1\\).\n\n\n\nVideo 2025-09-06\n\n\n\nNon-rational CFT from Coupled Anyon Chains\n\n\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?"
   },
   {
-    "objectID": "Seminars/2025-04-19.html#speaker-2",
-    "href": "Seminars/2025-04-19.html#speaker-2",
-    "title": "Apr 19, 2025",
-    "section": "Speaker 2",
-    "text": "Speaker 2\nYiyi Wan\n\nTheme\nCharacteristic Classes\n\n\nAbstract\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\nVideo\nVideo 2025-04-19\n\n\nNotes\nNotes 2025-04-19\n\n\nResources\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+    "objectID": "Seminars/2025-06-07.html",
+    "href": "Seminars/2025-06-07.html",
+    "title": "Jun 07, 2025",
+    "section": "",
+    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-05-06.html",
-    "href": "Seminars/2025-05-06.html",
-    "title": "May 06, 2025",
+    "objectID": "Seminars/2025-06-07.html#speaker",
+    "href": "Seminars/2025-06-07.html#speaker",
+    "title": "Jun 07, 2025",
     "section": "",
-    "text": "Yiming Teng\n\n\nWess-Zumino Condition\n\n\n\nWe began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.\n\n\n\nVideo 2025-05-06\n\n\n\nNotes 2025-05-06\n\n\n\n\nThe Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)\nGeometry, Topology and Physics (Mikio Nakahara)"
+    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-05-06.html#speaker",
-    "href": "Seminars/2025-05-06.html#speaker",
-    "title": "May 06, 2025",
+    "objectID": "Seminars/2025-09-27.html",
+    "href": "Seminars/2025-09-27.html",
+    "title": "Sep 27, 2025",
     "section": "",
-    "text": "Yiming Teng\n\n\nWess-Zumino Condition\n\n\n\nWe began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.\n\n\n\nVideo 2025-05-06\n\n\n\nNotes 2025-05-06\n\n\n\n\nThe Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)\nGeometry, Topology and Physics (Mikio Nakahara)"
+    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-11-29.html",
-    "href": "Seminars/2025-11-29.html",
-    "title": "Nov 29, 2025",
+    "objectID": "Seminars/2025-09-27.html#speaker",
+    "href": "Seminars/2025-09-27.html#speaker",
+    "title": "Sep 27, 2025",
     "section": "",
-    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (1)\n\n\n\nIn this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with \\(U_q(\\mathfrak{sl}_2)\\) symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.\n\n\n\n\nVideo 2025-11-29\n\n\n\n\n\nNotes 2025-11-29\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
+    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-11-29.html#speaker",
-    "href": "Seminars/2025-11-29.html#speaker",
-    "title": "Nov 29, 2025",
+    "objectID": "Seminars/2025-10-11.html",
+    "href": "Seminars/2025-10-11.html",
+    "title": "Oct 11, 2025",
     "section": "",
-    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (1)\n\n\n\nIn this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with \\(U_q(\\mathfrak{sl}_2)\\) symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.\n\n\n\n\nVideo 2025-11-29\n\n\n\n\n\nNotes 2025-11-29\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
+    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+  },
+  {
+    "objectID": "Seminars/2025-10-11.html#speaker",
+    "href": "Seminars/2025-10-11.html#speaker",
+    "title": "Oct 11, 2025",
+    "section": "",
+    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
     "objectID": "Seminars/2025-08-23.html",
@@ -756,60 +777,81 @@
     "text": "Xianfeng Jiang\n\n\nIntroduction to Clifford algebra\n\n\n\nThis talk is devoted to the basic algebraic ingredients of spin geometry: Clifford algebras and spin groups. Clifford algebras are naturally associated to vector spaces endowed with symmetric bilinear forms. The Clifford algebra of the n-dimensional Euclidean space contains the spin group \\(Spin(n)\\), which is the 2-fold cover of the special orthogonal group \\(SO(n)\\) for \\(n \\ge 3\\). We study the concept of Clifford algebras and highlight some of their important properties.\n\n\n\nVideo 2025-09-01\n\n\n\nNotes 2025-09-01\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-10-11.html",
-    "href": "Seminars/2025-10-11.html",
-    "title": "Oct 11, 2025",
+    "objectID": "Seminars/2026-01-17.html",
+    "href": "Seminars/2026-01-17.html",
+    "title": "Jan 17, 2026",
     "section": "",
-    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Liang Kong\n\n\nReturning to the Beauty of Mathematical Structure and the Depth of Natural Philosophy\n\n\n\nThe world is not lacking in technical talks. There are already more than enough of them on YouTube. Instead, I would like to give a talk with no technical details, focusing on ideas rather than calculations. The talk will be interactive and aimed in particular at young people who are still early in their journey into mathematical physics. I would like to discuss several pressing questions that concern every practitioner of mathematical physics, such as how to choose one’s research direction. To seriously address such questions, it is not enough to have a deep understanding of oneself; one must also develop a deep understanding of the era we live in—its defining characteristics, its challenges, and its opportunities.\n\n\n\n\nVideo 2026-01-17\n\n\n\n\n\nNotes 2026-01-17\n\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-10-11.html#speaker",
-    "href": "Seminars/2025-10-11.html#speaker",
-    "title": "Oct 11, 2025",
+    "objectID": "Seminars/2026-01-17.html#speaker",
+    "href": "Seminars/2026-01-17.html#speaker",
+    "title": "Jan 17, 2026",
     "section": "",
-    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Liang Kong\n\n\nReturning to the Beauty of Mathematical Structure and the Depth of Natural Philosophy\n\n\n\nThe world is not lacking in technical talks. There are already more than enough of them on YouTube. Instead, I would like to give a talk with no technical details, focusing on ideas rather than calculations. The talk will be interactive and aimed in particular at young people who are still early in their journey into mathematical physics. I would like to discuss several pressing questions that concern every practitioner of mathematical physics, such as how to choose one’s research direction. To seriously address such questions, it is not enough to have a deep understanding of oneself; one must also develop a deep understanding of the era we live in—its defining characteristics, its challenges, and its opportunities.\n\n\n\n\nVideo 2026-01-17\n\n\n\n\n\nNotes 2026-01-17\n\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-09-27.html",
-    "href": "Seminars/2025-09-27.html",
-    "title": "Sep 27, 2025",
+    "objectID": "Seminars/2025-11-29.html",
+    "href": "Seminars/2025-11-29.html",
+    "title": "Nov 29, 2025",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (1)\n\n\n\nIn this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with \\(U_q(\\mathfrak{sl}_2)\\) symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.\n\n\n\n\nVideo 2025-11-29\n\n\n\n\n\nNotes 2025-11-29\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
   },
   {
-    "objectID": "Seminars/2025-09-27.html#speaker",
-    "href": "Seminars/2025-09-27.html#speaker",
-    "title": "Sep 27, 2025",
+    "objectID": "Seminars/2025-11-29.html#speaker",
+    "href": "Seminars/2025-11-29.html#speaker",
+    "title": "Nov 29, 2025",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (1)\n\n\n\nIn this talk, I will give an introductory overview of quantum field theories whose global symmetries are described by quantum groups rather than ordinary groups. I will explain why operators in such theories often become non-local and can be understood as endpoints of topological line operators. Using a simple example with \\(U_q(\\mathfrak{sl}_2)\\) symmetry, we will see how quantum groups constrain correlation functions and how these ideas help solve the model.\n\n\n\n\nVideo 2025-11-29\n\n\n\n\n\nNotes 2025-11-29\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
   },
   {
-    "objectID": "Seminars/2025-06-07.html",
-    "href": "Seminars/2025-06-07.html",
-    "title": "Jun 07, 2025",
+    "objectID": "Seminars/2025-05-06.html",
+    "href": "Seminars/2025-05-06.html",
+    "title": "May 06, 2025",
     "section": "",
-    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
+    "text": "Yiming Teng\n\n\nWess-Zumino Condition\n\n\n\nWe began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.\n\n\n\nVideo 2025-05-06\n\n\n\nNotes 2025-05-06\n\n\n\n\nThe Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)\nGeometry, Topology and Physics (Mikio Nakahara)"
   },
   {
-    "objectID": "Seminars/2025-06-07.html#speaker",
-    "href": "Seminars/2025-06-07.html#speaker",
-    "title": "Jun 07, 2025",
+    "objectID": "Seminars/2025-05-06.html#speaker",
+    "href": "Seminars/2025-05-06.html#speaker",
+    "title": "May 06, 2025",
     "section": "",
-    "text": "Ran Luo\n\n\nBrief Introduction to SymTFT\n\n\n\nIn this talk, we first introduced the general principles of Symmetry Topological Field Theory (SymTFT), from which its possible forms can be derived. We then presented two complementary descriptions of SymTFT: one based on Lagrangian topological field theories and the other in categorical language. The appropriate contexts and advantages of each formulation were discussed, with a simple example involving a \\(\\mathbb{Z}_2\\) 0-form symmetry used to illustrate both approaches in detail. Finally, we explored an application of SymTFT to phase classification via categorical Landau paradigms, highlighting its advancement over traditional Landau theory in systematically classifying symmetry-protected topological (SPT) and symmetry-enriched topological (SET) phases.\n\n\n\nVideo 2025-06-07\n\n\n\nNotes 2025-06-07\n\n\n\n/"
+    "text": "Yiming Teng\n\n\nWess-Zumino Condition\n\n\n\nWe began by discussing gauge anomalies in chiral gauge theories and introduced the Wess–Zumino consistency condition as a constraint on admissible anomalies. This condition was then reformulated using the BRST operator, providing a cohomological perspective. Next, we introduced the descent equations and constructed anomaly terms in even-dimensional spacetimes by descending from higher-dimensional Chern characters, ensuring compatibility with the Wess–Zumino condition. This led to the establishment of a deep connection between chiral fermion theories on even-dimensional boundaries and Chern–Simons theories in the bulk.\n\n\n\nVideo 2025-05-06\n\n\n\nNotes 2025-05-06\n\n\n\n\nThe Structure of Gauge and Gravitational Anomalies (Luis Álvarez-Gaumé, Paul H. Ginsparg)\nGeometry, Topology and Physics (Mikio Nakahara)"
   },
   {
-    "objectID": "Seminars/2025-09-06.html",
-    "href": "Seminars/2025-09-06.html",
-    "title": "Sep 06, 2025",
+    "objectID": "Seminars/2025-04-19.html",
+    "href": "Seminars/2025-04-19.html",
+    "title": "Apr 19, 2025",
     "section": "",
-    "text": "Junchen Rong\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\n\n\n\nIrrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling \\(N\\geq2\\) golden anyon chains together, preserving \\(N\\) copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. As a byproduct of our analysis, we provide an extensive list of rational CFTs with \\(1&lt;c&lt;2.1\\).\n\n\n\nVideo 2025-09-06\n\n\n\nNon-rational CFT from Coupled Anyon Chains\n\n\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?"
+    "text": "Xianfeng Jiang\n\n\nChern-Weil Theorem\n\n\n\nWe began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural \\(\\mathbb{Z}_2\\)-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the \\(\\mathbb{Z}_2\\)-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-09-06.html#speaker",
-    "href": "Seminars/2025-09-06.html#speaker",
-    "title": "Sep 06, 2025",
+    "objectID": "Seminars/2025-04-19.html#speaker-1",
+    "href": "Seminars/2025-04-19.html#speaker-1",
+    "title": "Apr 19, 2025",
     "section": "",
-    "text": "Junchen Rong\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\n\n\n\nIrrational CFTs in 1+1d with a discrete spectrum and no conserved currents other than the stress-tensor are expected to be generic, unsolvable by standard methods, and hard to construct explicitly. We introduce a lattice model that realizes a candidate for such a CFT as a conformal phase of matter without fine-tuning. The model is constructed by coupling \\(N\\geq2\\) golden anyon chains together, preserving \\(N\\) copies of the Fibonacci non-invertible symmetry. We use the MPS/DMRG approach to study this model numerically, which allows us to calculate the corresponding conformal data, obtaining hints of its irrationality. As a byproduct of our analysis, we provide an extensive list of rational CFTs with \\(1&lt;c&lt;2.1\\).\n\n\n\nVideo 2025-09-06\n\n\n\nNon-rational CFT from Coupled Anyon Chains\n\n\n\n\nIrrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?"
+    "text": "Xianfeng Jiang\n\n\nChern-Weil Theorem\n\n\n\nWe began by reviewing the theory of de Rham cohomology and then introduced the notions of super vector spaces and super algebras. Building on the natural \\(\\mathbb{Z}_2\\)-grading of these structures, we extended the concept to vector bundles over manifolds, leading to the definitions of super vector bundles and super algebras of sections, along with their basic properties. We then generalized the classical notion of a connection on a vector bundle to the \\(\\mathbb{Z}_2\\)-graded setting via the Quillen superconnection. Within this framework, we presented and proved the Chern–Weil theorem for characteristic classes. Super vector bundles and their connections serve as a foundational tool in the study of the Atiyah–Singer Index Theorem.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n/"
+  },
+  {
+    "objectID": "Seminars/2025-04-19.html#speaker-2",
+    "href": "Seminars/2025-04-19.html#speaker-2",
+    "title": "Apr 19, 2025",
+    "section": "Speaker 2",
+    "text": "Speaker 2\nYiyi Wan\n\nTheme\nCharacteristic Classes\n\n\nAbstract\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\nVideo\nVideo 2025-04-19\n\n\nNotes\nNotes 2025-04-19\n\n\nResources\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+  },
+  {
+    "objectID": "Seminars/2026-01-11.html",
+    "href": "Seminars/2026-01-11.html",
+    "title": "Jan 11, 2026",
+    "section": "",
+    "text": "Yutai Zhang\n\n\nAn Introduction to Topological String Theory (2): Topological Sigma Model and Topological String\n\n\n\nIn this talk, I will explain some basic concepts of \\(2d\\) topological sigma model and topological string theory, focusing on the case where the target space is a compact Calabi–Yau manifold. In this setting, the topological sigma model can be constructed via topological twist of the \\(2d\\) \\(N=(2,2)\\) nonlinear sigma model. The Hilbert space of the theory is known, and the computation of correlation functions can be reduced to geometric quantities of the target space. I will then explain how to couple the sigma model to topological gravity to formulate topological string theory, what quantities we compute in the theory, and their relation to the prepotential of \\(4d\\) \\(N=2\\) supergravity in type II compactifications.\n\n\n\n\nVideo 2026-01-11\n\n\n\n\n\nNotes 2026-01-11\n\n\n\n\n/"
+  },
+  {
+    "objectID": "Seminars/2026-01-11.html#speaker",
+    "href": "Seminars/2026-01-11.html#speaker",
+    "title": "Jan 11, 2026",
+    "section": "",
+    "text": "Yutai Zhang\n\n\nAn Introduction to Topological String Theory (2): Topological Sigma Model and Topological String\n\n\n\nIn this talk, I will explain some basic concepts of \\(2d\\) topological sigma model and topological string theory, focusing on the case where the target space is a compact Calabi–Yau manifold. In this setting, the topological sigma model can be constructed via topological twist of the \\(2d\\) \\(N=(2,2)\\) nonlinear sigma model. The Hilbert space of the theory is known, and the computation of correlation functions can be reduced to geometric quantities of the target space. I will then explain how to couple the sigma model to topological gravity to formulate topological string theory, what quantities we compute in the theory, and their relation to the prepotential of \\(4d\\) \\(N=2\\) supergravity in type II compactifications.\n\n\n\n\nVideo 2026-01-11\n\n\n\n\n\nNotes 2026-01-11\n\n\n\n\n/"
   },
   {
     "objectID": "Seminars/2025-04-05.html",
@@ -868,32 +910,46 @@
     "text": "Shang Liu\n\n\nAll’s Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects\n\n\n\nA challenge in the study of conformal field theory (CFT) is to characterize the possible defects in specific bulk CFTs. Given the success of numerical bootstrap techniques applied to the characterization of bulk CFTs, it is desirable to develop similar tools to study conformal defects. In this work, we successfully demonstrate this possibility for endable conformal line defects. We achieve this by incorporating the endpoints of a conformal line defect into the numerical four-point bootstrap and exploit novel crossing symmetry relations that mix bulk and defect CFT data in a way that further possesses positivity, so that rigorous numerical bootstrap techniques are applicable. We implement this approach for the pinning field line defect of the3dIsing CFT, obtaining estimates of its defect CFT data that agree well with other recent estimates, particularly those obtained via the fuzzy sphere regularization. An interesting consequence of our bounds is nearly rigorous evidence that theZ2-symmetric defect exhibiting long range order obtained as a direct sum of two conjugate pinning field defects is unstable to domain wall proliferation.\n\n\n\nVideo 2025-10-18\n\n\n\nSlides 2025-10-18\n\n\n\n\nThe Beginning of the Endpoint Bootstrap for Conformal Line Defects (Ryan A. Lanzetta, Shang Liu, Max A. Metlitski)"
   },
   {
-    "objectID": "Seminars/2025-03-29.html",
-    "href": "Seminars/2025-03-29.html",
-    "title": "Mar 29, 2025",
+    "objectID": "Seminars/2025-12-27.html",
+    "href": "Seminars/2025-12-27.html",
+    "title": "Dec 27, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\nWe began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
+    "text": "Chen Wei\n\n\nAn Introduction to Topological String Theory (1)\n\n\n\nWe discuss Marcos Mariño’s notes from the introduction up to Section 3.2, covering Calabi–Yau manifolds and the A-model, without yet discussing the physical motivations.\n\n\n\n\nVideo 2025-12-20\n\n\n\n\n/\n\n\n\n\nAn Introduction to Topological String Theory (Marcos Marĩno)"
   },
   {
-    "objectID": "Seminars/2025-03-29.html#speaker",
-    "href": "Seminars/2025-03-29.html#speaker",
-    "title": "Mar 29, 2025",
+    "objectID": "Seminars/2025-12-27.html#speaker",
+    "href": "Seminars/2025-12-27.html#speaker",
+    "title": "Dec 27, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nChiral Anomaly\n\n\n\nWe began by reviewing the derivation of Noether’s theorem in classical field theory, and then introduced the Ward identity in the context of quantum field theory. Using the example of a massless Dirac fermion, we investigated the emergence of the chiral anomaly and analyzed the breaking of axial symmetry, leading to a non-vanishing divergence of the conserved current. This phenomenon is then connected to the Atiyah–Singer index theorem, allowing us to compute the partition function on a compact 4d manifold without gravity. Finally, we applied the generalized Atiyah–Patodi–Singer index theorem to extend our conclusions to the case of 3+1d topological insulators.\n\n\n\nVideo 2025-03-29\n\n\n\nNotes 2025-03-29\n\n\n\n\nGauge Theory (David Tong)\nTopological Field Theory of Time-Reversal Invariant Insulators (Xiao-Liang Qi, Taylor Hughes and Shou-Cheng Zhang)"
+    "text": "Chen Wei\n\n\nAn Introduction to Topological String Theory (1)\n\n\n\nWe discuss Marcos Mariño’s notes from the introduction up to Section 3.2, covering Calabi–Yau manifolds and the A-model, without yet discussing the physical motivations.\n\n\n\n\nVideo 2025-12-20\n\n\n\n\n/\n\n\n\n\nAn Introduction to Topological String Theory (Marcos Marĩno)"
   },
   {
-    "objectID": "Seminars/2025-07-26.html",
-    "href": "Seminars/2025-07-26.html",
-    "title": "Jul 26, 2025",
+    "objectID": "Seminars/2025-11-01.html",
+    "href": "Seminars/2025-11-01.html",
+    "title": "Nov 01, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\nVideo 2025-11-01\n\n\n\n\n\nSlides 2025-11-01\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
   },
   {
-    "objectID": "Seminars/2025-07-26.html#speaker",
-    "href": "Seminars/2025-07-26.html#speaker",
-    "title": "Jul 26, 2025",
+    "objectID": "Seminars/2025-11-01.html#speaker",
+    "href": "Seminars/2025-11-01.html#speaker",
+    "title": "Nov 01, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+    "text": "Zheng Zhou\n\n\nAn Introduction to Studying 3D CFTs on the Fuzzy Sphere\n\n\n\nConformal field theories are central to modern condensed matter and high energy physics. Their solutions in space-time dimensions higher than two remain challenging. The fuzzy sphere regularisation is a recently-proposed method to address this problem. In this talk, I will introduce how fuzzy sphere helps studying CFTs in 3D through the simplest example of the 3D Ising CFT. I will then review its development since the proposal. This talk will be partly based on arXiv:2503.00100.\n\n\n\n\nVideo 2025-11-01\n\n\n\n\n\nSlides 2025-11-01\n\n\n\n\n\nA New Series of 3D CFTs with \\(Sp(N)\\) Global Symmetry on Fuzzy Sphere（Zheng Zhou, Yin-Chen He）\nFuzzifiED : Julia Package for Numerics on the Fuzzy Sphere (Zheng Zhou)"
+  },
+  {
+    "objectID": "Seminars/2025-08-16.html",
+    "href": "Seminars/2025-08-16.html",
+    "title": "Aug 16, 2025",
+    "section": "",
+    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
+  },
+  {
+    "objectID": "Seminars/2025-08-16.html#speaker",
+    "href": "Seminars/2025-08-16.html#speaker",
+    "title": "Aug 16, 2025",
+    "section": "",
+    "text": "Xingyu Chen\n\n\nThe Analysis of Dirac-type Operators\n\n\n\nThis lecture, based on the second half part of Chapter 1 of Christian Bär’s Spin Geometry, introduces topics related to the Dirac operator and Hodge theory. After introducing the fundamental concepts, the speaker discusses and analyzes special inequalities involving the Dirac operator as well as the direct sum decomposition of the related spaces. Additionally, using concrete examples of the Euler operator and Dolbeault operator, the speaker presented the specific applications of relevant theorems and lemmas. At the same time, the speaker connected the abstract mathematical concepts in the book with corresponding physical images, explaining their concrete connections to real-world physical problems.\n\n\n\nVideo 2025-08-16\n\n\n\nNotes 2025-08-16\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
     "objectID": "Seminars/2025-10-25.html",
