@@ -1,0 +1,21 @@
+---
+title: "Feb 07, 2026"
+---
+
+## Speaker
+Ruizhi Liu
+
+### Theme
+Anomalous Symmetries in Mixed-state Phases: a Perspective from Operator Algebras
+
+### Abstract
+We extend the notion of strong symmetry to infinite-volume quantum systems, where states need not be described by density operators. We establish several equivalent characterizations of strong symmetry—most notably in terms of local order parameters—and show their consistency with conventional finite-volume definitions. This framework allows a precise characterization of strong-to-weak spontaneous symmetry breaking using local operators. Finally, we introduce von Neumann symmetries, a natural generalization of strong symmetries that accommodates anti-unitary symmetries, and derive a Lieb–Schultz–Mattis type anomaly constraint for such symmetries in quantum spin chains. This talk is based on my joint work with Jinmin Yi and Dominic Else (to appear on arXiv).
+
+### Video  
+- [Video 2026-02-07](https://drive.google.com/file/d/1FgK7uY5zE2PEvUBHUu571MnalBzt-LAd/view?usp=sharing)
+
+### Notes  
+- [Slides 2026-02-07](https://drive.google.com/file/d/10SDCV8g54jZENIVl9QnbhIp4cGjZoJkp/view?usp=sharing)
+
+### Resources
+/

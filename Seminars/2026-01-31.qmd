@@ -1,0 +1,22 @@
+---
+title: "Jan 31, 2026"
+---
+
+## Speaker
+Weicheng Ye
+
+### Theme
+Symmetric Gapped States and Symmetry-Enforced Gaplessness in 3-dimension
+
+### Abstract
+We establish a comprehensive framework for characterizing the infrared (IR) phases of a fermionic quantum theory in three spatial dimensions, based on its quantum anomalies associated with a finite symmetry. We uncover a fundamental dichotomy among these anomalies: the first class of anomalies can always be realized by symmetric gapped states, while the second class can never be realized by gapped states without breaking the given symmetry, establishing the phenomenon of symmetry-enforced gaplessness in these settings. Moreover, we write down the candidate gapped states that theories with the first class of anomalies can flow to in the IR. As an application, we provide concrete predictions of the IR phases of (3+1)-dimensional gauge theories based on our results. Our results also suggest that systems with discrete chiral anomalies cannot be gapped out by adding arbitrary bosonic degrees of freedom.
+
+### Video  
+- [Video 2026-01-31](https://drive.google.com/file/d/1QBeSE_fZ4JXtQc8XL584fPmQOfs0jh6A/view?usp=sharing)
+
+### Notes  
+- [Notes 2026-01-31](https://drive.google.com/file/d/1M8FBLFeakmprDx8vPABwUKz-8a3LqPQw/view?usp=sharing)
+
+### Resources
+- [How to Build Anomalous (3+1)d Topological Quantum Field Theories (Arun Debray, Weicheng Ye, Matthew Yu)](https://arxiv.org/abs/2510.24834)
+- [Symmetric Gapped States and Symmetry-Enforced Gaplessness in 3-dimension (Arun Debray, Matthew Yu, Weicheng Ye)](https://arxiv.org/abs/2602.12335)
