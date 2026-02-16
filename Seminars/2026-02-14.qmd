@@ -1,0 +1,23 @@
+---
+title: "Feb 14, 2026"
+---
+
+## Speaker
+Linhao Li
+
+### Theme
+Non-Invertible Kennedy-Tasaki Transformation and Applications to Gapless-SPT
+
+### Abstract
+In this talk, I propose a way to define the Kennedy-Tasaki Transformation on a closed chain, by sacrificing unitarity. The operator realizing such a non-unitary transformation satisfies non-invertible Rep D8 fusion rule, and implements a generalized gauging of the Z_2×Z_2 global symmetry. By choosing free boundary on the open chain, this generalization will reduce to the original KT transformation. Besides, we further apply the KT transformation to systematically construct gapless symmetry protected topological phases. This construction reproduces the known examples of (intrinsically) gapless SPT where the non-trivial topological features come from the gapped sectors by means of decorated defect constructions. If time allows, I will also briefly talk about how this KT duality construct noninvertible gapped SPT and gapless SPTs.
+
+### Video  
+- [Video 2026-02-14](https://drive.google.com/file/d/1Y7cim0IEGMw75aQiRGm0fvm74mk7zfDf/view?usp=sharing)
+
+### Notes  
+- [Slides 2026-02-14](https://drive.google.com/file/d/13c_7F2mfBsEVuIHCS4aOF3O2CW1dbsUL/view?usp=sharing)
+
+### Resources
+- [Non-Invertible Duality Transformation Between SPT and SSB Phases (Linhao Li, Masaki Oshikawa, Yunqin Zheng)](https://arxiv.org/abs/2301.07899)
+- [Intrinsically/Purely Gapless-SPT from Non-Invertible Duality Transformations (Linhao Li, Masaki Oshikawa, Yunqin Zheng)](https://arxiv.org/abs/2307.04788)
+- [Noninvertible Symmetry-Enriched Quantum Critical Point (Linhao Li, Rui-Zhen Huang, Weiguang Cao)](https://arxiv.org/abs/2411.19034)

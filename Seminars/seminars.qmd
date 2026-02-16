@@ -42,3 +42,6 @@ title: "Seminars"
 - [Jan 11, 2026: An Introduction to Topological String Theory (2): Topological Sigma Model and Topological String](2026-01-11.qmd)
 - [Jan 17, 2026: Returning to the Beauty of Mathematical Structure and the Depth of Natural Philosophy](2026-01-17.qmd)
 - [Jan 24, 2026: Some Spectral Theory Problems in Condensed Matter Physics](2026-01-24.qmd)
+- [Jan 31, 2026: Symmetric Gapped States and Symmetry-Enforced Gaplessness in 3-dimension](2026-01-31.qmd)
+- [Feb 07, 2026: Anomalous Symmetries in Mixed-state Phases: a Perspective from Operator Algebras](2026-02-07.qmd)
+- [Feb 14, 2026: Non-Invertible Kennedy-Tasaki Transformation and Applications to Gapless-SPT](2026-02-14.qmd)
